@@ -7,7 +7,8 @@ categories:
 Image test
 
 
+An image test 1: ![Flett Glacier](C:\Users\William Young Wu\Desktop\2022PersonalCommand\TotalPhotos\GitHubBlog\signal-2022-10-25-000820_003)
 
+An image test 2: ![Flett Glacier](C:/Users/William Young Wu/Desktop/2022PersonalCommand/TotalPhotos/GitHubBlog/signal-2022-10-25-000820_003)
 
-An image: ![Flett Glacier](GitHubBlog/signal-2022-10-25-000820_003.jpeg)
 
