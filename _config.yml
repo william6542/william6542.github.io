@@ -19,9 +19,9 @@
 # in the templates via {{ site.myvariable }}.
 
 title: Bibliothēca Williamae
-email: william6542@gmail.com
+email: 
 description: >- # this means to ignore newlines until "baseurl:"
-  A digital collection of William's personal works, such as book reviews, strategic analyses, hike trips, photos, gear reviews, and so on. 
+  William's digital library. 
 baseurl: "/william_y_y_y" # the subpath of your site, e.g. /blog
 url: "localhost:4000" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: N/A
