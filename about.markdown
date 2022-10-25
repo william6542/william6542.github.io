@@ -19,7 +19,7 @@ All writing and images here are property and copyright of William Wu. Any links 
 
 
 
-Resources for myself: 
+Resources for myself:  
 [This is a link to markdown syntax for bold, italics, images etc formatting](https://kramdown.gettalong.org/quickref.html#links-and-images)
 
 

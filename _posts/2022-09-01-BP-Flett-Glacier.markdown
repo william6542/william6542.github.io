@@ -6,14 +6,11 @@ categories:
 ---
 2022 Aug 31 - 2022 Sept 1
 
-19 Miles
-
+19 Miles  
 5355 Feet Elevation Gain
 
-Two days one night backpacking trip at Mount Rainier. 
-
-Day 1: Started at Mowich Lake Trailhead. Went along Spray Park route, camped at Cataract Valley. 
-
+Two days one night backpacking trip at Mount Rainier:  
+Day 1: Started at Mowich Lake Trailhead. Went along Spray Park route, camped at Cataract Valley.  
 Day 2: Returned up to Spray Park, went on detour ridge route to Flett Glacier. Then returned to parking lot, and went home. 
 
 ## Day 1
