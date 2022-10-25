@@ -12,6 +12,7 @@ I currently live somewhere along the I-5.
 
 This website shall be a bridge between the private and the public, a bridge between digital and physical, a bridge between old and new. Perhaps it will provide you with a view not seen before. 
 
+All writing and images here are property and copyright of William Wu. Any links to other websites are not overseen by me, unless otherwise noted. 
 
 
 
