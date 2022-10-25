@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Hoh River, Blue Glacier"
+title:  "Backpacking Hoh River, Blue Glacier"
 date:   2022-09-13 20:58:58 -0700
 categories: 
 ---
@@ -50,7 +50,7 @@ Elk Lake is not pretty. The campground near it is also nasty. The camping area p
 
 I was distraught at having to camp with a bunch of frat bros who kept yelling and partying. So I decided to look around. Luckily I found a spot along the side of a ridge, enough for one small tent. A mom and son were camped there, and they offered the spot to me, as they had just come back from the Glacier, and were leaving. They said to me, are you going up now? It was 3pm. I said no, why rush? They smiled and said, yes, you are totally right, those frat bros who just went up are crazy, what's the point of going up if you don't sit and enjoy it? 
 
-I sat around and read The Grand Sophy. Then dinner, then sleep. Ready for tomorrow. 
+I sat around and read The Grand Sophy. Then dinner, then sleep. During the night I heard some stomping, it was a bear. But it sniffed my tent and then left. 
 
 Elk Lake:
 ![Elk Lake](/assets/hoh8.jpeg)
@@ -64,7 +64,7 @@ From the sketch ridge, looking towards Mt Tom and White Glacier:
 Ladder of Doom:
 ![Ladder of doom](/assets/hoh10.jpeg)
 
-This was the ladder that the ranger warned about. I had brought tactical gloves specifically for it. It was a very steep, 45 degree, maybe more, descent down a dirt gully, 100 feet. The area had washed out more than 15 years ago. I slid down the gully, while keeping my left hand on the ladder wire. My pants got very dirty and so did my bag. But I made it. My body took no damage. It was quite dangerous, but also very exciting. I felt like my skill and mental steadfastness were paying off. My planning was working. And in any case, I knew I had to make it. There was no turning back. If I turned back, how could I live up to myself? If two old men could make it, if an old lady could make it, then I had to make it. I had already come 20 miles deep into the forest, I had to go to the end. So I did. As I climbed back up the other side, the two old men who I was thinking of as encouragement suddenly appeared! They said, you made it across! Yes I did. 
+This was the ladder that the ranger warned about. I had brought tactical gloves specifically for it. It was a very steep, 45 degree, maybe more, descent down a dirt gully, 100 feet. The area had washed out in a massive flood/mudslide more than 15 years ago. I slid down the gully, while keeping my left hand on the ladder wire. My pants got very dirty and so did my bag. But I made it. My body took no damage. It was quite dangerous, but also very exciting. I felt like my skill and mental steadfastness were paying off. My planning was working. And in any case, I knew I had to make it. There was no turning back. If I turned back, how could I live up to myself? If two old men could make it, if an old lady could make it, then I had to make it. I had already come 20 miles deep into the forest, I had to go to the end. So I did. As I climbed back up the other side, the two old men who I was thinking of as encouragement suddenly appeared! They said, you made it across! Yes I did. 
 
 The section through the Meadows campground was quick. I reached the exposed rock line. This was the final trail up to the glacier moraine ridge. It was tough. An hour of up. But my body wasn't in pain. I made it up quickly. It got windier and windier. It got colder and colder. Then I crested the final ridge. No, it couldn't be. It was there. It was beautiful. It was unlike anything I'd ever seen. I was in tears, cried like I don't know since when. But tears of joy, and the emptiness now gone. My first multi day long backpacking trip, and all alone! All alone, all alone! No one to cover for me, no one to boost my morale, no one else to talk to. There was no one else on the ridge. How can I describe that feeling, the feeling of having made it to such a terrific and beautiful and deathly place, yet also a place that was home beyond home? There, the Olympic Mountains, and Blue Glacier, snow and clouds, in front of me. 
 
@@ -93,7 +93,7 @@ Brian and Chabert on Blue Glacier:
 
 
 
-
+Remember to talk about the bears on Night 3, and the pot banging at midnight because people had to scare the bears away. 
 
 
 THIS STORY IS UNFINISHED. WORK IN PROGESS. 

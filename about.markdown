@@ -22,10 +22,10 @@ All writing and images here are property and copyright of William Wu. Any links 
 Resources for myself:  
 [This is a link to markdown syntax for bold, italics, images etc formatting](https://kramdown.gettalong.org/quickref.html#links-and-images)
 
-[Visual Studio getting started papge]  
+[Visual Studio getting started papge]
 (https://code.visualstudio.com/docs/?dv=win)
 
-[Jekyll posts page, images and documents]  
+[Jekyll posts page, images and documents]
 (https://jekyllrb.com/docs/posts/#including-images-and-resources)
 
 
