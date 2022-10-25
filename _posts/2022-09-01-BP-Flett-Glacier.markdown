@@ -37,7 +37,7 @@ Glorious Flett Glacier:
 Looking at Echo Rock:
 ![Flett Glacier](/assets/IMG_2403.jpg)
 
-Looking down the mountain:
+Looking down the mountain, into the smoke and sky:
 ![Flett Glacier](/assets/IMG_2401.jpg)
 
 The hypnotizing cold:
@@ -48,7 +48,8 @@ From the lake:
 
 I sat up there, listening to Masayoshi Takanaka, specifically, [Blue Curacao](https://www.youtube.com/watch?v=XhpCtqxttuU)! On the small ridgeline, it was hot. I considered going further up, as it looked possible, but I chose not to, since this was my first backpacking trip in 5 years and I didn't want to over do it. Plus, the scree looked even steeper and the drops on either side even longer. Anyways the view here was amazing, and I was all alone, so I just lay there sunning, listening to the infinite glacier. Then it got too too hot, and I moved down to the ice ridge and lake. It was so cold so cold. Amazing. I forgot to bring my filter, I left it with the main pack, so I didn't get any ice water. Oh well. 
 
-In total, I sat up there for three hours. Some people like to go fast, I just think, Ranier/Tahoma is so beautiful, why leave her? To sit down here, a beach in the sky, why rush? I closed my eyes, and I drifted away. 
+In total, I sat up there for three hours. Some people like to go fast, I just think, Ranier/Tahoma is so beautiful, why leave her? To sit down here, a beach in the sky, why rush? I closed my eyes, and I drifted away.  
+When I woke up, I noticed that the smoke was starting to close in from all the wildfires this year. I knew I was very lucky to have gotten two days with very little smoke. It seemed the smoke was keeping away from Rainier from the sheer power of the mountain. Or pobably just winds. In any case, the delineation between smoke and sky was very unworldly. 
 
 The return back to the car was tiresome, and hard, but I made it, and it was good. My legs were dead. This would be a good first backpacking trip. I could feel it. And so the Summer, as late as it was, (due to me doing stuff I was told to do but didn't want to do), started for me in earnest. 
 
