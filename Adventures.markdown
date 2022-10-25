@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Backpacking Hiking
-permalink: /Backpacking Hiking/
+title: Adventures
+permalink: /Adventures/
 ---
 
 [Backpacking Flett Glacier]({% post_url 2022-09-01-BP-Flett-Glacier %})
