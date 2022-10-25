@@ -15,3 +15,12 @@ This website shall be a bridge between the private and the public, a bridge betw
 
 
 
+
+
+
+Resources for myself: 
+[This is a link to markdown syntax for bold, italics, images etc formatting](https://kramdown.gettalong.org/quickref.html#links-and-images)
+
+
+
+
