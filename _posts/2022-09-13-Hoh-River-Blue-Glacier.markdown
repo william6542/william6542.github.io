@@ -89,19 +89,49 @@ Fully clouded:
 Brian and Chabert on Blue Glacier:
 ![Hopping](/assets/hoh16.jpeg)
 
+As Brian and Chabert dissappeared into the fog, we decided it was about time to head back down. It was 4pm. I had stayed up there for five hours! An experience I will not soon forget. My main regret was not getting Brian or Chabert's number, so I could send them the binocular photos of them hopping on the glacier. The memory of my time up there is as vivid and alive as ever. 
+
+We descended, and at Meadows Camp junction, Cameron and his dad went on the other viewpoint trail, which was shorter, and at the base of the glacier. I tried to follow them, but realized that it would take another hour to do it. I was too tired. Also it was getting very dark, and I knew my speed would not be adequate, whereas Cameron and Bob were extremely fast hikers. So I turned around and headed back. Back at the ladder of doom, I was very scared. The ascent would be a climb up the ladder, and boy did it seem a lot steeper now. Luckily, a mom (50s) and her two kids (20s) just made it to the top. I yelled at them to watch for me, and they were nice enough to do so. I took very slow and deliberate steps, my pace was very slow. I was hugging the ladder extremely close. My gloves and arms were tight around the bars. A few times, my calves were cramping, and my thighs were tight from the very steep lunges upwards I had to make. Near the top, the ladder started losing tension against the ground, due to the anchor location. The final few feet required me to hop off and establish a foothold in the dirt. That was the scariest part. At this point I was nearly crawling. The family was giving me advice, telling me to be careful, telling me where to step. Finally, I made it. They patted me on my back and led me to a flat rock. I sat down, half panicking. 
+
+The way back to Elk Lake was uneventful. I often stopped to look again at the big trees that I would probably not see again for many decades. Our life, a long time to us, but passing by them, but a blip of a percentage of a shadow of their exsistence, those big trees, looking down at me, wondering why I was there, what I was doing, why I lived so rushedly (relatively speaking). I got some water at the stream before returning to my tent. I had a big dinner. Then Cameron and Bob happened on my hidden spot! We had a nie chat, I got their numbers. 
+
+Cameron and Bob:
+![Cameron Bob](/assets/IMG_3174.jpg)
+
+Then I went to sleep. Around midnight, there was loud pots clanging and yelling, I learned later that there was two black bears maurading the main camp. But I never felt them come near me. Another score for the Bearikade type canister. Much better. However, the night was very cold, it was getting colder, and my 45F North Face Sleeping bag wasn't doing it anymore. I spent the night shivering, and only got 4 hours of sleep. Luckily, The Grand Sophy kept me company, and I finished the book at 4am. 
+
+## Day 4
+I had planned to stay another night, but I knew it would only get colder. So I left early, at 6am, and made it my plan to rush back to the car. It would be a 16 mile day. I was very fast going down, I did the 3.5 miles in less than two hours. My body was sore, but I just kept going. I only stopped at Olympus Station to get more water from the river where I camped on the first night. While I was there, I saw a rainbow. I was all alone. 
+
+Olympus Station:
+![station](/assets/hoholympusstation.jpg)
+
+Rainbow at Olympus Campground!
+![Rainbow](/assets/hohrainbow.jpg)
+
+I sat around in the small drizzle, and refreshed myself. I washed my feet in the cold water. Then I kept going.  
+Eventually, I made it to Five Mile Island Campground. There was a bunch of people here, and the sun was shining brightly, finally. The river here was very shallow, and I set up a small outpost and went walking in the river. It was very very cold. Afterwards, I came back up to my outpost and lay on the ground, and took a two hour nap under the sun. I needed this rest badly. This was a beautiful spot. I wonder what Olympus Station would have been like if there had been sun. 
+
+At Five Mile Island:
+![Me and river](/assets/hoh1.jpeg)
+
+![river](/assets/5milehoh.jpg)
+
+![river](/assets/5milehoh2.jpg)
+
+Finally, I walked the last five miles back to the car. By this point I was very very sore. I met many many backpackers along the way , who were going in. This was a lesson learned again: beware of weekends, there are way too many people. Fridays and Saturdays are the worst. 
+
+Going home:
+![trees](/assets/hohforest.jpg)
+
+I breathed relief as I finally got to the visitor center. I sat on a bench thinking what I had just done! When suddenly, Cameron and Bob appeared! It turns out they had just made it half an hour ago, and were buying stickers from the visitor center! They were very delighted to see me, and so I them. We chatted again a bit, and I told them of my sleeping bag plight. It was good fun. Going back to the car I saw a big elk. It looked at me, and then ran away. I commenced the drive home. On the way, I listened to the album, Long Time Coming. The song, I think that exmplified the trip, was [At the End of the Rainbow](https://www.youtube.com/watch?v=pzXRmFsYXpE). 
+
+Since I had gotten out late, I didn't stop anywhere to get snacks or gas. I rushed to the ferry, passing all the beautiful places like Lake Crescent, places that I knew I had to come back to see. I got to the ferry at 9:30pm, to catch the second last ferry, which was quite empty. Very lucky. And to my surprise, I saw Cameron and Bob again!! hahaha. From Kingston I made it back to Edmonds. 
+
+Nearly empty ferry:
+![ferry](/assets/hoh2.jpeg)
+
+I arrived home at 11pm. What an adventure! 
 
 
 
-
-Remember to talk about the bears on Night 3, and the pot banging at midnight because people had to scare the bears away. 
-
-
-THIS STORY IS UNFINISHED. WORK IN PROGESS. 
-
-DRAFT SCRATCH WORK BELOW
-
-
-
-
-
-![Crossing the Sound](/assets/hoh2.jpeg)  #### replace this image, this is a place holder

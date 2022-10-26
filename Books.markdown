@@ -1,10 +1,11 @@
 ---
 layout: page
-title: Media
-permalink: /Media/
+title: Books
+permalink: /Books/
 ---
+The first update of this list is taken from my "books read" Word document.
 
-This is a list of all the media I have gone through. Books, movies, music. Mostly. Scrolling down will lead to the present. The first update of this list is taken from my "books read" Word document. That's why it is mostly books for now. You will also note that the closer to the present, the better my metadata indexing gets, as I slowly realize the importance of archiving my own personal relation to the media at hand. 
+Unlike most other pages, scrolling down will lead to the present; this reverse order is also a function of the fact that I coped this from my old Word Document.
 
 #### Before Reed
 Iliad  
