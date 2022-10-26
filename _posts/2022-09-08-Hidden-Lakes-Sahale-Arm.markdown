@@ -27,21 +27,21 @@ Going up:
 
 There were a lot of people. In fact, many of them coming down. It appears most people arrived very early, and either reached the top and got turned off by the smoke, so left early, or just backed out halfway due to the smoke. But I knew there was wind due this afternoon, and at least for three days straight, so I was betting on that. I kept going. Eventually, I could see the lookout teetering over what looked like an impossibly tall spire. I had to get up that? But I did. 
 
-View from the lookout:
+Inside the lookout:
 ![eldorado and hiddenlake](/assets/hl2.jpeg)
 
-Inside the lookout:
+View from mountaintop:
 ![insidelookout](/assets/HL3.jpeg)
 
 As I sat on the mountain side, waiting for the winds to come, I saw a little pyka. It kept looking at me. Menacingly. 
-![pikamenacingstare](/assets/hl4..jpeg)
+![pikamenacingstare](/assets/hl4.jpeg)
 
-Finally the winds cleared to the extent that I could make out El Dorado peak and glacier in the back. It was faint, but visible. A little bit dissappointing, and I wondered what it would have looked like without all the smoke. At this point around 4pm, I was the only one up here. The winds, despite blowing hard and trying their best, could not push away the smoke. I was getting cold. I decided I should start going down, since it was clear that the smoke was too heavy today. As I was going down, I met the backpacker who was walking on the road. He said he came all the way from Darrington, because last time he parked along the Cascade Pass Road his car was totally vandalized, burgalrized, and wrecked. He said never again. So he hiked the entire road and up to this lookout. I'm not sure if he was insane, traumatized, or just hardcore. He seemed very sketchy, so I decided to yeet out. In total, I spent from 1pm to 4pm up next to the lookout. 
+Finally the winds cleared to the extent that I could make out El Dorado Peak and Glacier in the back. It was faint, but visible. A little bit dissappointing, and I wondered what it would have looked like without all the smoke. At this point around 4pm, I was the only one up here. The winds, despite blowing hard and trying their best, could not push away the smoke. I was getting cold. I decided I should start going down, since it was clear that the smoke was too heavy today. As I was going down, I met the backpacker who was walking on the road. He said he came all the way from Darrington, because last time he parked along the Cascade Pass Road his car was totally vandalized, burgalrized, and wrecked. He said never again. So he hiked the entire road and up to this lookout. I'm not sure if he was insane, traumatized, or just hardcore. He seemed very sketchy, so I decided to yeet out. In total, I spent from 1pm to 4pm up next to the lookout. 
 
-On the way down, the western glaciers on El Dorado started appearing, and the view was good. I could finally see the far ridges and hills along the valley I came up. It was nice. I saw many blue butterflies and this creepy red black milipede with giant beak claws? 
+On the way down, the western glaciers on El Dorado started appearing, and the view was good. I could finally see the far ridges and hills along the valley I came up. It was nice. 
 ![less smoke](/assets/hl5.jpeg)
 
-Going back into the forest was nice, the air was cleaner, and the trail actually had some nice steps. Not having to walk on the degraded mud trail (due to heavy use) was a creature comfort. 
+Going back into the forest, the air was cleaner, and the trail had some nice walkways and stairs. Not having to walk on the degraded mud trail (due to heavy use) was a creature comfort. 
 ![wood steps](/assets/hl6.jpeg)
 
 Arriving at the car, I drove a half hour deeper into the Cascades, and arrived at Mineral Park Campground (East Section). There are four spots there, and I was the only one that night, despite each spot being reserved. I wonder if there should be a better way, people deserve to camp here, but at the same time, reservations are important. Perhaps there should be a rule that if a spot isn't taken by 9pm, it is now open to anyone. In any case, the quiet was nice. All to myself, this giant campground. And the pit toilet was the cleanest I have ever been to. It was incredible. Thank you, person who manages Mineral Park! 
@@ -52,12 +52,12 @@ Super clean toilet, literally no bugs, and nice fragrent smell:
 At night I considered what I should do the next day. The smoke was heavy, and the winds didn't blow it away today. But Sahale arm would be much higher, and much deeper into the mountains, so maybe the smoke was less thick? I didn't know what to do. I fell asleep. The next morning I just knew I had to go. I drove 3.5 hours out here already, and I camped here... So Sahale Arm had to be done! 
 
 ## Day 2
-I arrived at the famous Sahale Arm Trailhead at 9am. The parking lot was half full. The wind was very strong, even below the pass. Some of the people who arrived with me seemed visibly hesitant to go up. No. One had to go up. One was here. 
+I arrived at the famous Sahale Arm Trailhead at 9am. The parking lot was half full. The wind was very strong, even below the pass. Some of the people who arrived with me seemed visibly hesitant to go up. But I had to go up. 
 
 The scale of the valley before the pass is awesome. 
 ![Valley](/assets/arm1.jpeg)
 
-Going up the pass is long, the switchbacks take close to two hours, but the grade is safe and gentle. I keep yelling to scare off bears, as there was a report two weeks ago that Bear #380 was killed by Rangers because it kept maurading peoples' food. This meant that people here were not careful about their food. Which meant that a lot of bears were probably mauarding around. I kept yelling, despite nasty looks from this old couple. Screw them. On the other hand, a younger couple who zoomed past me thanked me for clearing the way. Most people simply don't yell. They just don't think an attack will ever happen. They have no sense of bear safety, no understanding of bears. Such lack of knowledge and careless actions make it more dangerous for all hikers. People really need to be educated, or they shouldn't be allowed. The amount of cut switchbacks along the initial climb was also very sad. Many turning sections were eroded out. Some trees looked like they were about to fall.  
+Going up the pass is long, the switchbacks take close to two hours, but the grade is safe and gentle. I keep yelling to scare off bears, as there was a report two weeks ago that Bear #380 was killed by Rangers because it kept maurading peoples' food. This meant that people here were not careful about their food. Which meant that a lot of bears were probably mauarding around. I kept yelling, despite nasty looks from this old couple. Screw them. On the other hand, a younger couple who zoomed past me thanked me for clearing the way. Most people simply don't yell. They just don't think an attack will ever happen. They have no sense of bear safety, no understanding of bears. Such lack of knowledge and careless actions make it more dangerous for all hikers and wildlife. People really need to be educated, or they shouldn't be allowed on these fragile lands. The amount of cut switchbacks along the initial climb was also very sad. Many turning sections were eroded out. Some trees looked like they were about to fall.  
 
 Up switchbacks, view:
 ![view](/assets/arm2.jpeg)
@@ -81,8 +81,8 @@ Sahale Glacier, view from Plateau:
 ![Glacier](/assets/arm7.jpeg)
 
 
+---unfinished..   remember to talk about the goats and the people who were getting way to close to them. Like 10 goats. Also the solo hiker girl who went up the entire glacier alone and without any equipment at all, and even summited sahale peak. and then camped the night there, she was insane. also note the overflowing toilet. and the mini castle camp sites. The view of course, and horseshoe basin. Then note my feet washing. 
 
-
-
+then going down note the bear and meeting Daniel Horowitz, the Jewish guy who left New York to pursue his own life outdoors on the West Coast, how we hiked back down together, and sang lots of Queen and Beatles, lmao. 
 
 

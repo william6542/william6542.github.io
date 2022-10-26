@@ -19,12 +19,12 @@ General characteristics of the binocular:
 -The eye cups fit very well, and are easily adjustable.  
 -The strap cushion for the neck is nice, but the rest of the strap feels cheap. However, no issues after 10 years.  
 -The eye end has good attached eye covers. The front end has no covers. 
--The front end lens rim cushions can get loose after long use. 
+-The front end lens rim cushions can get loose after long use.  
 -The glass clarity is insane. You really don't appreciate very high level glass quality until you start using a much lower quality binocular.
 
-When I first got the binocular, I was still just a kid in the last years of high school. At most it was used on family trips, and we never really walked more than one or two miles down any given trail, and most of the trails we did were very well maintained, paved, tourist type trails. A year after I got it, I dropped it in a parking lot. There was damage to the left lens which disconnected the focusing knob from its hull. Only the right eye focused now. After that, for two years I didn't use it, until finally a relative went to Germany on a business trip and we gave the binocular to her to send to Zeiss. Zeiss repaired it for free, and made a whole log of information. 
+When I first got the binocular, I was still just a kid in the last years of high school. This was my first pair of binoculars and I had no clue as to its true worth. At most it was used on family trips, and we never really walked more than one or two miles down any given trail, and most of the trails we did were very well maintained, paved, tourist type trails. A year after I got it, I dropped it in a parking lot. There was damage to the left lens which disconnected the focusing knob from its hull. Only the right eye focused. After that, I wasn't able to use it for years, until finally a relative went to Germany on a business trip and we gave the binocular to her to send to Zeiss. Zeiss repaired it for free, and made a whole log of information. 
 
-From what I can tell, it says that the sliding shell and the bolt connectedto the main focus knob had to be replaced:
+From what I can tell, it says that the sliding shell and the bolt connected to the main focus knob had to be replaced:
 ![Receipt of repair](/assets/zeiss2.jpeg)
 
 The relative gave the binocular back to my family, and it was only until 2018 that they finally managed to hand it to me (I was at college at the time). The next few years at Costa Mesa saw this binocular being used primarily as a long distance viewing tool on the roof deck. On really good days I could even see the Hollywood sign. 
@@ -42,19 +42,19 @@ Looking down at Emmons Glacier at Rainier:
 ![emmons](/assets/zeiss5.jpeg)
 
 Looking towards Mt Formidable at Sahale Plateau: 
-![formidable](/assets/zeis6.jpeg)
+![formidable](/assets/zeiss6.jpeg)
 
 From Sahale Plateau, could see Glacier Peak in the far distance!
-![formidable](/assets/zeis7.jpeg)
+![formidable](/assets/zeiss7.jpeg)
 
 Mountain Goats on Sahale Plateau:
-![formidable](/assets/zeis8.jpeg)
+![formidable](/assets/zeiss8.jpeg)
 
-Despite the clarity of the glass and the high magnification which I have gotten used to, I cannot reccomend this binocular. Firstly, it is no longer in production. Secondly, its armor is too weak, and the case sucks. Third, the high magnification is not suitable for most people. Fourth, the size is prohibitive for backpacking. 
+Despite the clarity of the glass and the high magnification which I have gotten used to, I cannot reccommend this binocular. Firstly, it is no longer in production. Secondly, its armor is too weak, and the case sucks. Third, the high magnification is not suitable for most people. Fourth, the size is prohibitive for backpacking. 
 
-Furthermore, the use case for such a high magnification and wide lens binocular is quite limited: it's basically for people like me who don't like to hike fast and far, but rather plan trips around key viewpoints and sit around to take in everything. If you are a fast hiker, don't buy binoculars at all. In fact, you really don't need them. Not even a monocular. Most issues on the trail can be identified by eye alone. 
+Furthermore, the philosophy of use for such a high magnification and wide lens binocular is quite limited: it's basically for people like me who don't like to hike fast and far, but rather plan trips around key viewpoints and sit around to take in everything. If you are a fast hiker, don't buy binoculars at all. In fact, you really don't need them. Not even a monocular. Most issues on the trail can be identified by eye alone. 
 
 But if you are looking for a binocular to sit around and enjoy the view with, I will say that, after nearly ten years of experience with this pair and its company, I can highly reccomend the Zeiss company's products. It is definitley worth dropping the huge initial money. I would reccomend a 8 magnification or 10 magnification: that is good for most people. For now, I will continue to stick with my Zeiss 12*45. My main goal is to try and find a case that actually protects it. 
 
-![formidable](/assets/zeis3.jpeg)
+![formidable](/assets/zeiss3.jpeg)
 
