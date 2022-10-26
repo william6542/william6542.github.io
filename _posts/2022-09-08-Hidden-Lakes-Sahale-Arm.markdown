@@ -51,6 +51,9 @@ Super clean toilet, literally no bugs, and nice fragrent smell:
 
 At night I considered what I should do the next day. The smoke was heavy, and the winds didn't blow it away today. But Sahale arm would be much higher, and much deeper into the mountains, so maybe the smoke was less thick? I didn't know what to do. I fell asleep. The next morning I just knew I had to go. I drove 3.5 hours out here already, and I camped here... So Sahale Arm had to be done! 
 
+All alone:
+![circle campground parking](/assets/hl8.jpeg)
+
 ## Day 2
 I arrived at the famous Sahale Arm Trailhead at 9am. The parking lot was half full. The wind was very strong, even below the pass. Some of the people who arrived with me seemed visibly hesitant to go up. But I had to go up. 
 
@@ -75,14 +78,65 @@ It was incredible. I thought, this would be a great place to just sit for a whil
 Across the previous photo: 
 ![acrossview1](/assets/arm5.jpeg)
 
-The final climb up to the Sahale Plateau was very windy and kind of sketchy. There was a twenty minute section with a semi steep and very long drop on scree/rock, and the steepness kept making the scree loose. At one point, I really thought about quitting, because it was getting super steep and sketchy. But I was so close. Finally, I made it to the plateau. 
+The final climb up to the Sahale Plateau was very windy and kind of sketchy. There was a twenty minute section with a semi steep and very long drop on scree/rock, and the steepness kept making the scree loose. At one point, I really thought about quitting, because it was getting super steep and sketchy. But I was so close. Finally, I made it to the plateau. I suddenly realized, that the smoke in the vicinity was mostly cleared away! Although in the far distance the smoke was still there, the nearby areas were mostly clear. Vision was not the best, but much better than yesterday. 
 
 Sahale Glacier, view from Plateau:
 ![Glacier](/assets/arm7.jpeg)
 
+I was surprised by how many people were at the plateau. In fact, it seemed like there were at least 12 other day hikers, and 4 overnighters who were packing up to leave. I made my way up to one of the sky castles, as I call them, where rings of rocks protect flat campsites from the inevitable wind. Up at the sky castle, I met a camper who was packing up to leave. I asked her how the night was, and she said it was cold, but she didn't feel it because she was too tired from going up the glacier and up to the peak yesterday. I looked at her equipment. You did that alone? Without rope? Or spikes? Or an axe? Or helmet? She replied, yea it probably wasn't the smartest idea but I made it all the way yup. I pointed at the huge crevasse: that didn't scare you? Eh, well, you know, if you stay far away you have leeway. I just stared at her in disbelief. I then asked her about the famous Sahale toilet, and she said it was totally full. She had brought a wag bag instead. I thanked her for her story, and I continued my way across the plateau. 
 
----unfinished..   remember to talk about the goats and the people who were getting way to close to them. Like 10 goats. Also the solo hiker girl who went up the entire glacier alone and without any equipment at all, and even summited sahale peak. and then camped the night there, she was insane. also note the overflowing toilet. and the mini castle camp sites. The view of course, and horseshoe basin. Then note my feet washing. 
+A sky castle campsite, one of many. This one was deeper along the plateau, most of the campers stayed close to the end of the main trail, where all the day hikers stopped. (Note the mountain goats on the mini glacier.) 
+![sky castle](/assets/arm18.jpeg)
 
-then going down note the bear and meeting Daniel Horowitz, the Jewish guy who left New York to pursue his own life outdoors on the West Coast, how we hiked back down together, and sang lots of Queen and Beatles, lmao. 
+It quickly dawned on me that the plateau itself was actually quite large; deceptively wide. It would take me a while to get across. Also, along my journey, there were many mountain goats. (A lot of the day hikers near the main viewpoint kept getting too close. I did not want to be a part of this stupidity so I moved away from them.) The goats were fearless, curious, and stared at us with eyes of unblinking unfathomable understanding. I counted 7 adults, and 3 babies. 
 
+![just a baby](/assets/arm10.jpeg)
+
+Along the way to the other edge of the plateau, I took too many photos. 
+
+![view](/assets/arm8.jpeg)
+
+![view](/assets/arm11.jpeg)
+
+The shining Doubtful Lake, which no one actually ever goes down to, due to the steepness, and also because the Plateau is so much more popular and spectacular:
+![view](/assets/arm12.jpeg)
+
+![view](/assets/arm17.jpeg)
+
+Along the way, I found a quiet, mini valley in the plateau, where there was a small glacier lake and very shallow water flowing over a smooth rock. As always, the cancer found his flowing water. I took off my boots and proceeded to wash my feet. I kept checking around me to see if the goats were coming near. Luckily, none came to bother me. The water was ice cold, but the air was fine, and the smoke was gone, and my feet felt clean. I watched the water rush under the mini glacier below, and wondered if I slipped and fell into it like one of those water parks tunnels, if I would ever get out again. The imagination of that shallow death was an odd thought on this plateau that was so bright and beautiful. 
+
+![feetwash](/assets/arm20.jpeg)
+
+Done with the wash, I continued to the end, and found myself looking down at Horseshoe Basin. This was a basin that most backpackers don't even visit. The view from above was probably also not often seen, as there were few indications that campers and day hikers ever came this far. However, the drastic change from rock to green was marked, and the circular basin sounded with shallow rushing streams, cresting over smooth rock, like where I washed my feet, but on a much larger scale. 
+
+![HorseshoeBasin](/assets/arm19.jpeg)
+
+Usually, my hikes involve one or two viewpoints. But this hike was a viewpoint from start to finish! I was so happy that the smoke mostly cleared, and I could see so much, but so many views also put a strain on my mind and heart, as I didn't know where I should stop. In reality, I think I should have just sat at the stream for longer, but my mind wanted to see the end of the plateau. From the edge at Horseshoe Basin, it took me another 45 minutes to get back to the main entrance of the plateau, where all the other day hikers congregated. At this point I was very tired. The routefinding along the rock was hard, and some places were very lose and steep. I had to cross two mini glaciers without ice equipment, but luckily nothing happened. 
+
+Reaching the main area, I noticed many many more campers were setting up. 6 different groups, about 14 people. Some had their tents on Sky Castles, others were hiding behind so as to stay out of the wind. I started making my way down. It was 5pm. I had stayed up on the Plateau from 2pm to 5pm. 
+
+On the way down, I met 5 hikers who were still trying to come up. One of them, who seemed more sensible than the rest, asked me, how much further? I said, another half hour. He said, man, I wish I had brought a transponder like you did, I dont think this is safe. I looked at him and said, you look strong, you can do it. Just don't stay for more than 15 minutes. Make sure you start coming down before twilight. And he looked at me and said, you think so? Alright, I'm gonna do it. 
+
+As he went up, I kept going down, and I saw this furry object, moving in the distance. It was too big to be that furry. Oh no no no. It was a huge black bear, munching on the grass and shrubs. I took a photo through my binos and then yeeted out. 
+
+![BEAR](/assets/arm13.jpeg)
+
+As I was slowly enjoying my walk down the arm meadow, I stopped at a viewpoint. As I enjoyed the beautiful colors and the clearer skies, suddenly, that same guy came down. He said, I made it! I was like, that was really fast! He said yea, you were right, I could make it, but the scree was really bad, and the moment I got up there I felt like I had to go, since the sun was starting to set, and I just didn't feel safe with the wind and the coming darkness and the steep trail. I said, well, you can join me and we can hike down together. He said yea, plus, I don't know if you know, but there's another bear in addition to one over there. I said, where?! He said, when I was coming up the early switchbacks, a bear zoomed past. So let's hike together. I agreed. 
+
+Beautiful ridgelines of Mt Boston, Mt Torment, and El Dorado, from the arm viewpoint: 
+![view](/assets/arm14.jpeg)
+
+So we walked and talked, and it was good fun. David was a guy from New York, his entire family there, some of them very Orthodox Jewish. He said his ancestors were from the Negev, and when I knew where that was (the big pointy desert part in the South), he was surprised, since many people don't know this. (I like to think that my humanities, history, and philosophy education has prepared me to basically know random facts to make friends with. LOL.) We kept walking, looking at the now completely shaded Doubtful Lake. We made our way down the second hill, and finally arrived at the Cascade Pass monument. The smoke here was now much clearer than from the morning, and David took a photo for me. 
+
+The beautiful Cascade Pass, where glaciers a mile thick ground their way across the mountains, where waters flow from the jagged spires, where (Native Americans)[https://www.nps.gov/noca/learn/historyculture/native-peoples.htm] trod for thousands of years, before the white man came, before the trails were built, before Tom Cruise and Top Gun polluted the skies with F-16s, before my weak and pampered self came to take a look: 
+![meatcascadespass](/assets/arm15.jpeg)
+
+We sat and watched the light shift, shift and shift. We looked at the Ptarmigan Traverse high route, and marveled at the fact that people were even capable and insane enough to do such a ridiculously dangerous trail. We ate some snacks, drank some water, and talked some more. Turns out, David had left the East Coast to get away, to start living his own life, a mix of tech work, outdoors, and trying to find a girlfriend after his ex moved to Austria and didn't want to come back. A most genuine, funny, and interesting guy. 
+
+Golden Hour in the smoke:
+![light](/assets/arm16.jpeg)
+
+Finally, we decided to leave, as it was actually getting quite dark and cold, and David was running out of water. (It turns out, he had just gotten in hiking this year! And he was quite strong! I often had to tell him to slow down and enjoy the view, as he kept passing great viewpoints, and also, he was moving so fast that he constantly was tripping over himself. But his lively spirit and buzzing happiness was greatly infectious!) I also forgot to bring my filter. As we made our way down the gentle switchbacks, we sang Beatles and Queen, our voices ringing into the dark forest, scaring away the bears. Eventually it go so dark we had to start using headlamps, and the last 90 minutes of the hike was done with beams on. Finally, we reached the parking lot. One truck with a 4wheel pop up camper was camping in the lot, even though it was technically illegal. Sigh. 
+
+I made some hot food for David and myself, and we enjoyed a carb rich meal under the oddly bright night sky. Once done, we hugged our goodbyes, getting Signal # for the next potential meet, and each set out back for Seattle. I then realized why it was so bright: the moon was full and reflected the lost hours of the day through my car window. The night sky was totally clear, and the (sky shone with stars like diamonds)[https://www.youtube.com/watch?v=naoknj1ebqI]. 
 

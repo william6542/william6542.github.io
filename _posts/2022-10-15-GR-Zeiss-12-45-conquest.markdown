@@ -35,16 +35,16 @@ It was really only until 2019, when I visited New Mexico, and 2020, when I visit
 
 The high magnification is very useful along the trail and at viewpoints. It gives unapralled long distance vision, and the clarity is extremely stunning. Here are some photos taken through the Zeiss with my iphone 13. 
 
-From Steamboat Ridge, looking up at Rainier:
+From Steamboat Ridge, looking u; at Rainier NPS:
 ![rainier](/assets/zeiss4.jpeg)
 
-Looking down at Emmons Glacier at Rainier:
+From same ridge, looking down at Emmons Glacier; at Rainier NPS:
 ![emmons](/assets/zeiss5.jpeg)
 
-Looking towards Mt Formidable at Sahale Plateau: 
+From Sahale Plateau, looking towards Mt Formidable: 
 ![formidable](/assets/zeiss6.jpeg)
 
-From Sahale Plateau, could see Glacier Peak in the far distance!
+From same, could see Glacier Peak in the far distance!
 ![formidable](/assets/zeiss7.jpeg)
 
 Mountain Goats on Sahale Plateau:
@@ -56,5 +56,5 @@ Furthermore, the philosophy of use for such a high magnification and wide lens b
 
 But if you are looking for a binocular to sit around and enjoy the view with, I will say that, after nearly ten years of experience with this pair and its company, I can highly reccomend the Zeiss company's products. It is definitley worth dropping the huge initial money. I would reccomend a 8 magnification or 10 magnification: that is good for most people. For now, I will continue to stick with my Zeiss 12*45. My main goal is to try and find a case that actually protects it. 
 
-![formidable](/assets/zeiss3.jpeg)
+![formidable](/assets/zeiss1.jpeg)
 
