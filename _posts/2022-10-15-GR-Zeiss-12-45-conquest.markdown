@@ -4,6 +4,7 @@ title:  "Gear Review: Zeiss 12*45 Conquest"
 date:   2022-10-25 20:58:58 -0700
 categories: 
 ---
+First posted: 2022-10-25 
 
 This Zeiss 12*45 conquest, given to me as a birthday present in 2013, is an incredible tool. Its cost certainly is justified by the level of craftsmanship and lifetime warranty backing it. 
 
