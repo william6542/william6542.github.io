@@ -12,7 +12,7 @@ I currently live somewhere along the I-5.
 
 This website shall be a bridge between the private and the public, a bridge between digital and physical, a bridge between old and new. Perhaps it will provide you with a view not seen before. 
 
-Please note that dates of posting do not reflect actual date of posting. I intentionally edit any given post's date to reflect the most accurate time of when the actual even being described took place, especially if it is an Adventure. In order to further prevent misunderstanding, I will usually including a date time frame within the post text as well. Furthermore, I will also include a posting date, so viewers can see when I posted. This will allow people to understand how long I have had to reflect on the material being post, and the actual happening of the material. I think this dual date system is important for archival and personal reasons. 
+Please note that dates of posting do not reflect actual date of posting. I intentionally edit any given post's date to reflect the most accurate time of when the actual even being described took place, especially if it is an Adventure. In order to further prevent misunderstanding, I will usually include a date time frame within the post text as well. Furthermore, I will also include a posting date, so viewers can see when I posted. This will allow people to understand how long I have had to reflect on the material being post, and the actual happening of the material. I think this dual date system is important for archival and personal reasons. 
 
 All writing and images here are property and copyright of William Wu. Any links to other websites are not overseen by me, unless otherwise noted. 
 
