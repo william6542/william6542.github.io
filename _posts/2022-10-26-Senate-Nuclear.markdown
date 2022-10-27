@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "1968 Senate Hearings on Status of US Strategic Nuclear Forces"
-date:   2022-10-27 20:58:58 -0700
+date:   2022-10-26 20:58:58 -0700
 categories: 
 ---
 First written on Instagram: 2022-07-30
