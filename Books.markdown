@@ -408,7 +408,7 @@ Stalin: Volume II: Waiting For Hitler -Kotkin
 #### Return To Seattle 2022-07-13.  
 -China At War: Triumph and Tragedy in the Emergency of the New China. Hans van de Ven. (2018). Finished 2022-07-23. 
 
--[STATUS OF US STRATEGIC POWER. Hearings before the Preparedness Investigating Subcomittee of the Committee on Armed Services United States Senate, 19th Congress. Second Session. 1968.]({% post_url 2022-10-27-Senate-Nuclear %}) Finished 2022-07-30. 
+-[STATUS OF US STRATEGIC POWER. Hearings before the Preparedness Investigating Subcomittee of the Committee on Armed Services United States Senate, 19th Congress. Second Session. 1968.]({% post_url 2022-10-26-Senate-Nuclear %}) Finished 2022-07-30. 
 
 -The Structure of Canadian History. 6th Edition. J.L.Finlay and D.N.Sprague. (2000). Finished 2022-08-03. 
 
@@ -434,7 +434,7 @@ Stalin: Volume II: Waiting For Hitler -Kotkin
 
 -Certain Victory: The US Army in the Gulf War. (1993). By Brigadier General Robert H Scales Jr, and Office of the Chief of Staff. Finished 2022-10-10.  
 
--Soviet Military Economic Relations. (1982). Subcomittee on international trade, finance, and security economics, of the Joint Economic Committee. US GPO. Finished 2022-10-13. 
+-[Soviet Military Economic Relations. (1982). Subcomittee on international trade, finance, and security economics, of the Joint Economic Committee. US GPO.]({% post_url 2022-10-26-Soviet-Military-Economic-Relations %}) Finished 2022-10-13. 
 
 -A Hard Look at Hard Power: Assessing the Defense Capabilities of Key US Allies and Security Partners. Gary J Schmitt (US Army War College Press). (2015). Finished 2022-10-15. 
 
