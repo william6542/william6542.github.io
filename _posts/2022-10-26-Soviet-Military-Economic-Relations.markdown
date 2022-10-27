@@ -1,11 +1,11 @@
 ---
 layout: post
 title:  "1982 Subcomittee Workshop on Soviet Military Economic Relations"
-date:   2022-10-27 20:58:58 -0700
+date:   2022-10-26 20:58:58 -0700
 categories: 
 ---
-First written on Instagram: 2022-07-30
-First posted: 2022-10-27
+First written on Instagram 2022-07-30
+First posted 2022-10-27
 
 TLDR and my thoughts: 
 
