@@ -408,7 +408,7 @@ Stalin: Volume II: Waiting For Hitler -Kotkin
 #### Return To Seattle 2022-07-13.  
 -China At War: Triumph and Tragedy in the Emergency of the New China. Hans van de Ven. (2018). Finished 2022-07-23. 
 
--[STATUS OF US STRATEGIC POWER. Hearings before the Preparedness Investigating Subcomittee of the Committee on Armed Services United States Senate, 19th Congress. Second Session. 1968.]({% post_url 2022-10-27-SenateNuclear1968 %}) Finished 2022-07-30. 
+-[STATUS OF US STRATEGIC POWER. Hearings before the Preparedness Investigating Subcomittee of the Committee on Armed Services United States Senate, 19th Congress. Second Session. 1968.]({% post_url 2022-10-27-SenateNuclear %}) Finished 2022-07-30. 
 
 -The Structure of Canadian History. 6th Edition. J.L.Finlay and D.N.Sprague. (2000). Finished 2022-08-03. 
 
