@@ -139,6 +139,9 @@ My phone battery was gone at this point, and Trevor and I went up the last 4 mil
 
 I went to the tourist viewpoint, and looked around. I knew that the summer was quickly ending, that school would start soon, and I wouldn't be able to make it back into the Olympics again this year. I felt loss, since every moment is not certain, and who knows if fire, earthquake, tsunami, civil war, nuclear war, or oil collapse, will prevent me from coming back to this wonderful place. But time only exsists now, and to feel attached was pointless. Plus, no matter what happened, these places would still be here. So what was I feeling attached to? What was I feeling loss over? But I did feel, and I couldn't let stop. We can only live in the present, yet the experiences that provide us happiness, meaning, and stability are all grounded in the past. How could I just leave so easily? I stepped back, but then stopped again, stepped away, and turned back again. Sigh. The hills the ridges the pass, which I could all see in front of me, the past four days, they said, [give it time, give it time.](https://www.youtube.com/watch?v=KBhMZneB9Qk)
 
+Looking at the entire loop:
+![finalview](/assets/dpsl28.jpg)
+
 I drove back down the twisting ridge gravel road. Along the highway, I stopped at the "Loghouse" at an Blyn, Indian Reservation. Trevor was right, this was the most well stocked and huge gas station rest stop I had ever been to. It was super fancy. I got some sweet tea and continued. At Port Gamble I stopped to get some food at a local cafe/sandwhich shop. It was cute, and the small town was full of old and pretty buildings. There was also an boomer old car meetup happening in the town parking lot. 
 
 At Kingston I stopped at a bookstore, and bought a book on Washington Famous architecture. I looked around the quaint downtown, but realized the ferry was soon coming. Maybe next time I will sit here a while longer. Next time. 
