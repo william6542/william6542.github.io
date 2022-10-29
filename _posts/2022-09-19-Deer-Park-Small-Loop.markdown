@@ -114,7 +114,7 @@ You can see Lila Lake just under the scree rock mountain, hiding within that sma
 
 ![zoom](/assets/dpsl25.jpg)
 
-As usual, I stayed up there for a while. The deep interior of Olympic NPS sprawled out in front of me. I looked at everything, there was so much to look at. But unlike my stay at Flett or Blue Glaciers, I was on a time limit here. I still had 8 miles left that day, and through a trail which was said to be really bad. Around 1.5 hours, Janet and Maureen made it up! We said hello, and they kept going along the ridge back to Lila Ridge. I watched them some more. At around 2 hours, I headed down the other side of the pass. It was very lush, and the red colors were starting to appear. The hlilside meadow was a little bit sketchy, as the trail was slanted and very thin. Eventually I stopped at the small iceberg lake, which was covered by a thin layer of ice, and washed my feet and got glacier water. 
+As usual, I stayed up there for a while. The deep interior of Olympic NPS sprawled out in front of me. I looked at everything, there was so much to look at. But unlike my stay at Flett or Blue Glaciers, I was on a time limit here. I still had 8 miles left that day, and through a trail which was said to be really bad. Around 1.5 hours, Janet and Maureen made it up! We said hello, and they kept going along the ridge back to Lila Ridge. I watched them some more. At around 2 hours, I headed down the other side of the pass. It was very lush, and the red colors were starting to appear. The hillside meadow was a little bit sketchy, as the trail was slanted and very thin. Eventually I stopped at the small iceberg lake, which was covered by a thin layer of ice, and washed my feet and got glacier water. 
 
 I noticed the wear and tear on my poor sleeping mat, and aso the damage to my plastic water bottles. People think backpacking is sustainbale, but it isn't. Certainly it's better than many other sports and hobbies, but ultimatley the equipment attrition rate is still very high. Plus, it doesn't help that most water filter systems don't have compatible filter screws for Nalgene narrow head bottles. That's why I always bring a standard plastic bottle, because the screw mm matches the filter screw adapter. Oh well, living an actual sustainable life, in reality, and in the outdoors, is difficult, and takes concerted effort and long term planning. 
 
@@ -137,12 +137,15 @@ That night I didn't sleep so well, I'm not sure why. The capmsite was big, clear
 ## Day 4
 My phone battery was gone at this point, and Trevor and I went up the last 4 miles 3300 feet gain back to Deer Ridge. It was a tough tough climb. We each brought full water. Trevor is the same age as me (26), but he is much taller and very fast. However, very politely of him, he waited for me. It was a nice hike, and the higher we got, the harder the sun burnt, and the smoke became noticeable. In any case, we finally got to the top! We hugged our goodbyes, and I promised to message him if I ever need a place to stay in Bremerton. 
 
-I went to the tourist viewpoint, and looked around. Then I started the windy drive back down the ridge, and stopped at the "Loghouse" at an Blyn, Indian Reservation, along the highway. Trevor was right, this was the most well stocked and huge gas station rest stop I had ever been to. It was super fancy. I got some sweet tea and continued. 
+I went to the tourist viewpoint, and looked around. I knew that the summer was quickly ending, that school would start soon, and I wouldn't be able to make it back into the Olympics again this year. I felt loss, since every moment is not certain, and who knows if fire, earthquake, tsunami, civil war, nuclear war, or oil collapse, will prevent me from coming back to this wonderful place. But time only exsists now, and to feel attached was pointless. Plus, no matter what happened, these places would still be here. So what was I feeling attached to? What was I feeling loss over? But I did feel, and I couldn't let stop. We can only live in the present, yet the experiences that provide us happiness, meaning, and stability are all grounded in the past. How could I just leave so easily? I stepped back, but then stopped again, stepped away, and turned back again. Sigh. The hills the ridges the pass, which I could all see in front of me, the past four days, they said, [give it time, give it time.](https://www.youtube.com/watch?v=KBhMZneB9Qk)
 
-At Port Gamble I stopped to get some food at a local cafe/sandwhich shop. It was cute, and the small town was full of old and pretty buildings. There was also an boomer old car meetup happening in the town parking lot. 
+I drove back down the twisting ridge gravel road. Along the highway, I stopped at the "Loghouse" at an Blyn, Indian Reservation. Trevor was right, this was the most well stocked and huge gas station rest stop I had ever been to. It was super fancy. I got some sweet tea and continued. At Port Gamble I stopped to get some food at a local cafe/sandwhich shop. It was cute, and the small town was full of old and pretty buildings. There was also an boomer old car meetup happening in the town parking lot. 
 
-At Kingston I stopped at a bookstore, and bought a book on Washington Famous architecture. Then I continued on to the ferry and went home.
+At Kingston I stopped at a bookstore, and bought a book on Washington Famous architecture. I looked around the quaint downtown, but realized the ferry was soon coming. Maybe next time I will sit here a while longer. Next time. 
 ![bookstore](/assets/dpsl17.jpg)
+
+
+
 
 
 
