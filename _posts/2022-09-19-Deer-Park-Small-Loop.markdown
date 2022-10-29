@@ -8,10 +8,10 @@ categories:
 37 Miles
 9300 Feet Elevation Gain
 
-Day 1: Deer Park Ridge over the ocean. Camp at Obstruction Point Parking Lot.
-Day 2: Obstruction Point high ridge to Grand Valley. Camp at Gladys Lake. 
-Day 3: Over Grand Pass, through Cameron River trail. Camp at Junction. 
-Day 4: Return up switchbacks to Deer Park. 
+Day 1: Deer Park Ridge over the ocean. Camp at Obstruction Point Parking Lot.  
+Day 2: Obstruction Point high ridge to Grand Valley. Camp at Gladys Lake.  
+Day 3: Over Grand Pass, through Cameron River trail. Camp at Junction.  
+Day 4: Return up switchbacks to Deer Park.  
 
 ## Day 1  
 Arriving at the campground trailhead parking lot, I met the self proclaimed mayor of Deer Park, who is actually just the volunteer Ranger. Donovan was a cheerful old man, and after I told him my loop plan he told me 4 people had died in Olympic NPS during the summer due to falling trees. Then he laughed and said, but that's not a big problem, the important thing is to have fun! You look like you know what you're doing. I also asked him if I could camp at Obstruction Point (9 miles), given that otherwise I would have to rush a 16 mile day. He said, yea go ahead, no harm at all, I mean, what are the other rangers gonna do? 
@@ -46,7 +46,7 @@ Finally, the group of 10 left, and I stayed a bit longer in the quiet. Eventuall
 
 Since Obstruction Point was closed due to lower road repair, the parking lot was empty. The problem with starting from Deer Park is that there is no mid length distance stop to camp at. It's basically a rush to Grand Valley. Also there's no water until the valley. But I brought a lot of water, and, given Donavan's blessing, I decided to camp in the parking lot. While setting up the tent, I kept hearing ghostly voices in the wind, people singing? A choir of women? It was very strange. Perhaps it was the wind, or an elk? 
 
-The winds were so strong that my jetboil wouldn't ignite. I didn't eat. Then starting at 8pm, the winds got even worse. I spent the entire night sleeping on one side of the tent, trying to not let it blow away. Then I heard clomping steps around my tent. I was so scared, they were so close. I think it was may goats or deer. They left. My morale continued to sink. 
+The winds were so strong that my jetboil wouldn't ignite. I didn't eat. Then starting at 8pm, the winds got even worse. I spent the entire night sleeping on one side of the tent, trying to not let it blow away. Then I heard clomping steps around my tent. I was so scared, they were so close. I think it was maybe goats or deer. They left. My morale continued to sink. 
 
 The night was miserable. In retrospect, I could have just gone a bit off trail and camped on the fragile grass behind some trees, but I was afraid the trees might fall, and also I didn't want to kill the little grass. 
 
@@ -57,12 +57,12 @@ Morning at the parking lot:
 
 The next morning I was seriously contemplating not continuing, as my sleep was so bad, and also I was afraid my stove had failed. Still being a backpacker noob, I wasn't completley sure if the jetboil stove was failing only because of the wind. I thought maybe it might be the canister's fault, since I switched to a smaller canister to save weight. I scholded myself for not testing equipment beforehand. I got mad, angry, sad, I'm such a failure. I can't do anything right. I'm useless. But then I remembered the pit toilet. I realized I was stupid and I could just test the stove inside the parking lot pit toilet. Which I did. It worked. It indeed was the wind, not the stove. I laughed at myself and realized how unfounded these fears were, how I spent all night in anxiety, how I got sad and despaired for no reason. With my trust in the equipment restored, I set out early in the morning to make it to the valley. I had 1.4 liters of water left. 
 
-From Obstruction Ridge/Grand Ridge looking back towards Deer Ridge:
+From Obstruction Ridge/Grand Ridge looking back towards Deer Ridge (Elk Mountain is visible at the right):
 ![ridges](/assets/dpsl19.jpg)
 
-I continued up Obstruction Point Ridge (aka Grand Ridge), and the wind was still strong. But I was no longer afraid. Onwards! I want to remember that feeling being [filled with Determinatoin](https://www.youtube.com/watch?v=W1i4mTyidOc). Of having lost hope and despaired, and then suddenly banishing those things. I will never forget the change in my morale as I hiked up and down that ridge. Having realized my own idiocy, and realizing that there was no problem at all, my Resolve was greater than ever. With low water, having ate nothing, and in the cold morning wind, I went on. Along the ridge, I saw a man camped down at a lake in a hidden valley. That looked very comfortable. But unfortunatley, it seemed like he had to cross a lot of fragile meadow. Sad. Reaching the end of Obstruction Point Ridge, at the descent junction, I went towards Lila Ridge, an unmarked trail along a sharp edge. Lila eventually descends at Gladys Lake, but I was not going to do that trail, given reports which said it has three class 3 scrambles. But I wanted to take a look. 
+I continued up Obstruction Point Ridge (aka Grand Ridge), and the wind was still strong. But I was no longer afraid. Onwards! I want to remember that feeling being [filled with Determination](https://www.youtube.com/watch?v=W1i4mTyidOc). Of having lost hope and despaired, and then suddenly banishing those things. I will never forget the change in my morale as I hiked up and down that ridge. Having realized my own idiocy, and realizing that there was no problem at all, my Resolve was greater than ever. With low water, having ate nothing, and in the cold morning wind, I went on. Along the ridge, I saw a man camped down at a lake in a hidden valley. That looked very comfortable. But unfortunatley, it seemed like he had to cross a lot of fragile meadow. Sad. Reaching the end of Obstruction Point Ridge, at the descent junction, I went towards Lila Ridge, an unmarked trail along a sharp edge. Lila eventually descends at Gladys Lake, but I was not going to do that trail, given reports which said it has three class 3 scrambles. But I wanted to take a look. 
 
-The narrow Lila Ridge unofficial trail: 
+The unofficial Lila Ridge Trail: 
 ![junction](/assets/dpsl8.jpg)
 
 And who do I find, but the group of 10. It was 9am. I asked them if they camped up here? They said, no, we camped down at Moose Lake, and now we came back up to do the ridge. I looked at them in disbelief... they went a further 3 miles down last night, and then this morning rushed back up 1800 feet to do the ridge? Insane. They must have started at 7am or something. Such speed and gain. Anyways, I watched them clamber over the first scramble and dissappear over the ridge. 
@@ -92,10 +92,10 @@ As they painted I watched the sun slowly set, and I looked at the screeside wher
 
 Then we had dinner together at the camp circle, and it turns out Janet's family used to live in Tisng Dao! Her parents were missionaries during the old times. Janet was able to speak and understand a little bit of Chinese. Janet was originally American, but moved to Victoria and is now thoroughly Canadian. Maureen was born Canadian and is also on Vancouver Island. They told me that I should do the Sunshine Coast trail, which is much better and safer and dryer than the Vancouver Island West Coast Trail. We talked about random stuff, and it was good fun. They asked me how last night was, and I said camping at the parking lot was horrible. Oh, you were up there? We were just below the parking lot next to some trees, but it was horrible too! The wind was so bad, and also our tents were on an incline, so we kept rolling down. Wait, were you the ones singing? Why, yes, that was us! I laughed and realized the ghostly choir was them! So we sang [Both Sides Now](https://www.youtube.com/watch?v=Pbn6a0AFfnM), and I learned they became friends through a local choir in Souk. 
 
-Then, to wrap up the dinner, Janet read a ridiculous story about Mrs. Bond and her hunderds of cats, and poor little Mr. Bond who just sat around surrounded by fluff. And then how Boris the cat couldn't be controlled and went around bullying everyone else. lol. I went to sleep, and the night was frosted. But before this trip I bought a new Condor 20f Feathered Friends sleeping bag, which, that night, proved well worth the money. I was so nice and warm, and I slept so soundly I didn't even hear another backpacker sneak into our campsite and set up their tent in a fourth spot. 
+Then, to wrap up the dinner, Janet read a ridiculous story about [Mrs. Bond and her hunderds of cats](https://booksplease.org/2008/09/06/cats/), and poor little Mr. Bond who just sat around surrounded by fluff. And then how Boris the cat couldn't be controlled and went around bullying everyone else. lol. I went to sleep, and the night was frosted. But before this trip I bought a new Condor 20f Feathered Friends sleeping bag, which, that night, proved well worth the money. I was so nice and warm, and I slept so soundly I didn't even hear another backpacker sneak into our campsite and set up their tent in a fourth spot. 
 
 ## Day 3
-I woke up at 8am, and had breakfast with Janet and Maureen. They were going to stay here another day and then go back the same way to Deer Park. But for the day they would do part of Lila Ridge (which can be accessed via Grand Pass as well, it just takes some light scrambling). Janet said they didn't want to go down along Cameron River because the trail sucks when she did it 15 years ago. I wondered perhaps it had gotten maintenance in the meanwhile. In any case that's what I had planned so I went. 
+I woke up at 8am, and had breakfast with Janet and Maureen. They were going to stay here another day and then go back the same way to Deer Park. But for the day they would do part of Lila Ridge (which can be accessed via Grand Pass as well, it just takes some light scrambling). Janet said they didn't want to go down along Cameron River because the trail sucks when she did it 15 years ago. I wondered perhaps it had gotten maintenance in the meanwhile. Janet really wanted to sing but we realized that there was a fourth camper here. At our group circle there was an additional bear canister. We decided to try to keep quiet. (The person in the tent never did come out, and apparently Janet and Maureen never saw that person either, as when they had gotten back from their day hike later that person was gone.)  
 
 I slowly went up the pass in the shadow of the sun, and the path got rockier and rockier, but nowhere was it dangerous or steep or loose. The valley was very grand indeed, but the shadow made my pictures turn out not so good. When I reached near the top, I could start smelling smoke. Indeed, the smoke was closing in, and it was visible over the sound. 
 
@@ -105,7 +105,7 @@ A small tarn:
 Looking down at the Grand Valley, different tarn. You can see Gladys lake hidden among the trees if you zoom in. 
 ![grandvalleyview](/assets/dpsl22.jpg)
 
-I got to the pass. I turned right and went up to the actual peak, and scrambled around until I found Lila Lake, which is across another valley with a trail that is no longer maintained, and also, very difficult. Behind it rose the Olympic Mountains. 
+I got to the pass. I turned right and went up to the actual peak, and scrambled around until I saw Lila Lake, which is across another valley with a trail that is no longer maintained, and also, very difficult. (For some reason Lila Lake is not on Lila Ridge). Behind it rose the Olympic Mountains. 
 
 You can see Lila Lake just under the scree rock mountain, hiding within that small shelf. This was just one of many many lakes hiding on shelfs along day 1-3.
 ![Lila Lake view](/assets/dpsl13.jpg)
@@ -130,7 +130,7 @@ I turned left at the river junction, and here started the 7 miles of pain throug
 
 ![dpsl](/assets/dpsl27.jpg)
 
-Finally arriving at the three rivers junction camp, I met Trevor, who had also gone through the Cameron River trail. We had a nice talk, and it turns out he works at Bremerton, or at Kitsap Naval Submarine base, I don't remember. But he and his two roomates each only bay 650 rent, and hvae a big house. It's a totally different world on the peninsula huh. Anyways, he was super chill, and was surprised at my knowledge of so many military affairs and terminologies. Again, my humanities and history knowledge is really only good for talking to people with. 
+Finally arriving at the three rivers junction camp, I met Trevor, who had also gone through the Cameron River trail. We had a nice talk, and it turns out he works at Bremerton, or at Kitsap Naval Submarine base, I don't remember which. But he and his two roomates each only bay 650 rent, and live a big house. It's a totally different world on the peninsula huh. Anyways, he was super chill, and was surprised at my knowledge of so many military affairs and terminologies. Again, my humanities and history knowledge is really only good for talking to people with. 
 
 That night I didn't sleep so well, I'm not sure why. The capmsite was big, clear, with safe trees, and no bugs. And a nice toilet. But I just didn't sleep that well. This happens to me often now. I think I'm becoming old. Anyways, I read Ecclesiastes and some of Luke, before I finally fell asleep. 
 
@@ -143,18 +143,6 @@ At Port Gamble I stopped to get some food at a local cafe/sandwhich shop. It was
 
 At Kingston I stopped at a bookstore, and bought a book on Washington Famous architecture. Then I continued on to the ferry and went home.
 ![bookstore](/assets/dpsl17.jpg)
-
-
-
-
-
-
-
-  ---to be continued. 
-
-
-
-
 
 
 
