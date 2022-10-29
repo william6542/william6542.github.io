@@ -134,6 +134,31 @@ Finally arriving at the three rivers junction camp, I met Trevor, who had also g
 
 That night I didn't sleep so well, I'm not sure why. The capmsite was big, clear, with safe trees, and no bugs. And a nice toilet. But I just didn't sleep that well. This happens to me often now. I think I'm becoming old. Anyways, I read Ecclesiastes and some of Luke, before I finally fell asleep. 
 
+    There is an evil in all that is done under the sun: that one thing happens to all. Truly the hearts of the sons 
+    of men are full of evil;  madness is in their hearts while they live, and after that they go to the dead. But 
+    for him who is joined to all the living there is hope, for a living dog is better than a dead lion. 
+
+       For the living know that they will die;
+       but the dead know nothing,
+       and they have no more reward, 
+       for the memory of them is forgotten.
+       Also their love, their hatred, and
+       their envy have now perished;
+       nevermore will they have a share 
+       in anything done under the sun. 
+
+       Go, eat your bread with joy, 
+       and drink your wine with a merry heart;
+       for God has already accepted your works. 
+       Let your garments always be white, 
+       and let your head lack no oil. 
+
+     Live joyfully with the wife whom you love all the days of your vain life which He has given you under the sun, 
+     all your days of vanity; for that is your portion in life, and in the labor which you perform under the sun. 
+     Whatever your hand finds to do, do it with your might; for there is no work or device or knowledge or wisdom in 
+     the grave where you are going. 
+
+
 ## Day 4
 My phone battery was gone at this point, and Trevor and I went up the last 4 miles 3300 feet gain back to Deer Ridge. It was a tough tough climb. We each brought full water. Trevor is the same age as me (26), but he is much taller and very fast. However, very politely of him, he waited for me. It was a nice hike, and the higher we got, the harder the sun burnt, and the smoke became noticeable. In any case, we finally got to the top! We hugged our goodbyes, and I promised to message him if I ever need a place to stay in Bremerton. 
 
