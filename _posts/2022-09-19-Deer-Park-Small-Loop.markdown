@@ -4,8 +4,10 @@ title: Deer Park Olympic NPS Small Loop
 date: 2022-09-19 20:58:58 -0700
 categories:
 ---
+First posted: 2022-10-29  
+2022 Sept 19 - 2022 Sept 22
 
-37 Miles
+37 Miles  
 9300 Feet Elevation Gain
 
 Day 1: Deer Park Ridge over the ocean. Camp at Obstruction Point Parking Lot.  
@@ -55,7 +57,7 @@ The night was miserable. In retrospect, I could have just gone a bit off trail a
 Morning at the parking lot:
 ![ObstructionPoint](/assets/dpsl7.jpg)
 
-The next morning I was seriously contemplating not continuing, as my sleep was so bad, and also I was afraid my stove had failed. Still being a backpacker noob, I wasn't completley sure if the jetboil stove was failing only because of the wind. I thought maybe it might be the canister's fault, since I switched to a smaller canister to save weight. I scholded myself for not testing equipment beforehand. I got mad, angry, sad, I'm such a failure. I can't do anything right. I'm useless. But then I remembered the pit toilet. I realized I was stupid and I could just test the stove inside the parking lot pit toilet. Which I did. It worked. It indeed was the wind, not the stove. I laughed at myself and realized how unfounded these fears were, how I spent all night in anxiety, how I got sad and despaired for no reason. With my trust in the equipment restored, I set out early in the morning to make it to the valley. I had 1.4 liters of water left. 
+The next morning I was seriously contemplating not continuing, as my sleep was so bad, and also I was afraid my stove had failed. Still being a backpacker noob, I wasn't completley sure if the jetboil stove was failing only because of the wind. I thought maybe it might be the canister's fault, since I switched to a smaller canister to save weight. I scolded myself for not testing equipment beforehand. I got mad, angry, sad, I'm such a failure. I can't do anything right. I'm useless. But then I remembered the pit toilet. I realized I was stupid and I could just test the stove inside the parking lot pit toilet. Which I did. It worked. It indeed was the wind, not the stove. I laughed at myself and realized how unfounded these fears were, how I spent all night in anxiety, how I got sad and despaired for no reason. With my trust in the equipment restored, I set out early in the morning to make it to the valley. I had 1.4 liters of water left. 
 
 From Obstruction Ridge/Grand Ridge looking back towards Deer Ridge (Elk Mountain is visible at the right):
 ![ridges](/assets/dpsl19.jpg)
@@ -114,15 +116,18 @@ You can see Lila Lake just under the scree rock mountain, hiding within that sma
 
 ![zoom](/assets/dpsl25.jpg)
 
-As usual, I stayed up there for a while. The deep interior of Olympic NPS sprawled out in front of me. I looked at everything, there was so much to look at. But unlike my stay at Flett or Blue Glaciers, I was on a time limit here. I still had 8 miles left that day, and through a trail which was said to be really bad. Around 1.5 hours, Janet and Maureen made it up! We said hello, and they kept going along the ridge back to Lila Ridge. I watched them some more. At around 2 hours, I headed down the other side of the pass. It was very lush, and the red colors were starting to appear. The hillside meadow was a little bit sketchy, as the trail was slanted and very thin. Eventually I stopped at the small iceberg lake, which was covered by a thin layer of ice, and washed my feet and got glacier water. 
+As usual, I stayed up there for a while. The deep interior of Olympic NPS sprawled out in front of me. I looked at everything, there was so much to look at. But unlike my stay at Flett or Blue Glaciers, I was on a time limit here. I still had 8 miles left that day, and through a trail which was said to be really bad. Around 1.5 hours, Janet and Maureen made it up! We said hello, and they kept going along the ridge back to Lila Ridge. I watched them some more. At around 2 hours, I headed down the other side of the pass. 
 
-I noticed the wear and tear on my poor sleeping mat, and aso the damage to my plastic water bottles. People think backpacking is sustainbale, but it isn't. Certainly it's better than many other sports and hobbies, but ultimatley the equipment attrition rate is still very high. Plus, it doesn't help that most water filter systems don't have compatible filter screws for Nalgene narrow head bottles. That's why I always bring a standard plastic bottle, because the screw mm matches the filter screw adapter. Oh well, living an actual sustainable life, in reality, and in the outdoors, is difficult, and takes concerted effort and long term planning. 
+Going down Grand Pass:
+![other side](/assets/dpsl14.jpg)
+
+The other side of the pass was very lush, and the red colors were starting to appear. The hillside meadow was a little bit sketchy, as the trail was slanted and very thin. Eventually I stopped at the small iceberg lake, which was covered by a thin layer of ice, and washed my feet and got glacier water. I noticed the wear and tear on my poor sleeping mat, and aso the damage to my plastic water bottles. People think backpacking is sustainbale, but it isn't. Certainly it's better than many other sports and hobbies, but ultimatley the equipment attrition rate is still very high. Plus, it doesn't help that most water filter systems don't have compatible filter screws for Nalgene narrow head bottles. That's why I always bring a standard plastic bottle, because the screw mm matches the filter screw adapter. Oh well, living an actual sustainable life, in reality, and in the outdoors, is difficult, and takes concerted effort and long term planning. 
 
 ![iceberglake](/assets/dpsl26.jpg)
 
 Then I started into the forested part, and the trail got bad. It was muddy all over, and there were some fallen trees. I then met this guy who was wearing a green t-shirt, and as I noticed later, only green underwear (no pants). He was smoking some really dank weed, and I smelt it way before I saw him. He was getting water from a stream. He asked if I wanted some weed. I said no thanks. I asked him where he was going. He said, all the way to Constance, if possible. I was like... where is that? I checked my map, and it was THIRTY MILES AWAY. And to get there he had to cross two more passes. It was insane. He was a speed hiker. He told me about how the PCT was now a highway of shit, and there were too many people. He's from Coeur D'Alene, and he wants to do the Idaho Centennial trail after this trip to the Olympics. He said he wants to do it before more people learn of it and trash it. He did the PCT in 2004, and there was literally no one on it. He got up to continue, wished me well, and zoomed away in a cloud of kush. 
 
-I turned left at the river junction, and here started the 7 miles of pain through the shit Cameron River trail. There were 60+ fallen trees, 8 of which were very difficult to get over. The mosquitos came back to attack. Certain areas were completley muddied out, and some sections through open meadows were totally overgrown. There were two river crossings, and the second one was pretty sketch, as the bridge had washed downriver, and stuck upon a difficult logjam. There was also a section alongside the river that was washed out, and involved some inventive side stepping along a scree ridge. There are actually three mini campsites along the trail, but they are all either too close to the trail, under suspicious trees, or just not very flat and even. At least there was a nice bench I got to rest a while at. 
+I turned left at the river junction, and here started the 7 miles of pain through the terrible Cameron River trail. There were 60+ fallen trees, 8 of which were very difficult to get over. The mosquitos came to attack. Certain areas were completley muddied out, and some sections through open meadows were totally overgrown. There were two river crossings, and the second one was pretty sketch, as the bridge had washed downriver, and stuck upon a difficult logjam. There was also a section alongside the river that was washed out, and involved some inventive side stepping along a scree ridge. There are actually three mini campsites along the trail, but they are all either too close to the trail, under suspicious trees, or just not very flat and even. At least there was a nice bench I got to rest a while at. 
 
 ![dpsl](/assets/dpsl15.jpg)
 
@@ -130,13 +135,9 @@ I turned left at the river junction, and here started the 7 miles of pain throug
 
 ![dpsl](/assets/dpsl27.jpg)
 
-Finally arriving at the three rivers junction camp, I met Trevor, who had also gone through the Cameron River trail. We had a nice talk, and it turns out he works at Bremerton, or at Kitsap Naval Submarine base, I don't remember which. But he and his two roomates each only bay 650 rent, and live a big house. It's a totally different world on the peninsula huh. Anyways, he was super chill, and was surprised at my knowledge of so many military affairs and terminologies. Again, my humanities and history knowledge is really only good for talking to people with. 
+Finally arriving at the three rivers junction camp, I met Trevor, who had also gone through the Cameron River trail. We had a nice talk, and it turns out he works at Bremerton, or at Kitsap Naval Submarine base, I don't remember which. But he and his two roomates each only pay 650 rent, and live a big house. It's a totally different world on the peninsula huh. Anyways, he was super chill, and was surprised at my knowledge of so many military affairs and terminologies. Again, it seems my humanities and history knowledge is really only good for talking to people with. 
 
 That night I didn't sleep so well, I'm not sure why. The capmsite was big, clear, with safe trees, and no bugs. And a nice toilet. But I just didn't sleep that well. This happens to me often now. I think I'm becoming old. Anyways, I read Ecclesiastes and some of Luke, before I finally fell asleep. 
-
-    There is an evil in all that is done under the sun: that one thing happens to all. Truly the hearts of the sons 
-    of men are full of evil;  madness is in their hearts while they live, and after that they go to the dead. But 
-    for him who is joined to all the living there is hope, for a living dog is better than a dead lion. 
 
        For the living know that they will die;
        but the dead know nothing,
@@ -153,23 +154,17 @@ That night I didn't sleep so well, I'm not sure why. The capmsite was big, clear
        Let your garments always be white, 
        and let your head lack no oil. 
 
-     Live joyfully with the wife whom you love all the days of your vain life which He has given you under the sun, 
-     all your days of vanity; for that is your portion in life, and in the labor which you perform under the sun. 
-     Whatever your hand finds to do, do it with your might; for there is no work or device or knowledge or wisdom in 
-     the grave where you are going. 
-
-
 ## Day 4
 My phone battery was gone at this point, and Trevor and I went up the last 4 miles 3300 feet gain back to Deer Ridge. It was a tough tough climb. We each brought full water. Trevor is the same age as me (26), but he is much taller and very fast. However, very politely of him, he waited for me. It was a nice hike, and the higher we got, the harder the sun burnt, and the smoke became noticeable. In any case, we finally got to the top! We hugged our goodbyes, and I promised to message him if I ever need a place to stay in Bremerton. 
 
-I went to the tourist viewpoint, and looked around. I knew that the summer was quickly ending, that school would start soon, and I wouldn't be able to make it back into the Olympics again this year. I felt loss, since every moment is not certain, and who knows if fire, earthquake, tsunami, civil war, nuclear war, or oil collapse, will prevent me from coming back to this wonderful place. But time only exsists now, and to feel attached was pointless. Plus, no matter what happened, these places would still be here. So what was I feeling attached to? What was I feeling loss over? But I did feel, and I couldn't let stop. We can only live in the present, yet the experiences that provide us happiness, meaning, and stability are all grounded in the past. How could I just leave so easily? I stepped back, but then stopped again, stepped away, and turned back again. Sigh. The hills, the ridges, the valleys, the pass, which I could all see in front of me, through which I walked the past four days, they said, [give it time, give it time.](https://www.youtube.com/watch?v=KBhMZneB9Qk)
+I went to the tourist viewpoint, and looked around. I knew that the summer was quickly ending, that school would start soon, and I wouldn't be able to make it back into the Olympics again this year. I felt loss, since every moment is not certain, and who knows if fire, earthquake, tsunami, civil war, nuclear war, or oil collapse, will prevent me from coming back to this wonderful place. But time only exsists now, and to feel attached was pointless. Plus, no matter what happened, these places would still be here. So what was I feeling attached to? What was I feeling loss over? But I did feel. We can only live in the present, yet the experiences that provide us happiness, meaning, and stability are all grounded in the past; and the hope that keeps us goin is floating in the future. What else is there if that hope is gone? So, how could I just leave so easily? I stepped back, but then stopped again, stepped away, and turned back again. Sigh. The hills, the ridges, the valleys, the pass, which I could all see in front of me, through which I walked the past four days, they said, [give it time, give it time.](https://www.youtube.com/watch?v=KBhMZneB9Qk)
 
 Looking at the entire loop:
 ![finalview](/assets/dpsl28.jpg)
 
-I drove back down the twisting ridge gravel road. Along the highway, I stopped at the "Loghouse" at an Blyn, Indian Reservation. Trevor was right, this was the most well stocked and huge gas station rest stop I had ever been to. It was super fancy. I got some sweet tea and continued. At Port Gamble I stopped to get some food at a local cafe/sandwhich shop. It was cute, and the small town was full of old and pretty buildings. There was also an boomer old car meetup happening in the town parking lot. 
+I drove back down the twisting ridge gravel road. Along the highway, I stopped at the "Loghouse" at Blyn, an Indian Reservation. Trevor was right, this was the most well stocked and huge gas station rest stop I had ever been to. It was super fancy. I got some sweet tea and continued. At Port Gamble I stopped to get some food at a local cafe/sandwhich shop. It was cute, and the small town was full of old and pretty buildings. There was also an boomer old car meetup happening in the town parking lot. 
 
-At Kingston I stopped at a bookstore, and bought a book on Washington Famous architecture. I looked around the quaint downtown, but realized the ferry was soon coming. Maybe next time I will sit here a while longer. Next time. 
+At Kingston I stopped at a bookstore, and bought a book on Washington architecture. I realized I had been to some of these places, like the old mansion (now a quilt museum) at La Conner. I looked around the quaint downtown, but realized the ferry was soon coming. Maybe next time I will sit here a while longer. Next time. 
 ![bookstore](/assets/dpsl17.jpg)
 
 

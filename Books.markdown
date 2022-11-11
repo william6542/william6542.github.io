@@ -5,7 +5,7 @@ permalink: /Books/
 ---
 The first update of this list is taken from my "books read" Word document.
 
-Unlike most other pages, scrolling down will lead to the present; this reverse order is also a function of the fact that I coped this from my old Word Document.
+Unlike most other pages, scrolling down will lead to the present; this reverse order is because I coped this list from my old Word Document. This list does not include pdfs, papers, essays, articles, and such that I have read. 
 
 #### Before Reed  
 Iliad  
@@ -325,7 +325,7 @@ Putin's Kleptocracy: Who Owns Russia? - Karen Dawisha
 Thieves of State - Sarah Chayes  
 Private Island: Why Britain Now Belongs To Someone Else - James Meek  
 
-#### 12/21/2020 Long Days Of Waiting and Gaming. New Year 2020-2021.  
+#### 12/21/2020 Long Days Of Waiting. New Year 2020-2021.  
 The Permanent War Economy (1974) - Seymour Melman  
 The Image: A Guide to Pseudo-Events in America - Daniel J. Boorstin  
 Restless Giant (The United States from Watergate to Bush v. Gore) - James T. Patterson  
@@ -414,7 +414,7 @@ Stalin: Volume II: Waiting For Hitler -Kotkin
 
 -Blaming China: It Might Feel Good but it Won't Fix America's Economy. Benjamin Shobert. (2018). Finished 2022-08-06. 
 
--The Masks of War: American Military Styles in Strategy and Analysis. Carl H. uilder. (1989). Finished 2022-08-08. 
+-The Masks of War: American Military Styles in Strategy and Analysis. Carl H. Builder. (1989). Finished 2022-08-08. 
 
 #### The Great Hiking And Backpacking Of Mid-Late Summer 2022.  
 -Roger Sherman and the Creation of the American Republic. Mark David Hall. (2013). Finished 2022-08-14. 
@@ -432,7 +432,7 @@ Stalin: Volume II: Waiting For Hitler -Kotkin
 
 -Jitterbug Perfume. Tom Robbins (1984). Finished 2022-10-05. 
 
--Certain Victory: The US Army in the Gulf War. (1993). By Brigadier General Robert H Scales Jr, and Office of the Chief of Staff. Finished 2022-10-10.  
+-Certain Victory: The US Army in the Gulf War. (1993). Brigadier General Robert H Scales Jr, and Office of the Chief of Staff. Finished 2022-10-10.  
 
 -[Soviet Military Economic Relations. (1982). Subcomittee on international trade, finance, and security economics, of the Joint Economic Committee. US GPO.]({% post_url 2022-10-26-Soviet-Military-Economic-Relations %}) Finished 2022-10-13. 
 
@@ -440,12 +440,18 @@ Stalin: Volume II: Waiting For Hitler -Kotkin
 
 -The FRANK Book. Jim Woodring. (2003). Finished 2022-10-15. 
 
--Mass Shooting at Virginia Tech. Report of the Review Panel, presented to Gov Kaine of Virginia. (2007). Finished 2022-10-15. 
+-Mass Shooting at Virginia Tech. Report of the Special Review Panel, presented to Gov Tim Kaine of Virginia. (2007). Finished 2022-10-15. 
 
 -MOMO. By Michael Ende. (English Translation, original is German). (1973). Finished 2022-10-17. 
 
 -Scrolling Foward. By David Levy. (2001). Finished 2022-10-24. 
 
+-[Tactical Nuclear Weapons and NATO.]({% post_url 2022-11-01-Tactical-Nuclear-Weapons-And-NATO %}) (2012). U.S. Army War College: Strategic Studies Institute. Government Publishing Office. Finished 2022-11-01.
 
+-China's Aerospace Strategy. Captain J V Singh. Center for Air Power Studies, New Delhi. (2013). Finished 2022-11-06. 
+
+-Howard's End. E M Forster. (1910). (1985 edition green hardcover). Finished 2022-11-09
+
+-On Thermonuclear War. Hermann Kahn. (1960). (2017 paperback republish). Finished 2022-11-11, after many months. 
 
 
