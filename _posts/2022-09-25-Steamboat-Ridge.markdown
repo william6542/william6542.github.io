@@ -1,12 +1,9 @@
 ---
 layout: post
-title:  "Backpacking Steamboat Ridge WORK IN PROGRESS"
+title:  "Backpacking Steamboat Ridge"
 date:   2022-09-25 20:58:58 -0700
 categories: 
 ---
-
-# WORK IN PROGRESS
-
 First posted: 2022-10-29  
 2022 Sept 25 - 2022 Sept 26
 
@@ -99,6 +96,6 @@ At the parking lot I ran into a bunch of Rainier circumference hikers, they were
 
 Then I got to my car, where a fleet of RVs was sitting. The main RV fleet were a group from Czechia. The rest were a couple from Canada, and some randoms from Washington. I ate some snacks and left. 
 
-![RV fleet](/assets/steam16/.jpg)
+![RVfleet](/assets/steam16.jpg)
 
 This was to be the last trip of the season. As I write this in November, I wonder what I will be able to do in the winter. It's time to set up the car and start turning towards the coast. There is much to see. 
