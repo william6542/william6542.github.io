@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "1982 Subcomittee Workshop on Soviet Military Economic Relations"
+title:  "Subcomittee Workshop on Soviet Military Economic Relations (1982)"
 date:   2022-10-13 20:58:58 -0700
 categories: 
 ---

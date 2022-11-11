@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "1968 Senate Hearings on Status of US Strategic Nuclear Forces"
+title:  "Senate Hearings on Status of US Strategic Nuclear Forces (1968)"
 date:   2022-07-30 20:58:58 -0700
 categories: 
 ---
