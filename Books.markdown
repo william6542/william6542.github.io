@@ -450,8 +450,12 @@ Stalin: Volume II: Waiting For Hitler -Kotkin
 
 -China's Aerospace Strategy. Captain J V Singh. Center for Air Power Studies, New Delhi. (2013). Finished 2022-11-06. 
 
+-The Good, the Great, and the Unfriendly: A Librarian's Guide to Working with Friend Groups. (2017). Sally Gardener Reed. ALA. 
+
 -Howard's End. E M Forster. (1910). (1985 edition green hardcover). Finished 2022-11-09.
 
 -On Thermonuclear War. Hermann Kahn. (1960). (2017 paperback republish). Finished 2022-11-11, after many months. 
+
+-One Beautiful Spring Day. Jim Woodring. (2022 Limited Edition). Finished 2022-11-15. 
 
 
