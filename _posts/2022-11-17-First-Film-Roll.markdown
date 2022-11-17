@@ -1,0 +1,17 @@
+---
+layout: post
+title:  "First Film Roll - WORK IN PROGRESS"
+date:   2022-11-17 1:58:58 -0700
+categories: 
+---
+WORK IN PROGRESS
+
+On 2022 October 11, I stopped by at Blue Moon Camera to get a film camera. I had planned to get something like a 200$ cannon, and a 100$ lens, maybe 35mm. Unfortunatley they only had 50mm and 28mm, so I went with 28mm because my primary idea was to take outdoor photographs while backpacking. The entire setup, with lens glass cover and cap, along with sling, with tax, cost: $360. Certainly this was a bit more expensive than the usual running price, but not by much. Furthermore, I realized that the main cost would be the film, and especially the developing. This is further incentive to keep photo spamming to a minimum, and save this camera and its rolls for real adventures.  
+
+Sadly, the season was over for me, and school had started already. But still, this collection was a nice start. The first roll type was, by reccomendation of the store clerk, Portra 400. Of course. Basically everyone uses Portra 400. I should do some research on other roll types, preferably cheaper ones. 
+
+Was there any real reason to get this camera? Probably not. In reality, the iPhone quality is more than enough for me, who is only looking to have slices of madeline cake to trigger memories. Or, if one wanted quality, a dslr would have worked. I think I was drawn not only to the slowness of the system, but also the mechanical nature, and the fragility of the film. I was talking with David on Sahale about this: he said he spams too many photos. He said sometimes, it felt as if the iPhone spamming made his hikes feel false, unimportant, too memorable. He said part of adventure is not remembering, it is of forgetting things you did, so there is more weight attached to each moment you are out there, and each adventure you do remember. Fragility grants importance to the things we hold dear, or perhaps, makes them dear. 'What's the point of adventures if you know what will happen, what's the point of adventures if they don't feel mystical?'  
+
+At the time I didn't have the film camera yet, and I jokingly said maybe you should get a film camera, to literally increase the fragility of your memories. We laughed. I think now I see his point. The analog power of the camera also allows one to own the physical result of the film development, yet also imposes on the user the understanding that memories are not only fragile, but you can only take so many. 
+
+Obviously, I could have just gotten a small DSLR, like the Fuji XE-4. (I also realized that another reason I got this old Canon AV-1 is that I really like the aesthetics, the clean lines, the small compact size, the sheer simplicity of the fixed objective). The XE-4 would have checked many of the same boxes, such as form, simplicity, and quality of photos, but it would have been spammable, and it was also a lot more expensive as a starting price. Obviously the main reason to get a digital over film would be that long term operating costs are a lot cheaper, it would be much better quality, and it would be much more durable. Yet, were those the main priorities I was after? When I meet Daniel again I will talk to him about this. He certainly has the spare cash to get into this, which, I aknowledge, is a point of privlidge.  
