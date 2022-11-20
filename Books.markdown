@@ -458,4 +458,6 @@ Stalin: Volume II: Waiting For Hitler -Kotkin
 
 -One Beautiful Spring Day. Jim Woodring. (2022 Limited Edition). Finished 2022-11-15. 
 
+-Even Cowgirls Get The Blues. Tom Robbins (1976). Finished 2022-11-20. 
+
 
