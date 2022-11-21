@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "One Beautiful Spring Day"
+title:  "One Beautiful Spring Day - Jim Woodring (2022)"
 date:   2022-11-20 1:58:58 -0700
 categories: 
 ---
