@@ -14,7 +14,7 @@ One Beautiful Spring Day by Jim Woodring is a 'book'? 'Graphic novel'? 'Fantasy 
 
 So, what is the tldr summary of this book, or to fill out a metadata element: what is it about, (really?)? Whereas 'The Frank Book' is a collection of tales with a Aesop-like quality in tone and length, One Beautiful Spring day is a continuous 400 page epic. Perhaps it may most easily be described as one anthromorphic being's experience of life: the insanity and reality of life. Any other description, though maybe more accurate and detailed, would fall short in describing what the entire book is 'about'. 
 
-However, some major themes of the book can be seen in the book's few whole-page and two-page panels. One of the most prominent whole-page panels is Frank sleeping on his divan-recliner-ottoman-sofa chair at home. 
+However, some major themes of the book can be seen in the book's few whole-page and two-page panels. One of the most prominent whole-page panels is Frank sleeping on his divan-recliner-ottoman-sofa chair at home.
 
 ![Frank Sleeping Compare](/assets/TwoFranksSleeping.jpg)
 
@@ -42,8 +42,28 @@ How is Frank still alive in this two-page panel? Clearly the train is active, bu
 
 But yet, here she is, guarding and smiling at Frank. Pushpaw too, smiles and looks askew, but is he looking at Frank, or at the darling of his life, Pupshaw? Perhaps, one may surmise a cliche take: that it is love and loyalty which keeps us alive, insulates us from the inevitableness that is 'us hurtling towards death' (or in this case death hurtling towards us), gives us the hope that we may yet not die. 'Though one (an adversary perhaps, an assailant, death?) may prevail against him, two can withstand him, and a threefold chord is not quickly broken'. Yet despite proclaiming the benefits of having many friends, even this ancient saying does not guarantee that the 'chord' will not inevitably one day shatter. 
 
+![color end page tuba](/assets/OBSDendPage1.jpg)
+
+Indeed, it is often his two pups who get Frank into trouble as much as get him out of it. In the above color end page (which is a page within the main narrative), Pushpaw blows on a magical tuba dropped by the hot air balloon man. Out of the three who attempted to blow the horn, Frank and Pupshaw both failed to create a 'bubble' entity large enough to sustain itself in the air. But Pushpaw manages to blow so hard that this swarming biblically correct angel manifests and maintains itself. 
+
+What is this angel? Turns out, inside is a bunch of Pupshaw-Pushpaw esque babies! Super cute! The two go inside to meet their 'family' and decide to stay. Frank, trying to join them, is prevented when the mouth/staircase of the angel breaks off. Left behind, Frank goes home in sadness. If the bond between Frank and his two pups is so strong, why would they so easily abandon him? Is the book suggesting that the pups have consciousness, that they have created their own world in which they wish to inhabit? Do we as owners have the right to chain our pets to us? What if they wish to wander free? 
+
+Whatever the case, their lack is immediately effected upon Frank when he is unable to fend off a flowery horse which bites off two of his limbs. Luckily, him and manhog are eventually able to work together to fend it off, in the process becoming friends. So again, the idea that there must be a chord is shown. Indeed, even later, when the pups return into the narrative, and man-hog is ungracuously kicked out again, man-hog finds his own chord with two other ugly man-hogs. 
+
+...
+
+I'll end my thoughts here. It's starting to get incoherent. It's difficult to write a wholistic essay for this book, because despite being one epic, its story is segmented in a way that doesn't lend to wholistic analysis. The book must be read as a whole, but it can only be analyzed in parts. I'm certain I can get more out of it by analyzing and documenting all the specific instances of when a reoccuring event happens, but I'm too lazy to do it now. 
 
 
+####Things to document for later essays:  
+1. All the panels in which Frank does the two hands up pose.  
+2. All the whole-page and two-page panels.  
+3. Each instance of dream transition, and the layers of dreams/locations Frank is in.  
+4. The Fran story in detail, and her progression / reveal as an eldritch god.  
+5. All the panels in which the keyhole appears.  
+6. All the instances of self awareness (world-car, Woodring's cabin, mirror museum, small new house in Fran's house), p40 and 240.  
+7. Apperances of man-hog and the constant change in his relationship with Frank.  
+8. The actual amount of days this book takes place over, and the amount of days including dream/false sequences.   
 
 
 

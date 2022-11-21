@@ -7,6 +7,8 @@ The first update of this list is taken from my "books read" Word document.
 
 Unlike most other pages, scrolling down will lead to the present; this reverse order is because I coped this list from my old Word Document. This list does not include pdfs, papers, essays, articles, and such that I have read. 
 
+Furthermore, books on which I have multiple pages linked (I.E. separate essays) will have clear titles delineating which link leads to which essay. 
+
 #### Before Reed  
 Iliad  
 Odyssey  
@@ -456,7 +458,7 @@ Stalin: Volume II: Waiting For Hitler -Kotkin
 
 -On Thermonuclear War. Hermann Kahn. (1960). (2017 paperback republish). Finished 2022-11-11, after many months. 
 
--One Beautiful Spring Day. Jim Woodring. (2022 Limited Edition). Finished 2022-11-15. 
+-[One Beautiful Spring Day.]({% post_url 2022-11-20-One-Beautiful-Spring-Day %}) Jim Woodring. (2022 Limited Edition). Finished 2022-11-15. 
 
 -Even Cowgirls Get The Blues. Tom Robbins (1976). Finished 2022-11-20. 
 
