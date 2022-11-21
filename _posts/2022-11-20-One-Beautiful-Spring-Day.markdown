@@ -1,11 +1,9 @@
 ---
 layout: post
-title:  "One Beautiful Spring Day -WORK IN PROGRESS"
+title:  "One Beautiful Spring Day"
 date:   2022-11-20 1:58:58 -0700
 categories: 
 ---
-
-### WORK IN PROGRESS
 
 Finished 2022-11-15. 
 First posted 2022-11-20. 
