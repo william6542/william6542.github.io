@@ -1,10 +1,9 @@
 ---
 layout: post
-title:  "First Film Roll - WORK IN PROGRESS"
+title:  "Origin Film Roll: #0"
 date:   2022-11-17 1:58:58 -0700
 categories: 
 ---
-WORK IN PROGRESS
 
 On 2022 October 11, I stopped by at Blue Moon Camera to get a film camera. I had planned to get something like a 200$ cannon, and a 100$ lens, maybe 35mm. Unfortunatley they only had 50mm and 28mm, so I went with 28mm because my primary idea was to take outdoor photographs while backpacking. The entire setup, with lens glass cover and cap, along with sling, with tax, cost: $360. Certainly this was a bit more expensive than the usual running price, but not by much. Furthermore, I realized that the main cost would be the film, and especially the developing. This is further incentive to keep photo spamming to a minimum, and save this camera and its rolls for real adventures.  
 
@@ -15,3 +14,66 @@ Was there any real reason to get this camera? Probably not. In reality, the iPho
 At the time I didn't have the film camera yet, and I jokingly said maybe you should get a film camera, to literally increase the fragility of your memories. We laughed. I think now I see his point. The analog power of the camera also allows one to own the physical result of the film development, yet also imposes on the user the understanding that memories are not only fragile, but you can only take so many. 
 
 Obviously, I could have just gotten a small DSLR, like the Fuji XE-4. (I also realized that another reason I got this old Canon AV-1 is that I really like the aesthetics, the clean lines, the small compact size, the sheer simplicity of the fixed objective). The XE-4 would have checked many of the same boxes, such as form, simplicity, and quality of photos, but it would have been spammable, and it was also a lot more expensive as a starting price. Obviously the main reason to get a digital over film would be that long term operating costs are a lot cheaper, it would be much better quality, and it would be much more durable. Yet, were those the main priorities I was after? When I meet Daniel again I will talk to him about this. He certainly has the spare cash to get into this, which, I aknowledge, is a point of privlidge.  
+
+...
+
+It took a about total of 10 days, for the film to be sent, processed, and digitzed back to me. Out of the 36 photos, 20 came out (light-wise) fine, and the other 16 came out way too dark. So 400 ISO cannot be used in anything less than twilight situations, and even in twilight situations it is just adequate enough. This is further incentive for me to be really sparing in my shots. 
+
+My very first film photo:
+![Government stacks](/assets/AV000.jpg)
+
+I think this is representative of who I am and what I'm trying to do with this mechanical object, huh?
+
+The underground government stacks at UW are quite impressive, though my only other comparison was Reed, so...
+![Government stacks long](/assets/AV001.jpg)
+
+That week, the smog was horrible. Oct 19? : 
+![red square smog](/assets/AV005.jpg)
+
+It's ironic that I always complained about getting stuck in the basement: at Reed my thesis table was in this back corner, and all my materials were usually in the basement (because Classics' stacks is in the basement). I got stuck in the basement at UW again. But for those three weeks, the basement had the cleanest air. Perhaps this says something about humans and living underground in caves again? 
+
+The smog from apartment roof: 
+![apt smog roof](/assets/AV006.jpg)
+
+This is a trip to Vashon Island, watching the Apocaylpse Defiance Circus with E (Oct 22). The first photo shows a group of film photographers who had their cameras out on the other bridge of the ferry. I was so surprised to see them. We pointed at each other like the spider man meme:
+![Ferry filmers](/assets/AV007.jpg)
+
+At KVI beach: 
+![radio tower](/assets/AV008.jpg)
+
+![Beach](/assets/AV009.jpg)
+
+This one, taken by E:
+![me on beach](/assets/AV010.jpg)
+
+E:
+![E on beach](/assets/AV011.jpg)
+
+The Apocaylpse Defiance Circus was insane, and fun to watch. Definitley a well-to-do white person kind of event. This photo shows my under exposure. I could have added more fstop I think, though maybe I might have already been maxed out at 2.8. 
+![Apocalypse Defiance Circus](/assets/DefianceCircus.jpg)
+
+![going home](/assets/AV013.jpg)
+
+At the end of October I moved out of my big apartment and into a smaller one. The large one was too expensive, and fewer people than I expected visited, but I will have fond memories of reading under the sun:
+![sun old apt](/assets/AV014.jpg)
+
+Moving out, almost done. It was a lot of work:
+![moving out](/assets/AV024.jpg)
+
+New unit is much smaller but very comfortable and cozy in the current winter. Though I predict it will be not as nice in the summer:
+![moving in](/assets/AV036.jpg)
+
+This is a good example of me not understanding exposure very well yet, but the softness actually captures how cozy the unit feels at night:
+![cozy](/assets/cozyness.jpg)
+
+Here are some nicer photos from the roof. 
+![roof 1](/assets/AV026.jpg)
+
+![roof 2](/assets/AV028.jpg)
+
+![roof 3](/assets/AV033.jpg)
+
+The coffee shop (Santo) I go to all the time. I even did a research observation paper for this place. Third Places are super important, and living in a apartment that is actually close to walkable areas is so different from before. I mean I used to go to Olea Coffee in Costa Mesa, but that involved driving 12 minutes. Photo is somewhat under exposed. 
+![Santo](/assets/AV017.jpg)
+
+I'm decently pleased by my own first attempt at doing this. The main lesson learned is to not take photos outside the physical limits of the film on hand. Also, to resist the temptation to spam photos. Also, the light meter detects based on the focus ring, so I should be careful of thinking that I have enough exposure if I focus on a brighter spot. I think the photos in good daylight, or in interesting locations, are the best. Clearly not all of these are very interesting or good. But some of them I like a lot. 
