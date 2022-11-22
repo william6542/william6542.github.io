@@ -52,7 +52,7 @@ At KVI beach:
 This one, taken by E:
 ![me on beach](/assets/AV010.jpg)
 
-E:
+E, (unintetionally?, unknowingly?), doing a Jojo pose:
 ![E on beach](/assets/AV011.jpg)
 
 The Apocaylpse Defiance Circus was insane, and fun to watch. The costumes, the themes, the performance, were all well fantastical and colorful. I should have taken a photo mid performance. This photo during admission shows my under exposure. I could enlarged the aperture I think, though maybe I might have already been maxed out at 2.8. 
@@ -73,6 +73,9 @@ New unit is much smaller but very comfortable and cozy in the current winter. Th
 This is a good example of me not understanding exposure very well yet, but the softness actually captures how cozy the unit feels at night:
 ![cozy](/assets/cozyness.jpg)
 
+A fancy dinner with Mary at restaurant 'Machiavelli'. Sadly the photos all turned out too dark. 
+![Machiavelli](/assets/AV021.jpg)
+
 Here are some nicer photos from the roof. 
 ![roof 1](/assets/AV026.jpg)
 
@@ -88,6 +91,17 @@ I'm decently pleased by this origin roll. Some lessons learned are learned to no
 However, the main lesson, I realized, was I too often prioritized having a stable hold with fast enough shutter speed over getting adequate light. Having 1/60 shutter speed in the night does not equate to actually getting enough exposure. 
 
 Another problem was front and back over contrast. The photo on the roof shows this problem. I need to be more aware of what I really want to focus on, and compensate for that. Reducing the aperture ring will likely better this problem. 
+
+Reading the old AV-1 manual again, if it is accurate, I should have these presets in mind for 400 ISO:  
+Indoor lighting: 5.6-8
+Outdoors cloudy: 11-16
+Outdoors bright: 16-22
+
+The Sunny 16 rule is important to remember: ISO 400, set fstop 16. 
+
+The key is that if I'm filming outside at night, I basically have to go 2.8, unless there is really strong lighting or you want to focus on that lighting and underexpose everything else. 
+
+For example, one photo I saw online shot a bright city with 2.8 fstop, 400iso, at 1/5 second shutter. This should be a good benchmark. Since the neighborhood I'm in is considerably darker, it is likely that my camera detector will make ths shutter speed maybe 1-2 seconds. I should check this and verify. If it goes even lower, then that means it's just too dark and I probably need to switch to a higher speed film roll. 
 
 I should also attempt to have some documentation system to see what aperture size I'm using and what shutter speed the detector chooses to use.
 
