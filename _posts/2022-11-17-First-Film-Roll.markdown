@@ -55,7 +55,7 @@ This one, taken by E:
 E:
 ![E on beach](/assets/AV011.jpg)
 
-The Apocaylpse Defiance Circus was insane, and fun to watch. Definitley a well-to-do white person kind of event. But the costumes, the themes, the performance, all well done and colorful. I should have taken a photo mid performance. This photo during admission shows my under exposure. I could enlarged the aperture I think, though maybe I might have already been maxed out at 2.8. 
+The Apocaylpse Defiance Circus was insane, and fun to watch. The costumes, the themes, the performance, were all well fantastical and colorful. I should have taken a photo mid performance. This photo during admission shows my under exposure. I could enlarged the aperture I think, though maybe I might have already been maxed out at 2.8. 
 ![Apocalypse Defiance Circus](/assets/DefianceCircus.jpg)
 
 On the way home, waiting for the ferry, taken by E:
