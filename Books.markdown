@@ -5,7 +5,7 @@ permalink: /Books/
 ---
 The first update of this list is taken from my "books read" Word document.
 
-Unlike most other pages, scrolling down will lead to the present; this reverse order is because I coped this list from my old Word Document. This list does not include pdfs, papers, essays, articles, and such that I have read. 
+Unlike most other pages, scrolling down will lead to the present; this reverse order is because I copied this list from my old Word Document. This list does not include pdfs, papers, essays, articles, and such that I have read. 
 
 Furthermore, books on which I have multiple pages linked (I.E. separate essays) will have clear titles delineating which link leads to which essay. 
 

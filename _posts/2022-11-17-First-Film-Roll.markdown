@@ -37,6 +37,9 @@ It's ironic that I always complained about getting stuck in the basement: at Ree
 The smog from apartment roof: 
 ![apt smog roof](/assets/AV006.jpg)
 
+Many of the underexposed photos were just totally dark. This one was almost just passable, but not. At least the attempt at self photography proved that I knew how to arrange the form:
+![shadow me](/assets/AV018.jpg)
+
 This is a trip to Vashon Island, watching the Apocaylpse Defiance Circus with E (Oct 22). The first photo shows a group of film photographers who had their cameras out on the other bridge of the ferry. They had some really fancy cameras, Leicas and such. I was so surprised to see them. We pointed at each other like the spider man meme:
 
 ![Ferry filmers](/assets/AV007.jpg)
@@ -52,7 +55,7 @@ This one, taken by E:
 E:
 ![E on beach](/assets/AV011.jpg)
 
-The Apocaylpse Defiance Circus was insane, and fun to watch. Definitley a well-to-do white person kind of event. But the costumes, the themes, the performance, all well done and colorful. I should have taken a photo mid performance. This photo during admission shows my under exposure. I could have added more fstop I think, though maybe I might have already been maxed out at 2.8. 
+The Apocaylpse Defiance Circus was insane, and fun to watch. Definitley a well-to-do white person kind of event. But the costumes, the themes, the performance, all well done and colorful. I should have taken a photo mid performance. This photo during admission shows my under exposure. I could enlarged the aperture I think, though maybe I might have already been maxed out at 2.8. 
 ![Apocalypse Defiance Circus](/assets/DefianceCircus.jpg)
 
 On the way home, waiting for the ferry, taken by E:
@@ -80,4 +83,12 @@ Here are some nicer photos from the roof.
 The coffee shop (Santo) I go to all the time. I even did a research observation paper for this place. Third Places are super important, and living in a apartment that is actually close to walkable areas is so different from before. I used to go to Olea Coffee in Costa Mesa, but that involved driving 12 minutes. Photo is somewhat under exposed. 
 ![Santo](/assets/AV017.jpg)
 
-I'm decently pleased by this origin roll. The main lesson learned is to not take photos outside the physical limits of the film on hand and to resist the temptation to spam photos. Also, the light meter detects based on the focus ring, so I should be careful of thinking that I have enough exposure if I focus on a brighter spot. I think the photos in good daylight, or in interesting locations, are the best. Clearly not all of these are very interesting or good. But some of them I like a lot. 
+I'm decently pleased by this origin roll. Some lessons learned are learned to not take photos outside the physical limits of the film on hand and to resist the temptation to spam photos. Also, the shutter meter detects light and adjusts shutter speed based on the location of focus ring, so I should be careful of thinking that I have enough exposure if I focus on a brighter spot. 
+
+However, the main lesson, I realized, was I too often prioritized having a stable hold with fast enough shutter speed over getting adequate light. Having 1/60 shutter speed in the night does not equate to actually getting enough exposure. 
+
+Another problem was front and back over contrast. The photo on the roof shows this problem. I need to be more aware of what I really want to focus on, and compensate for that. Reducing the aperture ring will likely better this problem. 
+
+I should also attempt to have some documentation system to see what aperture size I'm using and what shutter speed the detector chooses to use.
+
+I think the photos in good daylight, or in interesting locations, are the best. Clearly not all of these are very interesting or good. But some of them I like a lot. 
