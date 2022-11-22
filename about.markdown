@@ -16,6 +16,8 @@ Please note that dates of posting do not reflect actual date of posting. I inten
 
 All writing and images here are property and copyright of William Wu. Any links to other websites are not overseen by me, unless otherwise noted. 
 
+Special thanks to Moelf for helping me set this up and fixing issues that I would have otherwise never been able to find online how to fix. The path to technological independence is nearly impossible, but Moelf has helped me take my first steps. 
+
 
 
 
