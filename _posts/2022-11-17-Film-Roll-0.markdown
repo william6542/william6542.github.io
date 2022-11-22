@@ -101,7 +101,7 @@ The Sunny 16 rule is important to remember: ISO 400, set fstop 16.
 
 The key is that if I'm filming outside at night, I basically have to go 2.8, unless there is really strong lighting or you want to focus on that lighting and underexpose everything else. 
 
-For example, one photo I saw online shot a bright city with 2.8 fstop, 400iso, at 1/5 second shutter. This should be a good benchmark. Since the neighborhood I'm in is considerably darker, it is likely that my camera detector will make ths shutter speed maybe 1-2 seconds. I should check this and verify. If it goes even lower, then that means it's just too dark and I probably need to switch to a higher speed film roll. 
+For example, one photo I saw online shot a bright city at nighttime with 2.8 fstop, 400iso, at 1/5 second shutter. This should be a good benchmark. Since the neighborhood I'm in is considerably darker, it is likely that my camera detector will make ths shutter speed maybe 1-2 seconds. I should check this and verify. If it goes even lower, then that means it's just too dark and I probably need to switch to a higher speed film roll. 
 
 I should also attempt to have some documentation system to see what aperture size I'm using and what shutter speed the detector chooses to use.
 
