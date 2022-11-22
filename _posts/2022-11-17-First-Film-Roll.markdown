@@ -5,7 +5,9 @@ date:   2022-11-17 1:58:58 -0700
 categories: 
 ---
 
-On 2022 October 11, I stopped by at Blue Moon Camera to get a film camera. I had planned to get something like a 200$ cannon, and a 100$ lens, maybe 35mm. Unfortunatley they only had 50mm and 28mm, so I went with 28mm because my primary idea was to take outdoor photographs while backpacking. The entire setup, with lens glass cover and cap, along with sling, with tax, cost: $360. Certainly this was a bit more expensive than the usual running price, but not by much. Furthermore, I realized that the main cost would be the film, and especially the developing. This is further incentive to keep photo spamming to a minimum, and save this camera and its rolls for real adventures.  
+On 2022 October 11, I stopped by at Blue Moon Camera to get a film camera. I had planned to get something like a 200$ cannon, and a 100$ lens, maybe 35mm. Unfortunatley they only had 50mm and 28mm, so I went with 28mm because my primary idea was to take outdoor photographs while backpacking. (I also took into consideration the fact that I wanted this to be truly all purpose, so the lower objective would be somewhat better in lower light than a larger objective. Also, it would be easier to hold still. Also, 28mm closely resembles the eye field of view). 
+
+The entire setup, with lens glass cover and cap, along with sling, with tax, cost: $360. Certainly this was a bit more expensive than the usual running price, but not by much. Furthermore, I realized that the main cost would be the film, and especially the developing. This is further incentive to keep photo spamming to a minimum, and save this camera and its rolls for real adventures.  
 
 Sadly, the season was over for me, and school had started already. But still, this collection was a nice start. The first roll type was, by reccomendation of the store clerk, Portra 400. Of course. Basically everyone uses Portra 400. I should do some research on other roll types, preferably cheaper ones. 
 
@@ -19,7 +21,7 @@ Obviously, I could have just gotten a small DSLR, like the Fuji XE-4. (I also re
 
 It took a about total of 10 days, for the film to be sent, processed, and digitzed back to me. Out of the 36 photos, 20 came out (light-wise) fine, and the other 16 came out way too dark. So 400 ISO cannot be used in anything less than twilight situations, and even in twilight situations it is just adequate enough. This is further incentive for me to be really sparing in my shots. 
 
-My very first film photo:
+My very first film photo ever:
 ![Government stacks](/assets/AV000.jpg)
 
 I think this is representative of who I am and what I'm trying to do with this mechanical object, huh?
@@ -35,7 +37,8 @@ It's ironic that I always complained about getting stuck in the basement: at Ree
 The smog from apartment roof: 
 ![apt smog roof](/assets/AV006.jpg)
 
-This is a trip to Vashon Island, watching the Apocaylpse Defiance Circus with E (Oct 22). The first photo shows a group of film photographers who had their cameras out on the other bridge of the ferry. I was so surprised to see them. We pointed at each other like the spider man meme:
+This is a trip to Vashon Island, watching the Apocaylpse Defiance Circus with E (Oct 22). The first photo shows a group of film photographers who had their cameras out on the other bridge of the ferry. They had some really fancy cameras, Leicas and such. I was so surprised to see them. We pointed at each other like the spider man meme:
+
 ![Ferry filmers](/assets/AV007.jpg)
 
 At KVI beach: 
@@ -49,9 +52,10 @@ This one, taken by E:
 E:
 ![E on beach](/assets/AV011.jpg)
 
-The Apocaylpse Defiance Circus was insane, and fun to watch. Definitley a well-to-do white person kind of event. This photo shows my under exposure. I could have added more fstop I think, though maybe I might have already been maxed out at 2.8. 
+The Apocaylpse Defiance Circus was insane, and fun to watch. Definitley a well-to-do white person kind of event. But the costumes, the themes, the performance, all well done and colorful. I should have taken a photo mid performance. This photo during admission shows my under exposure. I could have added more fstop I think, though maybe I might have already been maxed out at 2.8. 
 ![Apocalypse Defiance Circus](/assets/DefianceCircus.jpg)
 
+On the way home, waiting for the ferry, taken by E:
 ![going home](/assets/AV013.jpg)
 
 At the end of October I moved out of my big apartment and into a smaller one. The large one was too expensive, and fewer people than I expected visited, but I will have fond memories of reading under the sun:
@@ -73,7 +77,7 @@ Here are some nicer photos from the roof.
 
 ![roof 3](/assets/AV033.jpg)
 
-The coffee shop (Santo) I go to all the time. I even did a research observation paper for this place. Third Places are super important, and living in a apartment that is actually close to walkable areas is so different from before. I mean I used to go to Olea Coffee in Costa Mesa, but that involved driving 12 minutes. Photo is somewhat under exposed. 
+The coffee shop (Santo) I go to all the time. I even did a research observation paper for this place. Third Places are super important, and living in a apartment that is actually close to walkable areas is so different from before. I used to go to Olea Coffee in Costa Mesa, but that involved driving 12 minutes. Photo is somewhat under exposed. 
 ![Santo](/assets/AV017.jpg)
 
-I'm decently pleased by my own first attempt at doing this. The main lesson learned is to not take photos outside the physical limits of the film on hand. Also, to resist the temptation to spam photos. Also, the light meter detects based on the focus ring, so I should be careful of thinking that I have enough exposure if I focus on a brighter spot. I think the photos in good daylight, or in interesting locations, are the best. Clearly not all of these are very interesting or good. But some of them I like a lot. 
+I'm decently pleased by this origin roll. The main lesson learned is to not take photos outside the physical limits of the film on hand and to resist the temptation to spam photos. Also, the light meter detects based on the focus ring, so I should be careful of thinking that I have enough exposure if I focus on a brighter spot. I think the photos in good daylight, or in interesting locations, are the best. Clearly not all of these are very interesting or good. But some of them I like a lot. 
