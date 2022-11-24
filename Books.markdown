@@ -416,7 +416,7 @@ Stalin: Volume II: Waiting For Hitler -Kotkin
 
 -Blaming China: It Might Feel Good but it Won't Fix America's Economy. Benjamin Shobert. (2018). Finished 2022-08-06. 
 
--The Masks of War: American Military Styles in Strategy and Analysis. Carl H. Builder. (1989). Finished 2022-08-08. 
+-[The Masks of War: American Military Styles in Strategy and Analysis.]({$ post_url 2022-11-24-The-Masks-of-War %}) Carl H. Builder. (1989). Finished 2022-08-08. 
 
 #### The Great Hiking And Backpacking Of Mid-Late Summer 2022.  
 -Roger Sherman and the Creation of the American Republic. Mark David Hall. (2013). Finished 2022-08-14. 

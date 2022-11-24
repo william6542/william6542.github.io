@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Thoughts on Otto Von Bismarck"
-date:   1996-06-24 1:11:11 -0700
+date:   2022-11-24 1:11:11 -0700
 categories: 
 ---
 First written: 2020 July 4-30. 
