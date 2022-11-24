@@ -300,7 +300,7 @@ Tiberius the Politician - Barbara Levick
 #### Starting July 18  
 The House of Mirth - Edith Wharton  
 The Reef - Edith Wharton  
-Bismarck - Edgar Feuctwanger  
+[Bismarck - Edgar Feuctwanger]({% post_url 2022-11-24-Otto-Von-Bismarck-Reflections %})  
 Art of War - Moltke: Selected writings, edited by Daniel J Hughes.  
 	
 #### Starting August 8 (Five Million Covid Cases in US)  
