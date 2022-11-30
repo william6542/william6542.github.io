@@ -462,4 +462,10 @@ Stalin: Volume II: Waiting For Hitler -Kotkin
 
 -Even Cowgirls Get The Blues. Tom Robbins (1976). Finished 2022-11-20. 
 
+-Deforesting the Earth: From Prehistory to Global Crises. Michael Williams. (2003). University of Chicago Press. Finished 2022-11-26. 
+
+-Deforesting the Earth: From Prehistory to Global Crises. Michael Williams. (2003). University of Chicago Press. Finished 2022-11-26.
+
+-Upside Dawn. Jason. (2022). Finished 2022-11-29. 
+
 
