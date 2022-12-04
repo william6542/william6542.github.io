@@ -21,22 +21,23 @@ DRAFT chart 4: Species to Pond Value.
 ### Introduction  
 The question that we decided on looking into and trying to answer was how much, if at all, economic swings could be seen through the commercial prices of logs as sold through the Oregon Department of Forestry.
 
-### Context Concerning the Dataset from the Oregon Dept. of Forestry  
-The dataset that we found and decided to use was a dataset from the Oregon Department of Forestry. The dataset has 7,884 distinct rows of data about sold logs over the course of 15 years, from 2000 to 2015. It also contains some data from 2016, but because the data is incomplete for that year we decided against using it as part of our analysis and final dataset. The raw dataset has seven different variables tracked for each column, with those variables being:  
+#### Context Concerning the Dataset from the Oregon Department of Forestry  
+The dataset that we found and decided to use was a dataset from the Oregon Department of Forestry. The raw dataset has 7,884 distinct rows of data about sold logs over the course of 15 years, from 2000 to 2015. It also contains some data from 2016, but because the data is incomplete for that year we decided against using it as part of our analysis and final dataset. (We will talk more about our computational process below). The raw dataset has seven different variables tracked for each column, with those variables being:  
 1. The Year it was sold   
 2. The quarter it was sold in that year  
 3. what region the log came from  
 4. The grade it was given   
 5. The price it was sold for, and  
-6. The number of people who bid on the log / the number of pond centers called. (We are unsure of this variable and will explain later below).
+6. The number of people who bid on the log / the number of pond centers called. 
 
-It was at first a somewhat surprisingly comprehensive dataset for something that seemed so mundane, but after some thought the importance of keeping such data was clear. It was for situations just like this, be it by the data collectors or others like us, that the lessons which can be learned by interpreting the data collected are more than worth the effort of collection.
+This dataset was surprisingly comprehensive. The importance of keeping such data was immediately clear to us. It was for situations just like this, be it by the data collectors or others like us, that the lessons which can be learned by interpreting the data collected are more than worth the effort of collection.
 
-The main issue with the data is that we have been unable to get in contact with the data collector. Without her help, we are unable to use two of the columns: Grades and Number.of.Quotes.  
+#### Some Issues with Two Column Variables 
+The main issue with the data is that we have been unable to get in contact with the data collector/creator/curator (Julie from the Oregon Department of Forestry). Without her help, we are unable to use two of the columns: Grades and Number.of.Quotes.
 
-One problem that we ran into with this dataset is getting context for two of the types of data that is in it. While we reached out to the creator of the dataset, or at least the one who published it and is listed as the creator, but we did not hear back. The two columns of data that we were unable to effectively use are the graded assessment of the quality of the wood, and the quotes made on the wood. 
+'Grade' of logs refer to both the quality of the logs, and the size (scale) of the logs. 'Quotes' we weren't able to figure out at all. 
 
-Luckily, those two sets of data were also the least required for us to be able to interpret to answer our question. While it would have been nice to work with the wood grade and number of bids as well, in the end they were largely only factors in the final price the wood was sold for, which was a set of data that was very understandable and easy to work with. And as our question was directly related to the price of the wood over time and not the grade of the wood, it was not a significant obstacle to have to exclude those variables from the final analysis.
+Luckily, those two sets of data were also the least required for us to be able to interpret to answer our question. While it would have been nice to work with Grade and Quotes as well, in the end they did not seem to be important factors to answer our basic question, which could be analyzed with the remaining column variables. Thus, the lack of usage of Grade and Quotes was not a significant obstacle to conudcting our analyses. 
 
 However, for the sake of clarity, we will further explain what it is exactly that we found problematic with the variables Grade and Number.of.Quotes. 
 
@@ -44,15 +45,50 @@ First, we were unable to use the variable column Grade because the grading rubri
 
 Second, we are unsure of what the column variable Number.of.Quotes means exactly. It could be the number of quotes taken per quarter at that listed price, or it could be the number of logs sold at that price quoted from various pond centers. Without this exact information, we would not know if quotes would thus equal a weighting system. If the former, then each row would be weighted as 1. If the latter, then each row would be weighted according to the number of quotes listed. Because Julie did not respond to our email, we chose not to utilize this column, which meant that our default assumption was that each row defaulted to a weighted value of 1. 
 
-### Computational method?   (NEED TO ADD)
+#### Computational Method and Analysis  
+The raw dataset contains 7,884 distinct rows of information. Although already in quite good shape, we decided to further clean the data for a few reasons. 
 
+On the overall level, we noticed that the data collection for 2016 was incomplete: that final year was missing quarters 3 and 4. We therefore completley deleted any rows which continaed the year 2016. This left us with a remainder of 7,623 rows of information. Doing a quick group_by and count, we were able to see the distribution of the number of rows per year. As expected, 2016 had an abnormally low number of rows. One other issue we noticed was that the number of rows was slowly ramping up from 2000-2006, and then stabailized after 2007. Is the ramping up indicitive of a larger macro logging industry trend, or is it reflective of the building up of logging industry contacts as this dataset first started? Without a response from Julie, we do not know. 
+
+Dataset rows per year
+![screenshot rows per year](/assets/RowCountByYear.jpg)
+
+On a more specific level, while doing analysis on regions, we noticed that two regions only had a frequency of 1. These two rows were "6 - Klamath Unit" and "7 - Klamath Unit". However, Klamath Unit already exsists as region 5. So we decided to slice those two out. Further along in our analysis on regions, we noticed that two regions were the exact same, but for some reason were split into two rows. We merged those two rows into one. ("2 & 3 - Coos, Douglas Counties & Roseburg"). 
+
+Region Count Raw
+![Region Count Raw](/assets/RegionCountRaw.jpeg)
+
+For our analysis of the four main relationships, our most common code pattern was to group_by and then summarize(sum()) the cleaned dataset. This worked well for all four relationships:   
+1. Total Pond Value over Years  
+2. Quartlery Pond Values over Years  
+3. Pond Value by Region  
+4. Pond Value by Species  
+
+Computational Analysis (35 points)
+
+You will perform a computational analysis on your dataset of choice. You have a lot of free rein with this analysis, but here are the requirements:
+
+    You must prepare/clean/examine your data in some way
+    You must apply at least one method to the data
+    You must zoom in on a specific example
+    You must provide clear documentation of your code through Markdown text and in-code comments
+
+Data is prepared/cleaned/examined thoroughly. Student(s) identifies general patterns, potential outliers, or problems with the data. 	10 points
+At least one of the methods learned in class is applied appropriately. Student(s) demonstrate command of method. 	10 points
+Student creates at least one data visualization. 	5 points
+The code is well-written, readable, and organized. Student uses R correctly and appropriately. 	5 points
+Student includes in-code comments to describe sections of the code. 	5 points
+Total
+
+
+#### Main Insight
 The main insight that we got from this dataset is that economic trends have a huge impact on log prices, and this impact is reflected very clearly in the data. Perhaps it can even be said that the log prices may predict economic trends, as we see prices fall even in 2007. Looking at Figure 1,we can clearly see rising price of logs from 2002-2007, and the subsequent nosedive in prices during the Great Recession which started in December of 2007. Log prices dropped more than 30% in the span of just 2007-2009. The price low of 2009 was lower than anything else we had data on. 
 
 We can also see the tail end of the drop in prices during the tail end of the decade long Dotcom Bubble. The fall at the end of the Dotcom Bubble was much less sudden, as we can see in the years 2000-2002, as compared to extremely steep fall in prices during the Great Recession. 
 
 Figure 1: 
 
-![yearly pond value aggregate](/assets/TotalPondValueOverYearsV2.jpeg)
+![yearly pond value aggregate](/assets/TotalPondValuesOverYearsV2.jpeg)
 
 
 Visual data/plots (BELOW)
