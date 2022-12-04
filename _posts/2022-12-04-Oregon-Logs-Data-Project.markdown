@@ -14,10 +14,8 @@ DRAFT chart 1:  Yearly Pond Value sales:
 DRAFT chart 2: Quarters' Pond Value over Years:
 ![quarters pond values](/assets/QuartersPondValueOverYears.jpeg)
 
-
-
 DRAFT chart 3: Region to Pond Value:
-![region to pond value(/assets/RegionToPondValueTurboColor.jpeg)]
+![region to pond value](/assets/RegionToPondValueTurboColor.jpeg)]
 
 
 DRAFT chart 4: Species to Pond Value. 
