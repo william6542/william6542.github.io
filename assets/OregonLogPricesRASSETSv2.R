@@ -50,6 +50,16 @@ region_count <- region_count[-c(6,7),]
 #_____________________________________________________________________________________________________________
 #_____________________________________________________________________________________________________________
 
+# trying to calculate weight using quotes, first need to remove non numericals from Number.of.Quotes column 
+log_prices_clean_2$weight<-as.numeric(regmatches(log_prices_clean_2$Number.of.Quotes, regexpr("\\d+", log_prices_clean_2$Number.of.Quotes)))
+# ok wow this actually works!!!!! 
+
+# now multiplying the two columns 
+weighted_df <- log_prices_clean_2 %>% mutate(total_weight = Pond.Value * weight)
+# this is correct!!!!! after 4 hours of trying to do this it finally works wow. 
+
+# now, total_weight will stand in for pond value, as TOTAL log prices. Let's see how this works. 
+
 
 #_____________________________________________________________________________________________________________
 #_____________________________________________________________________________________________________________
@@ -59,11 +69,12 @@ install.packages("viridis")
 library("viridis")
 #_________________________________________________________________________________________
 
-# DATAFRAME 0 Region to Pond Value
+# DATAFRAME 0 Region to Pond Value     Do we even need this, I can just cut all this. IGNORE REGION TO POND VALUE. 
+# The First blog draft showed that it didn't really matter.
 region_pond_value <- 
-  log_prices_clean_2 %>% 
+  weighted_df %>% 
   group_by(Region) %>% 
-  summarize(Pond.Value = sum(Pond.Value))
+  summarize(total_value = sum(weight))
 
 # slice off bottom two, seems like wron input. 
 region_pond_value <- region_pond_value[-c(6,7),]
@@ -97,9 +108,9 @@ region_pond_value_plot
 # __________________________________________________________________________________
 # DATAFRAME 1 Year to Pond Value 
 yearly_price_total <- 
-  log_prices_clean_2 %>% 
+  weighted_df %>% 
   group_by(Year) %>% 
-  summarize(sum(Pond.Value))
+  summarize(total_value=sum(total_weight))
 
 colnames(yearly_price_total)[2] <- "pond_value"
 
@@ -119,6 +130,7 @@ yearly_plot +
 
 # DATAFRAME 2 Grade to Pond Value
 # (We may or may not use this due to difficult in interpreting and organizing grades).
+# WE ARE NOT USING THIS, THIS IS JUST NOT RELEVANT, NOR DO WE HAVE ACCURATE GRADE DATA
 grade_to_pond <- 
   log_prices_clean_2 %>% 
   group_by(Grade, Pond.Value) %>% 
@@ -147,6 +159,7 @@ aggregate_grade_value_2 <-
 # DATAFRAME 3 Grade to Species 
 # This shows what species take up what grades. 
 # (We are proabably not going to use this).
+# THIS IS JUST NOT USEFUL. 
 grade_to_species <- 
   log_prices_clean_2 %>% 
   group_by(Grade, Species) %>% 
@@ -156,9 +169,9 @@ grade_to_species <-
 # DATAFRAME 4 Four Lines of Quarters to Pond Value
 # This shows how much sales take place in each quarter over the 15 years. (This is a good one).
 four_quarters <- 
-  log_prices_clean_2 %>% 
+  weighted_df %>% 
   group_by(Quarter, Year) %>% 
-  summarize(Pond.Value = sum(Pond.Value))
+  summarize(Pond.Value = sum(total_weight))
 
 #install.packages("reshape")
 library(reshape)
@@ -183,9 +196,9 @@ ggplot(four_quarters, aes(x = Year, y = Pond.Value, color = Quarter)) +
 # DATAFRAME 5 Species to Pond Value
 # Aggregate sales of Species to Pond Value. (This is very good) 
 species_pond_value <- 
-  log_prices_clean_2 %>% 
+  weighted_df %>% 
   group_by(Species) %>% 
-  summarize(Pond.Value = sum(Pond.Value))
+  summarize(Pond.Value = sum(total_weight))
 
 ggplot(species_pond_value, aes(x=Species, y=Pond.Value)) + 
   geom_col(aes(fill = Species)) + 
@@ -196,21 +209,21 @@ ggplot(species_pond_value, aes(x=Species, y=Pond.Value)) +
 
 # doing calculations for blog
 species_pond_value %>% summarize(sum(Pond.Value))
-# 3579925 is total
+# NEW TOTAL: DO NOT CONFUSE WITH OLD UNWEIGHTED TOTAL. HERE IS THE NEW TOTAL:
+# NEW TOTAL: $20,953,065  US dollars
 
 
 #DATAFRAME 5.1 Douglas Fir ONLY price over years
-douglas_fir <- log_prices_clean_2 %>% filter(str_detect(Species, "Douglas-fir"))
+douglas_fir <- weighted_df %>% filter(str_detect(Species, "Douglas-fir"))
 
 nrow(douglas_fir)
 # confirms 2332 from species_count dataframe
-
 
 #now doing the same thing as DATAFRAME 1
 douglas_fir_total <- 
   douglas_fir %>% 
   group_by(Year) %>% 
-  summarize(sum(Pond.Value))
+  summarize(Pond.Value=sum(total_weight))
 
 colnames(douglas_fir_total)[2] <- "pond_value"
 
@@ -235,49 +248,55 @@ year_vector <- c(2000,2001,2002,2003,2004,2005,2006,2007,2008,2009,2010,2011,201
 
 # normalizing Yearly Price Total 
 average_yearly <- mean(yearly_price_total$pond_value)
-# result is 223745.3125
+# NEW RESULT: WEIGHTED
+# NEW RESULT IS 1,309,566.5625
 
-year_average_overlay <- as.numeric(as.character(yearly_price_total$pond_value)) / 223745.3125
+year_average_overlay <- as.numeric(as.character(yearly_price_total$pond_value)) / 1309566.5625
 # this is correct, now need to add year column back
 
 overlay_p1<-data.frame(year_vector, year_average_overlay)
 
 # normalizing Douglas Fir Total
 average_douglas <- mean(douglas_fir_total$pond_value)
-# result is 73955
+# NEW RESULT: WEIGHTED
+# NEW RESULT IS 507,112.1875
 
-douglas_average_overlay <-as.numeric(as.character(douglas_fir_total$pond_value)) / 73955
+douglas_average_overlay <-as.numeric(as.character(douglas_fir_total$pond_value)) / 507112.1875
 # this is correct, now need to add year column back
 
 overlay_p2<-data.frame(year_vector, douglas_average_overlay)
+
+
+# THIS SECTION IS TO CREATE A LEGEND, BECAUSE OF DISCRETE AND CONTINUOUS COLOR = VARIABLE PROBLEM 
+# trying to create a three row dataframe with Douglas Fir and Total Species as VALUES, not VARIABLES.
+# going to manually overwrite and add values to overlay_p1 and overlay_p2
+
+total_species_vector <- c("Total Species","Total Species","Total Species","Total Species","Total Species","Total Species","Total Species","Total Species","Total Species","Total Species","Total Species","Total Species","Total Species","Total Species","Total Species","Total Species")
+
+overlay_p1['Catagorey'] <- total_species_vector
+
+colnames(overlay_p1)[2] <- "Normalized.Price"
+
+douglas_vector <- c("Douglas Fir","Douglas Fir","Douglas Fir","Douglas Fir","Douglas Fir","Douglas Fir","Douglas Fir","Douglas Fir","Douglas Fir","Douglas Fir","Douglas Fir","Douglas Fir","Douglas Fir","Douglas Fir","Douglas Fir","Douglas Fir")
+
+overlay_p2['Catagorey'] <- douglas_vector
+colnames(overlay_p2)[2] <- "Normalized.Price"
+
+# merge the two dataframes
+
+
+
 
 # finally: 
 # overlay plot of Douglas Fir onto Yearly
 ggplot(overlay_p2, aes(x=year_vector, y=douglas_average_overlay)) +
   geom_line(col="green3", aes(x=year_vector, y=douglas_average_overlay), size=1) +
   geom_line(data=overlay_p1, col="black", aes(x=year_vector, y=year_average_overlay), size=1) +
-  labs(title = "Overlay of Douglas Fir and Total Yearly Prices", y="Normalized Pond Value", x="Year") +
+  labs(title = "Overlay of Douglas Fir and Total Yearly Prices", y="Pond Value", x="Year") +
   scale_y_continuous(labels=comma) +
   theme(text = element_text(size = 24)) 
 
 
-
-
-##notes 
-
-  # +scale_color_manual(name="Aggregate vs Douglas Fir", breaks=c('Douglas Fir', 'Aggregate Species'),
-                    # values=c('Douglas Fir' = "green3", "Aggregate Species"="black"))
-
-##### IGNORE THIS 
-##_____ NOTES 
-# overlay plot of Douglas Fir onto Yearly
-
-ggplot(douglas_fir_total, aes(x=Year, y=pond_value)) +
-  geom_line(col="green3", aes(x=Year, y=pond_value), size=1) +
-  geom_line(data=yearly_price_total, size=1) +
-  labs(title = "Overlay of Douglas Fir and Total Yearly Prices", y="Pond Value") +
-  scale_y_continuous(labels=comma) +
-  theme(text = element_text(size = 24)) 
 
 
 
