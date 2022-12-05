@@ -5,9 +5,9 @@ date:   2022-12-04 1:11:11 -0700
 categories: 
 ---
 
-LIS 572: Data Science with Professor Melanie Walsh. 
-By William Wu and Ben Hauptman.  
-First published 2022-12-04.  
+LIS 572: Data Science with Professor Melanie Walsh.   
+By William Wu and Ben Hauptman.   
+First published 2022-12-04.   
 
 ### Introduction
 The question we wanted to look into was if macroeconomic swings could be detected through the price of logs. We used a dataset provided by the Oregon Department of Forestry. We chose this dataset because Oregon is a large supplier of logs throughout the Northwest. 
@@ -16,7 +16,7 @@ The question we wanted to look into was if macroeconomic swings could be detecte
 
 Since we knew that Douglas Fir is very common in Oregon, and since we also knew that Douglas Fir is comomnly used in building construction, we *predicted that data analysis on this dataset would indeed produce results that clearly show the economic crisis of 2008*. 
 
-The dataset can be found here: [Oregon Log Prices Dataset](https://data.oregon.gov/Natural-Resources/Log-Prices/4v4m-wr5p).
+The dataset can be found here: [Oregon Log Prices Dataset](https://data.oregon.gov/Natural-Resources/Log-Prices/4v4m-wr5p).  
 Our code can be found here: [Oregon Log Prices R Analysis](/assets/OregonLogPricesRASSETSv1.R).
 
 
@@ -108,7 +108,7 @@ Figure 3:
 
 ![region to pond value](/assets/PondValueByRegionV2.jpeg)
 
-And finally, in Figure 4, we can see why Oregon's official state tree is the Douglas Fir. By far, the most logged tree is the Douglas Fir. The Douglas Fir makes up by far the most pond value out of all the tree species documented by this dataset. The grand total pond value in the final dataset adds up to $3,579,925. Of that amount, the Douglas Fir holds 33.1% of sales! (At $1,183,280). The dataset clearly reflects the natural prevalence of the Douglas Fir in Oregon, but also displays its prominence and importance to the local rural logging economy. 
+And finally, in Figure 4, we can see why Oregon's official state tree is the Douglas Fir. As the bar plot indicates, the most logged tree, even without unit weighting, is by far the Douglas Fir. Out of the $3,579,925 grand total pond value in our calculation, the Douglas Fir holds the Douglas Fir holds 33.1% of sales! (At $1,183,280). The dataset clearly reflects the natural prevalence of the Douglas Fir in Oregon, but also displays its importance to the local rural logging economy and to the wider construction/real estate business. 
 
 Figure 4: 
 
@@ -117,7 +117,7 @@ Figure 4:
 ### Reflections
 One possible direction this data could go would be to expand the current dataset to gain a much longer view of the ups and downs of log market prices. This could go both into the future and into the past, but work would have to be done to adjust prices relative to the current year's level of inflation. It would also be interesting to compare the data against other states' logging information, Federal logging information, and the logging information of other countries. 
 
-Finally, the major problem we encountered was the lack of a proper weighting variable, due to the fact that we could not confirm what "Quotes" actually meant. If Julie ever responds to us, it would be very interesting if the graphs change, depending on what "Quotes" mean. It is possible that we got very lucky with our current graphs, as they match our predictions and reflect historical ecnomic swings. However, in the future, it would be best to fully ascertain the meaning and weighting of all variables. 
+Finally, we just want to reiterate that the major problem we encountered was the lack of a proper weighting variable, due to the fact that we could not confirm what "Quotes" actually meant. If Julie ever responds to us, it would be very interesting to see if the graphs change, depending on what "Quotes" mean. It is possible that we got very lucky with our current graphs, as they match our predictions and reflect historical ecnomic swings. However, in the future, it would be best to fully ascertain the meaning and weighting of all variables. 
 
 
 
