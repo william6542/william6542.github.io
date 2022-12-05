@@ -5,12 +5,19 @@ date:   2022-12-04 1:11:11 -0700
 categories: 
 ---
 
+LIS 572: Data Science with Professor Melanie Walsh. 
+By William Wu and Ben Hauptman.  
+First published 2022-12-04.  
+
 ### Introduction
-The question that we decided on looking into and trying to answer was how much, if at all, economic swings could be seen through the Pond Value of logs, through a dataset provided by the Oregon Department of Forestry. (Note, Pond Value refers to the price paid for an unprocessed log at a processing plant. Where the logs are stacked are called "Ponds"). 
+The question we wanted to look into was if macroeconomic swings could be detected through the price of logs. We used a dataset provided by the Oregon Department of Forestry. We chose this dataset because Oregon is a large supplier of logs throughout the Northwest. 
+
+*(Note, Pond Value refers to the price paid for an unprocessed log at a processing plant. Where the logs are stacked are called "Ponds". Log price and pond value are the same thing).*
 
 Since we knew that Douglas Fir is very common in Oregon, and since we also knew that Douglas Fir is comomnly used in building construction, we *predicted that data analysis on this dataset would indeed produce results that clearly show the economic crisis of 2008*. 
 
 The dataset can be found here: [Oregon Log Prices Dataset](https://data.oregon.gov/Natural-Resources/Log-Prices/4v4m-wr5p).
+Our code can be found here: [Oregon Log Prices R Analysis](/assets/OregonLogPricesRASSETSv1.R).
 
 
 #### Context Concerning the Dataset from the Oregon Department of Forestry
@@ -34,17 +41,22 @@ Luckily, those two sets of data were also the least required for us to be able t
 
 However, for the sake of clarity, we will further explain what it is exactly that we found problematic with the variables Grade and Number.of.Quotes. 
 
-First, we were unable to use the variable column Grade because the grading rubric input used was inconsistent. While we were able to find official government references as to how logs are graded, the data collection input did not follow that rubric. (Here is a quick guide: [Oregon Log Grading](https://www.oregon.gov/ODF/Documents/WorkingForests/LogTermDefinitions.pdf)). The main issue was the problem of grade (*meaning quality*) vs scale (*meaning size*). In the dataset, some of the input rows were only for quality, others only for size, and some held both. This inconsistency led to a situation in which if we were to use that data, we would not have been able to get something out of it that was more than only tangentially related to the original question we were seeking to answer. This is because we simply do not know how much overlap there is on the three types of inputs. It could be the case that the rows indicating both quality and scale are equal in number to the independent rows of scale or quality, or it could be that they are totally separate. Without a response from Julie, we simply do not know. In any case, this experience was important because it showed us the importance of being able to contact the dataset source, and the importance of cleaning. 
+First, we were unable to use the variable column Grade because the grading rubric input used was inconsistent. While we were able to find official government references as to how logs are graded, the data collection input did not follow that rubric. (Here is a quick guide: [Oregon Log Grading](https://www.oregon.gov/ODF/Documents/WorkingForests/LogTermDefinitions.pdf)). The main issue was the problem of grade (*meaning quality*) vs grade (*meaning scale or size*). In the dataset, some of the input rows were only for quality, others only for size, and some held both. This inconsistency led to a situation in which if we were to use that data, we would not have been able to get something out of it that was more than only tangentially related to the original question we were seeking to answer. This is because we simply do not know how much overlap there is on the three types of inputs.   
+It could be the case that the rows indicating both quality and scale are equal in number to the independent rows of scale or quality, or it could be that they are totally separate. Without a response from Julie, we simply do not know. In any case, this experience was important because it showed us the importance of being able to contact the dataset source, and the importance of cleaning. 
 
-Second, we are unsure of what the column variable Number.of.Quotes means exactly. It could be the number of quotes taken per quarter at that listed price, or it could be the number of logs sold at that price quoted from various pond centers. Without this exact information, we would not know if quotes would indicate a weighting system. If the former, then each row would be weighted as 1. If the latter, then each row would be weighted according to the number of quotes listed. Also, even if the value was weighted, we would not know by how much, because a quote from any Pond center could indicate any number of logs. In the end, because Julie did not respond to our email, we chose not to utilize this column, which meant that our default assumption was that each row defaulted to a weighted value of 1 log. *This means that the total prices indicated in our graphs will be severely under what is the reality*. 
+Second, we are unsure of what the column variable Number of Quotes means exactly. It could be the number of quotes taken per quarter at that listed price, or it could be the number of logs sold at that price quoted from various pond centers. Without this exact information, we would not know if quotes would indicate a weighting system. If the former, then each row would be weighted as 1. If the latter, then each row would be weighted according to the number of quotes listed.   
+Also, even if the value did indicate weight, we would not know *by how much*, because a quote from any pond center could indicate any number of logs. This is because unique pond centers *are not* listed as a column variable. In the end, because Julie did not respond to our email, we chose not to utilize this column, which meant that our default assumption was that each row defaulted to a weighted value of 1 log. *This means that the total prices indicated in our graphs will be severely under what is the reality*. 
 
-A final problem was the issue of Year. Does Year mean fiscal year? Or is it simply just calendar year? This problem did not really impact most of the dataset, except for the crucial years around 2007-2009. If Year means Fiscal Year, then Pond Values would not be predictive of the Great Recession. If Year means calendar year, then it could be argued that pond values may have the power to predict housing market crashes! This is because the meaning of Year would change the position of Quarter 4, which could be either seen as a predictive element or a lagging element in relation to the Great Recession. Given the absence of information, and given exsisting US government data on average house prices in the US, which *seems* to correlate with our graphs, we have taken Year to mean calendar year in our analysis ([Sales prices of new homes in the US](https://upload.wikimedia.org/wikipedia/en/thumb/b/b8/Median_and_Average_Sales_Prices_of_New_Homes_Sold_in_United_States_1963-2016_annual.svg/1920px-Median_and_Average_Sales_Prices_of_New_Homes_Sold_in_United_States_1963-2016_annual.svg.png)). 
+A final problem was the issue of Year. Does Year mean fiscal year? Or is it simply just calendar year? This problem did not really impact most of the dataset, except for the crucial years around 2007-2009. If Year means Fiscal Year, then Pond Values would not be predictive of the Great Recession. If Year means calendar year, then it could be argued that pond values may have the power to predict housing market crashes! This is because the meaning of Year would change the position of Quarter 4, which could be either seen as a predictive element or a lagging element in relation to the Great Recession. (US fiscal year starts with Quarter 1 in October).  
+Given the absence of information, and given exsisting US government data on average house prices in the US, which *seems* to correlate with our graphs, we have taken Year to mean calendar year in our analysis ([Sales prices of new homes in the US](https://upload.wikimedia.org/wikipedia/en/thumb/b/b8/Median_and_Average_Sales_Prices_of_New_Homes_Sold_in_United_States_1963-2016_annual.svg/1920px-Median_and_Average_Sales_Prices_of_New_Homes_Sold_in_United_States_1963-2016_annual.svg.png)). 
 
 
 #### Computational Method and Analysis  
 The raw dataset contains 7,884 distinct rows of information. Although already in quite good shape, we decided to further clean the data for a few reasons. 
 
-On the overall level, we noticed that the data collection for 2016 was incomplete: that final year was missing quarters 3 and 4.  Doing a quick group_by and count, we were able to see the distribution of the number of rows per year. As expected, 2016 had an abnormally low number of rows. We therefore completley deleted any rows which contained the year 2016. This left us with a remainder of 7,623 rows of information. 
+The very first thing we did was to remove three rows with N/A for prices. Pond value is the most important variable in our study, so rows without them were removed. 
+
+Next, we noticed that the data collection for 2016 was incomplete: that final year was missing quarters 3 and 4. Doing a quick group_by and count, we were able to see the distribution of the number of rows per year. As expected, 2016 had an abnormally low number of rows. We therefore completley deleted any rows which contained the year 2016. This left us with a remainder of 7,623 rows of information. 
 
 One other issue we noticed was that the number of rows was slowly ramping up from 2000-2006, and then stabailized after 2007. Is the ramping up indicitive of a larger macro logging industry trend, or is it reflective of the building up of logging industry contacts as this dataset first started (and therefore indicating a lack of information in the first years of data collection)? Without a response from Julie, we do not know. 
 
@@ -78,7 +90,7 @@ The main insight that we got from this dataset is that economic trends have a hu
 
 We can also see the tail end of the drop in prices of the decade long Dotcom Bubble. Comparatively speaking, the fall in prices at the end of the Dotcom Bubble in 2000-2002 was much more gentle than the extremely steep fall in prices during the Great Recession. 
 
-Thus, despite the above mentioned problem of lacking a weighted variable to calculate actual number of logs, we were still able to see a very clear trend. We suspect that this is because the Oregon Department of Forestry likely has a policy in place which mandates some sort of equal selection of tree grade cutting, so that no one tree growth is all cut in toto. 
+Thus, despite the above mentioned problem of lacking a weighted variable to calculate actual number of logs, we were still able to see a very clear trend. We suspect that this is because the Oregon Department of Forestry likely has a policy in place which mandates some sort of equal selection of tree grade cutting, so that no one tree growth is cut in toto. 
 
 Figure 1: 
 
