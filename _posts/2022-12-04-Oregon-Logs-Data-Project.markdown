@@ -102,7 +102,7 @@ Figure 2:
 
 ![quarters pond values over years](/assets/QuartersOverYearsPondValueV2.jpeg)
 
-Next, in Figure 3, we can see that the logging in each region of Oregon is relativel equal. 
+Next, in Figure 3, we can see that the logging in each region of Oregon is relatively equal. 
 
 Figure 3: 
 

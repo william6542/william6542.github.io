@@ -47,7 +47,27 @@ region_count <-
 # slice off bottom two, seems like wrong input
 region_count <- region_count[-c(6,7),]
 
-#_________________________________________________________________________________________
+#_____________________________________________________________________________________________________________
+#_____________________________________________________________________________________________________________
+#_____________________________________________________________________________________________________________
+# This section here is extra work, assuming QUOTES means weight, we find multiplcation value of quote number x pond value, and create a new column to use as "aggregate.pond.value" 
+
+test_3 <- log_prices_clean_2 %>% as.numeric(gsub(".*?([0-9]+).*", "\\1", log_prices_clean_2$Number.of.Quotes ))
+
+log_prices_clean_3$aggregate.pond.value <- as.numeric(gsub("\\D", "", log_prices_clean_2$Number.of.Quotes))
+
+unique_quotes <- log_prices_clean_2 %>% distinct(Number.of.Quotes)
+
+
+aggregate_grade_value_1 <- 
+  aggregate_grade_value %>% 
+  mutate(across(where(is.character), str_remove_all, pattern = fixed(" ")))
+
+
+
+#_____________________________________________________________________________________________________________
+#_____________________________________________________________________________________________________________
+#_____________________________________________________________________________________________________________
 # Using a special color scheme
 install.packages("viridis")
 library("viridis")
