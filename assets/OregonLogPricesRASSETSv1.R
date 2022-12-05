@@ -49,20 +49,6 @@ region_count <- region_count[-c(6,7),]
 
 #_____________________________________________________________________________________________________________
 #_____________________________________________________________________________________________________________
-#_____________________________________________________________________________________________________________
-# This section here is extra work, assuming QUOTES means weight, we find multiplcation value of quote number x pond value, and create a new column to use as "aggregate.pond.value" 
-
-test_3 <- log_prices_clean_2 %>% as.numeric(gsub(".*?([0-9]+).*", "\\1", log_prices_clean_2$Number.of.Quotes ))
-
-log_prices_clean_3$aggregate.pond.value <- as.numeric(gsub("\\D", "", log_prices_clean_2$Number.of.Quotes))
-
-unique_quotes <- log_prices_clean_2 %>% distinct(Number.of.Quotes)
-
-
-aggregate_grade_value_1 <- 
-  aggregate_grade_value %>% 
-  mutate(across(where(is.character), str_remove_all, pattern = fixed(" ")))
-
 
 
 #_____________________________________________________________________________________________________________
@@ -213,14 +199,77 @@ species_pond_value %>% summarize(sum(Pond.Value))
 # 3579925 is total
 
 
+#DATAFRAME 5.1 Douglas Fir ONLY price over years
+douglas_fir <- log_prices_clean_2 %>% filter(str_detect(Species, "Douglas-fir"))
+
+nrow(douglas_fir)
+# confirms 2332 from species_count dataframe
 
 
+#now doing the same thing as DATAFRAME 1
+douglas_fir_total <- 
+  douglas_fir %>% 
+  group_by(Year) %>% 
+  summarize(sum(Pond.Value))
+
+colnames(douglas_fir_total)[2] <- "pond_value"
+
+douglas_fir_plot <- 
+  douglas_fir_total %>% 
+  ggplot(aes(x=Year, y = pond_value)) + 
+  geom_line(col = "green3", aes(x=Year, y= pond_value), size=1) +
+  scale_color_manual(values=c('Green'))
+
+douglas_fir_plot + 
+  scale_x_continuous(breaks = seq(2000, 2016, by = 1)) + 
+  labs(y = "Pond Value") +
+  ggtitle("Douglas Fir Pond Values: 2000-2015") + 
+  scale_y_continuous(labels=comma) + 
+  theme(text = element_text(size = 24)) 
 
 
+# to normalize curve, find average of all 15 years.
+# then divide each year by that average
+
+year_vector <- c(2000,2001,2002,2003,2004,2005,2006,2007,2008,2009,2010,2011,2012,2013,2014,2015)
+
+# normalizing Yearly Price Total 
+average_yearly <- mean(yearly_price_total$pond_value)
+# result is 223745.3125
+
+year_average_overlay <- as.numeric(as.character(yearly_price_total$pond_value)) / 223745.3125
+# this is correct, now need to add year column back
+
+overlay_p1<-data.frame(year_vector, year_average_overlay)
+
+# normalizing Douglas Fir Total
+average_douglas <- mean(douglas_fir_total$pond_value)
+# result is 73955
+
+douglas_average_overlay <-as.numeric(as.character(douglas_fir_total$pond_value)) / 73955
+# this is correct, now need to add year column back
+
+overlay_p2<-data.frame(year_vector, douglas_average_overlay)
+
+# finally: 
+# overlay plot of Douglas Fir onto Yearly
+ggplot(overlay_p2, aes(x=year_vector, y=douglas_average_overlay)) +
+  geom_line(col="green3", aes(x=year_vector, y=douglas_average_overlay), size=5) +
+  geom_line(data=overlay_p1, (aes(x=year_vector, y=year_average_overlay), size=01)) +
+  labs(title = "Overlay of Douglas Fir and Total Yearly Prices", y="Pond Value", x="Year") +
+  scale_y_continuous(labels=comma) +
+  theme(text = element_text(size = 24)) 
 
 
+##_____ NOTES 
+# overlay plot of Douglas Fir onto Yearly
 
-
+ggplot(douglas_fir_total, aes(x=Year, y=pond_value)) +
+  geom_line(col="green3", aes(x=Year, y=pond_value), size=1) +
+  geom_line(data=yearly_price_total, size=1) +
+  labs(title = "Overlay of Douglas Fir and Total Yearly Prices", y="Pond Value") +
+  scale_y_continuous(labels=comma) +
+  theme(text = element_text(size = 24)) 
 
 
 

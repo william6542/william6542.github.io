@@ -114,6 +114,22 @@ Figure 4:
 
 ![species to pond value](/assets/PondValueBySpeciesV2.jpeg)
 
+Even when we zoom into looking at the price of Douglas Fir over time we can see the same economic turns reflected.
+
+Figure 5: 
+
+![Douglas Fir ONLY Pond Value over years](/assets/DouglasFirOnlyPrices.jpeg)
+
+Finally, after normalizing both Total Yearly Pond Value and Total Yearly Douglas Fir **only** Pond Value, we see that the scale of change is nearly the same. In fact, they are so similar that we had to increase the width of the Douglas Fir line in order to make it stand out. 
+(The normalizing process we used was to divide each year's price by the average of all the years).
+
+Figure 6: 
+
+![Overlay without legend, I couldn't get it to work](/assets/OverlayWithoutLegend.jpeg)
+
+We assess that the extra increase in price at the apex of the housing bubble and the extra decrease in price at the nadir of the housing bubble are due to the fact that Douglas Fir is an indispensable and mass-logged species. Thus, during peak construction demand, you can never have enough, whereas when the housing boom ended, you will always have too much. Otherwise, the change in price is not statstically too significantly different between just the Douglas Fir and the Aggregate Species Totals. 
+
+
 ### Reflections
 One possible direction this data could go would be to expand the current dataset to gain a much longer view of the ups and downs of log market prices. This could go both into the future and into the past, but work would have to be done to adjust prices relative to the current year's level of inflation. It would also be interesting to compare the data against other states' logging information, Federal logging information, and the logging information of other countries. 
 
