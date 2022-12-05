@@ -31,6 +31,9 @@ The dataset that we found and decided to use was a dataset from the Oregon Depar
 
 This dataset was surprisingly comprehensive. The importance of keeping such data was immediately clear to us. It was for situations just like this, be it by the data collectors or others like us, that the lessons which can be learned by interpreting the data collected are more than worth the effort of collection.
 
+#### Ethical Concerns
+In general, there does not seem to be any glaring ethical concerns, mostly because none of the pond processing plants are identified by name, nor are any specific geo-located logging coordinates expressed anywhere in the dataset or on the government website. 
+
 
 #### Some Issues with Two Column Variables
 The main issue with the data is that we have been unable to get in contact with the data collector/creator/curator (Julie from the Oregon Department of Forestry). Without her help, we are unable to use two of the columns: Grades and Number.of.Quotes.
@@ -48,7 +51,7 @@ Second, we are unsure of what the column variable Number of Quotes means exactly
 Also, even if the value did indicate weight, we would not know *by how much*, because a quote from any pond center could indicate any number of logs. This is because unique pond centers *are not* listed as a column variable. In the end, because Julie did not respond to our email, we chose not to utilize this column, which meant that our default assumption was that each row defaulted to a weighted value of 1 log. *This means that the total prices indicated in our graphs will be severely under what is the reality*. 
 
 A final problem was the issue of Year. Does Year mean fiscal year? Or is it simply just calendar year? This problem did not really impact most of the dataset, except for the crucial years around 2007-2009. If Year means Fiscal Year, then Pond Values would not be predictive of the Great Recession. If Year means calendar year, then it could be argued that pond values may have the power to predict housing market crashes! This is because the meaning of Year would change the position of Quarter 4, which could be either seen as a predictive element or a lagging element in relation to the Great Recession. (US fiscal year starts with Quarter 1 in October).  
-Given the absence of information, and given exsisting US government data on average house prices in the US, which *seems* to correlate with our graphs, we have taken Year to mean calendar year in our analysis ([Sales prices of new homes in the US](https://upload.wikimedia.org/wikipedia/en/thumb/b/b8/Median_and_Average_Sales_Prices_of_New_Homes_Sold_in_United_States_1963-2016_annual.svg/1920px-Median_and_Average_Sales_Prices_of_New_Homes_Sold_in_United_States_1963-2016_annual.svg.png)). 
+Given the absence of information, we have taken Year to mean Fiscal Year, as Quarter (1, 2, 3, 4) is usually used in a fiscal sense. This assumption seems to correlate with exsisting government information on home sales' prices. ([Sales prices of new homes in the US](https://upload.wikimedia.org/wikipedia/en/thumb/b/b8/Median_and_Average_Sales_Prices_of_New_Homes_Sold_in_United_States_1963-2016_annual.svg/1920px-Median_and_Average_Sales_Prices_of_New_Homes_Sold_in_United_States_1963-2016_annual.svg.png)). 
 
 
 #### Computational Method and Analysis  
@@ -98,6 +101,8 @@ Figure 1:
 
 Next, in Figure 2, we can see that the quarterly values are also relatively equal. This accurately reflects the fact that modern logging does not rely on seasonal river conditions to transport massive log rafts downriver to processing plants. Incedentally, this is why most major American cities today are located at mouths or other key points of big rivers: those were the locations most able to effectively accumulate logs before the advent of rail. And even after rail became commonplace, said major cities still retained prominence due to their early start and due to early rail's massive need for water and lumber (not only for fuel, but also for rail ties). (Anyone looking to read about the fascinating history humanity's interaction with trees should look into [Deforesting the Earth](https://press.uchicago.edu/ucp/books/book/chicago/D/bo79171450.html) by Michael Williams).
 
+What is more curious is why the 4th quarter of 2006-2008 dropped so much quicker, stayed significantly lower, and then rose again so much quicker than the other three quarters. For this phenomenon we have not been able to come up with any explanation. 
+
 Figure 2:
 
 ![quarters pond values over years](/assets/QuartersOverYearsPondValueV2.jpeg)
@@ -120,14 +125,13 @@ Figure 5:
 
 ![Douglas Fir ONLY Pond Value over years](/assets/DouglasFirOnlyPrices.jpeg)
 
-Finally, after normalizing both Total Yearly Pond Value and Total Yearly Douglas Fir **only** Pond Value, we see that the scale of change is nearly the same. In fact, they are so similar that we had to increase the width of the Douglas Fir line in order to make it stand out. 
-(The normalizing process we used was to divide each year's price by the average of all the years).
+Finally, after normalizing both Total Yearly Pond Value and Total Yearly Douglas Fir Pond Value, we see that the scale of change is very similar. (The normalizing process we used was to divide each year's price by the average of all the years).
 
 Figure 6: 
 
 ![Overlay without legend, I couldn't get it to work](/assets/OverlayWithoutLegend.jpeg)
 
-We assess that the extra increase in price at the apex of the housing bubble and the extra decrease in price at the nadir of the housing bubble are due to the fact that Douglas Fir is an indispensable and mass-logged species. Thus, during peak construction demand, you can never have enough, whereas when the housing boom ended, you will always have too much. Otherwise, the change in price is not statstically too significantly different between just the Douglas Fir and the Aggregate Species Totals. 
+We assess that the extra increase in price of Douglas Fir at the apex of the housing bubble and the extra decrease in price at the nadir of the housing bubble are due to the fact that Douglas Fir is an indispensable and mass-logged species. Thus, during peak construction demand, you can never have enough, whereas when the housing boom ended, you will always have too much. Otherwise, the difference in the changes in price between Douglas Fir and the Aggregate Species' Totals is not so drastic as to warrant further investigation. 
 
 
 ### Reflections

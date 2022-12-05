@@ -254,13 +254,21 @@ overlay_p2<-data.frame(year_vector, douglas_average_overlay)
 # finally: 
 # overlay plot of Douglas Fir onto Yearly
 ggplot(overlay_p2, aes(x=year_vector, y=douglas_average_overlay)) +
-  geom_line(col="green3", aes(x=year_vector, y=douglas_average_overlay), size=5) +
-  geom_line(data=overlay_p1, (aes(x=year_vector, y=year_average_overlay), size=01)) +
+  geom_line(col="green3", aes(x=year_vector, y=douglas_average_overlay), size=1) +
+  geom_line(data=overlay_p1, col="black", aes(x=year_vector, y=year_average_overlay), size=1) +
   labs(title = "Overlay of Douglas Fir and Total Yearly Prices", y="Pond Value", x="Year") +
   scale_y_continuous(labels=comma) +
   theme(text = element_text(size = 24)) 
 
 
+
+
+##notes 
+
+  # +scale_color_manual(name="Aggregate vs Douglas Fir", breaks=c('Douglas Fir', 'Aggregate Species'),
+                    # values=c('Douglas Fir' = "green3", "Aggregate Species"="black"))
+
+##### IGNORE THIS 
 ##_____ NOTES 
 # overlay plot of Douglas Fir onto Yearly
 
