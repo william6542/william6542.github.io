@@ -129,7 +129,7 @@ Finally, after normalizing both Total Yearly Pond Value and Total Yearly Douglas
 
 Figure 6: 
 
-![Overlay without legend, I couldn't get it to work](/assets/OverlayWithoutLegend.jpeg)
+![Overlay without legend, I couldn't get it to work](/assets/NormalizedOverlay.jpeg)
 
 We assess that the extra increase in price of Douglas Fir at the apex of the housing bubble and the extra decrease in price at the nadir of the housing bubble are due to the fact that Douglas Fir is an indispensable and mass-logged species. Thus, during peak construction demand, you can never have enough, whereas when the housing boom ended, you will always have too much. Otherwise, the difference in the changes in price between Douglas Fir and the Aggregate Species' Totals is not so drastic as to warrant further investigation. 
 
