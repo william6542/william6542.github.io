@@ -70,7 +70,7 @@ Finally, the major issue we encountered was fixing the weight problem to the bes
 
 ![weighted dataframe screenshot](/assets/WEIGHTEDpondvaluedataframescreenshot.jpeg)
 
-For our analysis of the four main relationships, our most common code pattern was to group_by and then summarize(sum()) the cleaned dataset.
+For our analysis of the three main relationships, our most common code pattern was to group_by and then summarize(sum()) the cleaned dataset.
 
 {% highlight css %}
 yearly_price_total <- 
