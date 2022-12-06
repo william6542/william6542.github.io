@@ -11,9 +11,9 @@ First published: 2022-12-04.
 Updated with weighted values: 2022-12-05. 
 
 ### Introduction
-The question we wanted to look into was if macroeconomic swings could be detected through the price of logs. We used a dataset provided by the Oregon Department of Forestry. We chose this dataset because Oregon is a large supplier of logs throughout the Northwest. 
+The question we looked into was if macroeconomic swings could be detected through the price of logs. We used a dataset provided by the Oregon Department of Forestry. We chose this dataset because Oregon is a large supplier of logs throughout the Northwest. 
 
-*(Note, Pond Value refers to the price paid for an unprocessed log at a processing plant. Where the logs are stacked are called "Ponds". Log price and pond value are the same thing).*
+*(Note, Pond Value refers to the price paid for an unprocessed log at a processing plant. Where the logs are stacked are called "Ponds". Log price and pond value are the same).*
 
 Since we knew that Douglas Fir is very common in Oregon, and since we also knew that Douglas Fir is comomnly used in building construction, we *predicted that data analysis on this dataset would indeed produce results that clearly show the economic crisis of 2008*. 
 
@@ -22,7 +22,7 @@ Our code can be found here: [Oregon Log Prices R Analysis](/assets/WEIGHTEDOrego
 
 
 #### Context Concerning the Dataset from the Oregon Department of Forestry
-The dataset that we found and decided to use was a dataset from the Oregon Department of Forestry. The raw dataset has 7,884 distinct rows of data about sold logs over the course of 15 years, from 2000 to 2015. It also contains some data from 2016, but because the data is incomplete for that year we decided against using it as part of our analysis and final dataset. (We will talk more about our computational process below). The raw dataset has seven different variables tracked for each column, with those variables being:  
+The dataset that we decided to use was from the Oregon Department of Forestry. The raw dataset has 7,884 distinct rows of data about sold logs over the course of 15 years, from 2000 to 2015. It also contains some data from 2016, but because the data is incomplete for that year we decided against using it as part of our analysis and final dataset. (We will talk more about our computational process below). The raw dataset has seven different variables tracked for each column, with those variables being:  
 1. The **Year** it was sold   
 2. The **Quarter** it was sold in that year  
 3. what **Region** the log came from  
@@ -31,17 +31,15 @@ The dataset that we found and decided to use was a dataset from the Oregon Depar
 6. The price it was sold for ("**Pond Value**"), and  
 7. The number of people who bid on the log / the number of pond centers called. ("**Quote**").
 
-In general, this dataset was surprisingly comprehensive. 
-
 #### Ethical Concerns
-In general, there does not seem to be any glaring ethical concerns, mostly because none of the pond processing plants are identified by name, nor are any specific geo-located logging coordinates expressed anywhere in the dataset or on the government website. 
+There does not seem to be any glaring ethical concerns, mostly because none of the pond processing plants are identified by name, nor are any specific geo-located logging coordinates expressed anywhere in the dataset or on the government website. 
 
-Apart from the dataset itself, there may be environmental ethical concerns of logging, and whether or not this dataset and our analysis may encourage further exploitation and destruction of Oregon's forests, which is [depleting at an alarming rate](https://www.oregonwild.org/about/press/report-oregon-lost-500000-acres-deforestation-2000). 
+Apart from the dataset itself, there may be environmental ethical concerns over logging, and whether or not this dataset and our analysis may encourage further exploitation and destruction of Oregon's forests, which is [depleting at an alarming rate](https://www.oregonwild.org/about/press/report-oregon-lost-500000-acres-deforestation-2000). 
 
 #### Some Issues with Column Variables
 The main issue with the data is that we have been unable to get in contact with the data collector/creator/curator (Julie from the Oregon Department of Forestry). Without her help, we are unable to use one of the column variables at all (Grade), and we are not 100% certain of the meaning of one of two of the column variables (Quotes, Year). 
 
-First, let it be known that Grade *refers to both the size/shape and quality/purpose of the logs*. As you can probably tell, with four sub-variables smashed into one column variable, it becomes very difficult to make any interpretations, especially when they are often intermingled. For example, some rows were labled just 2P (quality and use of wood), others were labled just 8"-14", and some were labled with both 3S (12"+). We think that there is likely some overlap in grading, which means that we cannot effectively use this variable. Luckily, we did not need to use Grade in our analysis to be able to help answer our question. For those who are interested in seeing how *grades* as a whole is calculated in Oregon, here is a [quick government guide](https://www.oregon.gov/ODF/Documents/WorkingForests/LogTermDefinitions.pdf). 
+First, let it be known that Grade *refers to both the size/shape and quality/purpose of the logs*. As you can probably tell, with four sub-variables exsisting in one column variable, it becomes very difficult to make any interpretations, especially when they are often intermingled. For example, some rows were labled just 2P (quality and use of wood), others were labled just 8"-14" (size), and some were labled with both 3S (12"+). We think that there is likely some overlap in grading, which means that we cannot effectively use this variable. Luckily, we did not need to use Grade in our analysis to be able to help answer our question. For those who are interested in seeing how *grades* as a whole is calculated in Oregon, here is a [quick government guide](https://www.oregon.gov/ODF/Documents/WorkingForests/LogTermDefinitions.pdf). 
 
 Second, we are unsure of what the column variable Number of Quotes means exactly. It could be the number of quotes taken per quarter fat that listed price from different processing centers, or it could be the number of logs sold at that price quoted from various pond centers. Without this exact information, we would not know if quotes would indicate a weighting system. If the former, then each row would be weighted as 1. If the latter, then each row would be weighted according to the number of quotes listed.  Also, even if the value did indicate weight, we would not know *by how much*, because a quote from any pond center could indicate any number of logs. This is because unique pond centers *are not* listed as a column variable. **Ultimatley, we decided to use the Quotes values as weights in themselves**. Because not using quotes produces a drastically undervalued dataframe, using them should produce something closer to reality. However, it still highly likely the case that *total prices in our graphs are greatly under the reality*. 
 
@@ -87,7 +85,7 @@ This worked well for the relationships we were looking at:
 
 
 ### Analysis
-The main insight that we got from this dataset is that economic trends have a huge impact on log prices, and this impact is reflected very clearly in the data. Perhaps it can even be said that the log prices may predict economic trends, as we see pond values fall even in 2007, before the Great Recession really kicks down the door. Looking at Figure 1, we can clearly see rising pond values from 2002-2007, and the subsequent nosedive in value during the Great Recession which started in December of 2007. Pond values dropped more than 30% in the span of just 2007-2009. The price nadir of 2009 was lower than anything else we had data on. 
+The main insight from our analysis is that economic trends have a huge impact on log prices, and this impact is reflected clearly in the data. Perhaps it can even be said that the log prices may predict economic trends, as we see pond values fall even in 2007, before the Great Recession really kicks down the door. Looking at Figure 1, we can clearly see rising pond values from 2002-2007, and the subsequent nosedive in value during the Great Recession which started in December of 2007. Pond values dropped more than 30% in the span of just 2007-2009. The price nadir of 2009 was lower than anything else we had data on. 
 
 We can also see the tail end of the drop in prices of the decade long Dotcom Bubble. Comparatively speaking, the fall in prices at the end of the Dotcom Bubble in 2000-2002 was much more gentle than the extremely steep fall in prices during the Great Recession. 
 
@@ -129,7 +127,7 @@ We assess that the extra increase in price of Douglas Fir at the apex of the hou
 ### Reflections
 One possible direction this data could go would be to expand the current dataset to gain a much longer view of the ups and downs of log market prices. This could go both into the future and into the past, but work would have to be done to adjust prices relative to the current year's level of inflation. It would also be interesting to compare the data against other states' logging information, Federal logging information, and the logging information of other countries. 
 
-Finally, we just want to reiterate that the major problem we encountered was the lack of a proper weighting variable, due to the fact that we could not confirm what "Quotes" actually meant. It is highly likely "Quotes" is not truly representative as a weighting variable, due to the fact that one quote from *does not indiciate how many logs are included in that one quote*. However, having a number of quotes is better than no weight variable at all. 
+Finally, we just want to reiterate that the major problem we encountered was the lack of a proper weighting variable, due to the fact that we could not confirm what "Quotes" actually meant. It is highly likely "Quotes" is not truly representative as a weighting variable, due to the fact that one quote value *does not indiciate how many logs are included in that one quote*. However, having a number of quotes is better than no weight variable at all. 
 
 If Julie ever responds to us, it would be very interesting to see if the graphs change, depending on if we can obtain better weighting data. It is possible that we got very lucky with our current graphs, as they match our predictions and reflect historical ecnomic swings. However, in the future, it would be best to fully ascertain the meaning and weighting of all variables. 
 
