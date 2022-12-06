@@ -7,11 +7,11 @@ categories:
 
 An open letter to the ABC Township Council, from the ABC Public Library: 
 
-Dear fellow citizens, 
+Dear Fellow Citizens, 
 
-The recent economic crisis has hit hard and we understand the pain that is being felt across our community. In the upcoming town budget review, we urge you, as leaders of the community, to strongly consider to continue to fund the public library. Not only will your vote in support of the library allow patrons of the library to continue to enjoy library collections and services, but it will also allow the community to save a lot of money. Given that ABC Town is now suffering a severe deficit, we believe that is in the best financial interests of the community to have a fully functioning library. Although many beneficial aspects of a public library are difficult to quantify in monetary terms, we have attempted to present quantified data where possible, and contextualize them in the proper setting. The general guidelines for the definition of subjective value we draw from [this paper on how to describe and measure library value from 2011](https://www.ala.org/tools/research/librariesmatter/category/general-economic-impact). 
+The recent economic crisis has hit hard, and we understand and personally feel the pain that is being felt across our community. In the upcoming town budget review, we urge you, as leaders of the community, to strongly consider to continue to fund the public library. Not only will your vote in support of the library allow patrons to continue to enjoy library collections and services, but it will also allow the community to save a lot of money. Given that ABC Town is now suffering a severe deficit, we believe that is in the best financial interests of the community to have a fully functioning library. Although many beneficial aspects of a public library are difficult to quantify in monetary terms, we have attempted to present quantified data where possible, and contextualize them in the proper setting. The general guidelines for the definition of subjective value we draw from [this paper on how to describe and measure library value from 2011](https://journals.uic.edu/ojs/index.php/fm/article/download/3765/3074). 
 
-Although the public library may not seem like a place which generates revenue, it in fact holds a great return on investment for the community. The [Library Research Service](https://www.lrs.org/about/), a department within the Colorado State Library, estimates that public libraries have a return on investment of [up to four times](https://www.lrs.org/2020/02/19/how-much-is-your-library-worth/) the money put in! 
+Although the public library may not seem like a place which generates revenue, it in fact holds a great return on investment for the community. The [Library Research Service](https://www.lrs.org/about/), a department within the Colorado State Library, estimates that public libraries throughout America have a return on investment of [up to four times](https://www.lrs.org/2020/02/19/how-much-is-your-library-worth/) the money put in! 
 
 The direct monetary ROI sources of public libraries include:  
 1. A public library saves money for patrons by allowing them to borrow materials, for which they otherwise would have had to pay for.   
@@ -31,32 +31,25 @@ Each of these non-monetary values are not easily measured, but have the potentia
 
 Here is another example. By providing public rooms for community members to meet, public libraries foster the potential for innovation and new community groups to spring up. Simply by facilitating the free space, public libraries can encourage community contact and growth spontaneously. The more a people trust and know each other, the more likely they are going to visit each other's businesses, create new start ups, help each other in time of need, and so on. In this sense, the public library acts as a hub and also as a helper for citizens who wish to use library resources to eudcate themselves and to take the first steps in their new business. As the [American Library Association's "Libraries Build Business playbook"](https://www.ala.org/advocacy/sites/ala.org.advocacy/files/content/Workforce/LBB_Playbook_web_013122.pdf) states: half of all public libraries in the US are already providing some sort of business related help (whether this be printing, government permit finding, or vocational degree education) to small businesses, and their beneficial economic impact is easily felt by beginning entrepreneurs who lack the immediate capital funding.  
 
-In [Queensland Province of Australia too, research](https://plconnect.slq.qld.gov.au/about/research-best-practice/state-library-research-and-reports) has shown that public libraries consistently generates an average 2.7 ROI. 
-
-Queensland libraries ROI: 
-![queensland ROI](586queenslandROIchart1.jpg)
-
-In various states across America, the ROI of public libraries is [consistently much higher than 1](https://www.lrs.org/data-tools/public-libraries/return-on-investment/recent-studies/):
+Concretley, research shows that across America, the ROI of public libraries is [consistently much higher than 1](https://www.lrs.org/data-tools/public-libraries/return-on-investment/recent-studies/):
 
 ![ROI across major US states](/assets/586libraryROI1.jpeg)
 
-Instead of privatizing public libraries, as a certain Forbes article suggests, we urge the township council and the community to further support ABC Public Library with public tax money, in order to guarantee public services and foster a stronger and more resilient community. [A library that is public at core is beholden to the community](https://berryvillelibrary.org/the-value-of-public-libraries/). It exsists to provide services, to educate, and to look out for the community. Even when the public library physically is closed, our online services can still help people browse, hold books in advance, find government resources, and stay up to date with local events. 
+Therefore, instead of privatizing public libraries, as a certain Forbes article suggests, or decreasing funding overall, we urge the township council and the community to further support ABC Public Library with public tax money, in order to guarantee public services and foster a stronger and more resilient community. [A library that is public at core is beholden to the community, and not to private corporate interests](https://berryvillelibrary.org/the-value-of-public-libraries/). A public library exsists to provide services, to educate, and to look out for the community. Even when the public library is physically closed, our online services can still help people browse, hold books in advance, find government resources, and stay up to date with local events. 
 
 
 
-https://journals.uic.edu/ojs/index.php/fm/article/download/3765/3074
+[American Library Association Studies Library ROI in three catagories: Economic, Educational, Social](https://www.ala.org/tools/research/librariesmatter/category/general-economic-impact)
+[Colorado Libraries Return on Investment Study reveals 5 ROI.](https://www.lrs.org/fast-facts-reports/colorado-libraries-return-on-investment-5-to-1/)
+[Colorado Libraries ROI Case Study Sources.](https://www.lrs.org/data-tools/public-libraries/return-on-investment/)
+
+
 
 OTHER IMPORTANT LINKS TO USE AT LEAST ONCE: 
-
-https://www.ala.org/tools/research/librariesmatter/category/general-economic-impact   (THIS ONE IS REALLY GOOD AND HAS MANY SUB LINKS THAT ARE ALL WELL ORGANIZED)
 
 https://www.ifla.org/g/public-libraries/the-value-of-public-libraries/
 
 https://www.lrs.org/2013/08/14/study-shows-that-one-library-districts-return-on-investment-to-taxpayers-was-up-to-400/
-https://www.lrs.org/fast-facts-reports/colorado-libraries-return-on-investment-5-to-1/
-https://www.lrs.org/data-tools/public-libraries/return-on-investment/
-https://www.lrs.org/data-tools/public-libraries/return-on-investment/recent-studies/
-
 
 https://berryvillelibrary.org/the-value-of-public-libraries/
 
