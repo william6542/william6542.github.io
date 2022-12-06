@@ -91,7 +91,9 @@ The main insight that we got from this dataset is that economic trends have a hu
 
 We can also see the tail end of the drop in prices of the decade long Dotcom Bubble. Comparatively speaking, the fall in prices at the end of the Dotcom Bubble in 2000-2002 was much more gentle than the extremely steep fall in prices during the Great Recession. 
 
-Thus, despite the above mentioned problem of lacking a weighted variable to calculate actual number of logs, we were still able to see a very clear trend. We suspect that this is because the Oregon Department of Forestry likely has a policy in place which mandates some sort of equal selection of tree grade cutting, so that no one tree growth is cut in toto. 
+Note also the great increase in prices after 2009, which reflects the massive printing of money by the Federal Reserve and the reluctance by Obama and Yellen to reduce the interest rate. Although these actions may have helped grow the economy, it has only helped to create another bubble, one which are now facing right now. Furthermore, the incredibly rapid growth and rampant printing of money has allowed get rich schemes and companies to pop up left and right, and has greatly increased uncontrolled consumerist demand among the people. For example, note all the collapsed schemes in the crypto world (FTX), or in scilicon valley (Theranos), the effects and conseqeuences of which we are just starting to see unfold in the courts todays. 
+
+Thus, despite the above mentioned problem of lacking a **true** weighted variable to calculate actual number of logs, we were still able to see a very clear trend. We suspect that this is because the Oregon Department of Forestry likely has a policy in place which mandates some sort of equal selection of tree grade cutting, so that no one tree growth is cut in toto. 
 
 Figure 1: 
 
