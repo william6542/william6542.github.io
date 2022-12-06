@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Letter to ABC Township Council"
+title:  "Interactive Open Letter to ABC Township Council on the Matter of Funding for ABC Public Library"
 date:   2022-12-05 1:11:11 -0700
 categories: 
 ---
@@ -29,7 +29,30 @@ In addition to monetary ROI, the public library also generates ROI indirectly th
 
 Each of these non-monetary values are not easily measured, but have the potential to indirectly create big monetary ROI. For example, if a marginalized young person, such as a gay student, is inspired by browsing in the stacks, or feels like a book speaks to them, that will be much [better for their mental health and self-image](https://www.ifla.org/files/assets/hq/topics/libraries-development/documents/how_libraries_provide_safe_spaces_to_all_youth.pdf), than if said student continued to feel isolated, and was denied information which represented who they are. To put it more bluntly, people with mental health problems are not effective produces in society, and require more government resources to help them resolve their issues. Of course, there is also the moral element to protecting and guiding the young people of our community. 
 
-Here is another example. By providing public rooms for community members to meet, there is the potential for innovation and new community groups to spring up. Simply by facilitating the free space, public libraries can encourage community contact and growth spontaneously. The more a people trust and know each other, the more likely they are going to visit each other's businesses, create new start ups, help each other in time of need, and so on. In this sense, the public library acts as a hub and also as a helper for citizens who wish to use library resources to eudcate themselves and to take the first steps in their new business. As the [American Library Association's "Libraries Build Business playbook"](https://www.ala.org/advocacy/sites/ala.org.advocacy/files/content/Workforce/LBB_Playbook_web_013122.pdf) states: half of all public libraries in the US are already providing some sort of business related help to small businesses, and their beneficial economic impact is easily felt by beginning entrepreneurs who lack the immediate capital funding.  
+Here is another example. By providing public rooms for community members to meet, public libraries foster the potential for innovation and new community groups to spring up. Simply by facilitating the free space, public libraries can encourage community contact and growth spontaneously. The more a people trust and know each other, the more likely they are going to visit each other's businesses, create new start ups, help each other in time of need, and so on. In this sense, the public library acts as a hub and also as a helper for citizens who wish to use library resources to eudcate themselves and to take the first steps in their new business. As the [American Library Association's "Libraries Build Business playbook"](https://www.ala.org/advocacy/sites/ala.org.advocacy/files/content/Workforce/LBB_Playbook_web_013122.pdf) states: half of all public libraries in the US are already providing some sort of business related help (whether this be printing, government permit finding, or vocational degree education) to small businesses, and their beneficial economic impact is easily felt by beginning entrepreneurs who lack the immediate capital funding.  
 
 In [Queensland Province of Australia too, research](https://plconnect.slq.qld.gov.au/about/research-best-practice/state-library-research-and-reports) has shown that public libraries consistently generates an average 2.7 ROI. 
 
+Queensland libraries ROI: 
+![queensland ROI](586queenslandROIchart1.jpg)
+
+
+
+
+
+OTHER IMPORTANT LINKS TO USE AT LEAST ONCE: 
+
+https://www.ala.org/tools/research/librariesmatter/category/general-economic-impact   (THIS ONE IS REALLY GOOD AND HAS MANY SUB LINKS THAT ARE ALL WELL ORGANIZED)
+
+https://www.ifla.org/g/public-libraries/the-value-of-public-libraries/
+
+https://www.lrs.org/2013/08/14/study-shows-that-one-library-districts-return-on-investment-to-taxpayers-was-up-to-400/
+https://www.lrs.org/fast-facts-reports/colorado-libraries-return-on-investment-5-to-1/
+https://www.lrs.org/data-tools/public-libraries/return-on-investment/
+https://www.lrs.org/data-tools/public-libraries/return-on-investment/recent-studies/
+
+
+https://berryvillelibrary.org/the-value-of-public-libraries/
+
+
+Public Libraries, a wise investment, 2009, a return on investment study of colorado libraries  - steffen   PDF   (I need to find the url website download link for this)
