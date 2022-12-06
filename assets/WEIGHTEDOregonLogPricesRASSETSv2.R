@@ -273,28 +273,32 @@ overlay_p2<-data.frame(year_vector, douglas_average_overlay)
 
 total_species_vector <- c("Total Species","Total Species","Total Species","Total Species","Total Species","Total Species","Total Species","Total Species","Total Species","Total Species","Total Species","Total Species","Total Species","Total Species","Total Species","Total Species")
 
-overlay_p1['Catagorey'] <- total_species_vector
+overlay_p1['Catagory'] <- total_species_vector
 
 colnames(overlay_p1)[2] <- "Normalized.Price"
 
 douglas_vector <- c("Douglas Fir","Douglas Fir","Douglas Fir","Douglas Fir","Douglas Fir","Douglas Fir","Douglas Fir","Douglas Fir","Douglas Fir","Douglas Fir","Douglas Fir","Douglas Fir","Douglas Fir","Douglas Fir","Douglas Fir","Douglas Fir")
 
-overlay_p2['Catagorey'] <- douglas_vector
+overlay_p2['Catagory'] <- douglas_vector
 colnames(overlay_p2)[2] <- "Normalized.Price"
 
 # merge the two dataframes
 
+merged_overlay <- rbind(overlay_p1, overlay_p2)
+# rbind works! Now we can just use this as default 
 
 
 
 # finally: 
-# overlay plot of Douglas Fir onto Yearly
-ggplot(overlay_p2, aes(x=year_vector, y=douglas_average_overlay)) +
-  geom_line(col="green3", aes(x=year_vector, y=douglas_average_overlay), size=1) +
-  geom_line(data=overlay_p1, col="black", aes(x=year_vector, y=year_average_overlay), size=1) +
-  labs(title = "Overlay of Douglas Fir and Total Yearly Prices", y="Pond Value", x="Year") +
-  scale_y_continuous(labels=comma) +
-  theme(text = element_text(size = 24)) 
+# overlay plot
+ggplot(merged_overlay, aes(x=year_vector,y=Normalized.Price, color = Catagory))+
+  geom_line(size=1)+
+  labs(title = "Overlay of Douglas Fir and Total Species Yearly Prices", y="Normalized Pond Value", x="Year") +
+  scale_y_continuous(labels=comma)+
+  theme(text=element_text(size=24))+
+  scale_x_continuous(breaks = seq(2000, 2016, by = 1))+
+  scale_color_manual(values=c('Green','Black'))
+
 
 
 

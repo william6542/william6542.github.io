@@ -18,7 +18,7 @@ The question we wanted to look into was if macroeconomic swings could be detecte
 Since we knew that Douglas Fir is very common in Oregon, and since we also knew that Douglas Fir is comomnly used in building construction, we *predicted that data analysis on this dataset would indeed produce results that clearly show the economic crisis of 2008*. 
 
 The dataset can be found here: [Oregon Log Prices Dataset](https://data.oregon.gov/Natural-Resources/Log-Prices/4v4m-wr5p).  
-Our code can be found here: [Oregon Log Prices R Analysis](/assets/OregonLogPricesRASSETSv1.R).
+Our code can be found here: [Oregon Log Prices R Analysis](/assets/WEIGHTEDOregonLogPricesRASSETSv2.R).
 
 
 #### Context Concerning the Dataset from the Oregon Department of Forestry
