@@ -36,9 +36,15 @@ In [Queensland Province of Australia too, research](https://plconnect.slq.qld.go
 Queensland libraries ROI: 
 ![queensland ROI](586queenslandROIchart1.jpg)
 
+In various states across America, the ROI of public libraries is [consistently much higher than 1](https://www.lrs.org/data-tools/public-libraries/return-on-investment/recent-studies/):
+
+![ROI across major US states](/assets/586libraryROI1.jpeg)
+
+Instead of privatizing public libraries, as a certain Forbes article suggests, we urge the township council and the community to further support ABC Public Library with public tax money, in order to guarantee public services and foster a stronger and more resilient community. [A library that is public at core is beholden to the community](https://berryvillelibrary.org/the-value-of-public-libraries/). It exsists to provide services, to educate, and to look out for the community. Even when the public library physically is closed, our online services can still help people browse, hold books in advance, find government resources, and stay up to date with local events. 
 
 
 
+https://journals.uic.edu/ojs/index.php/fm/article/download/3765/3074
 
 OTHER IMPORTANT LINKS TO USE AT LEAST ONCE: 
 
