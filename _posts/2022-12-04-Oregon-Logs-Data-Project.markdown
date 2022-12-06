@@ -129,7 +129,9 @@ We assess that the extra increase in price of Douglas Fir at the apex of the hou
 ### Reflections
 One possible direction this data could go would be to expand the current dataset to gain a much longer view of the ups and downs of log market prices. This could go both into the future and into the past, but work would have to be done to adjust prices relative to the current year's level of inflation. It would also be interesting to compare the data against other states' logging information, Federal logging information, and the logging information of other countries. 
 
-Finally, we just want to reiterate that the major problem we encountered was the lack of a proper weighting variable, due to the fact that we could not confirm what "Quotes" actually meant. If Julie ever responds to us, it would be very interesting to see if the graphs change, depending on what "Quotes" mean. It is possible that we got very lucky with our current graphs, as they match our predictions and reflect historical ecnomic swings. However, in the future, it would be best to fully ascertain the meaning and weighting of all variables. 
+Finally, we just want to reiterate that the major problem we encountered was the lack of a proper weighting variable, due to the fact that we could not confirm what "Quotes" actually meant. It is highly likely "Quotes" is not truly representative as a weighting variable, due to the fact that one quote from *does not indiciate how many logs are included in that one quote*. However, having a number of quotes is better than no weight variable at all. 
+
+If Julie ever responds to us, it would be very interesting to see if the graphs change, depending on if we can obtain better weighting data. It is possible that we got very lucky with our current graphs, as they match our predictions and reflect historical ecnomic swings. However, in the future, it would be best to fully ascertain the meaning and weighting of all variables. 
 
 
 
