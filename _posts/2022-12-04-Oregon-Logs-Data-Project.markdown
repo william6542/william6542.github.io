@@ -97,7 +97,9 @@ Figure 1:
 
 ![yearly pond value aggregate](/assets/WEIGHTEDpricetoyear.jpeg)
 
-Next, in Figure 2, we can see that the quarterly values are not the most equal. Although modern logging has greatly increased in effectiveness and versatility in comparison with older forms of river based logging (which is also why most major US cities are found along big rivers), it still relies on seasonal advantages. Quarter 1 and Quarter 2 see more sales simply because it is easier to log during Quarter 1 and 2. These two quarters represent the cold season, from October to March, where trees can be more easily transported over firm and hard ground. (Anyone looking to read about humanity's interaction with trees should look into [Deforesting the Earth](https://press.uchicago.edu/ucp/books/book/chicago/D/bo79171450.html) by Michael Williams).
+Next, in Figure 2, we can see that the quarterly values are not the most equal. Modern logging has greatly increased in effectiveness and versatility in comparison with older forms of river based logging (which is also why most major US cities are found along big rivers). Therefore, we cannot draw any concrete conclusions from the small variations in quarterly price. Furthermore, we cannot draw conclusions because we do not have a true weight variable (as mentioned before, "Quotes" is not a true weight variable. )
+
+(For more information on humanity's interaction with trees, one should look into [Deforesting the Earth](https://press.uchicago.edu/ucp/books/book/chicago/D/bo79171450.html) by Michael Williams).
 
 Figure 2:
 
