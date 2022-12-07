@@ -5,6 +5,8 @@ date:   2022-12-05 1:11:11 -0700
 categories: 
 ---
 
+The following letter is referenced from our [shorter presentation](/assets/PresentationLetterToABCTownshipCouncil.pdf).
+
 An open letter to the ABC Township Council, from the ABC Public Library: 
 
 Dear Fellow Citizens, 
