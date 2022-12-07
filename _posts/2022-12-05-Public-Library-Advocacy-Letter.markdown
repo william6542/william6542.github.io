@@ -47,7 +47,7 @@ Therefore, instead of privatizing public libraries, as a certain Forbes article 
 
 Thank you for your time and attention, we appreciate your dedication and support and hope to hear from you in the future!
 
-Sincerely, 
+Sincerely,   
 The ABC Public Library 
 
 
