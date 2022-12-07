@@ -47,7 +47,7 @@ Below are listed more resources demonstrating the immense value of public librar
 [American Library Association Studies Library ROI in three catagories: Economic, Educational, Social](https://www.ala.org/tools/research/librariesmatter/category/general-economic-impact)  
 [Colorado Libraries Return on Investment Study reveals 5 ROI.](https://www.lrs.org/fast-facts-reports/colorado-libraries-return-on-investment-5-to-1/)  
 [Colorado Libraries ROI Case Study Sources.](https://www.lrs.org/data-tools/public-libraries/return-on-investment/)
-[A Short Summary on the Value of Public Libraries](https://berryvillelibrary.org/the-value-of-public-libraries/)
+[A Short Summary on the Value of Public Libraries](https://berryvillelibrary.org/the-value-of-public-libraries/)   
 [Public Libraries, A Wise Investment (2009) PDF](https://www.lrs.org/documents/closer_look/roi.pdf)
 
 
