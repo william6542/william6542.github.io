@@ -45,7 +45,13 @@ Concretley, research shows that across America, the ROI of public libraries is [
 
 Therefore, instead of privatizing public libraries, as a certain Forbes article suggests, or decreasing funding overall, we urge the township council and the community to further support ABC Public Library with public tax money, in order to guarantee public services and foster a stronger and more resilient community. [A library that is public at core is beholden to the community, and not to private corporate interests](https://berryvillelibrary.org/the-value-of-public-libraries/). A public library exsists to provide services, to educate, and to look out for the community. Even when the public library is physically closed, our online services can still help people browse, hold books in advance, find government resources, and stay up to date with local events. 
 
-Below are listed more resources demonstrating the immense value of public libraries:  
+Thank you for your time and attention, we appreciate your dedication and support and hope to hear from you in the future!
+
+Sincerely, 
+The ABC Public Library 
+
+
+Below are more resources demonstrating the immense value of public libraries:  
 [American Library Association Studies Library ROI in three catagories: Economic, Educational, Social](https://www.ala.org/tools/research/librariesmatter/category/general-economic-impact)  
 [Colorado Libraries Return on Investment Study reveals 5 ROI.](https://www.lrs.org/fast-facts-reports/colorado-libraries-return-on-investment-5-to-1/)  
 [Colorado Libraries ROI Case Study Sources.](https://www.lrs.org/data-tools/public-libraries/return-on-investment/)
