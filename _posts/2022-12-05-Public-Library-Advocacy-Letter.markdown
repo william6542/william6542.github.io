@@ -21,13 +21,19 @@ The direct monetary ROI sources of public libraries include:
 5. A public library encourages foot traffic, which stimulates patrons to visit and spend at nearby services and businesses.   
 6. A public library compensates its librarians for their work, compensation which would not exsist without the library.   
 
-In addition to monetary ROI, the public library also generates ROI indirectly through these avenues:  
+In addition to monetary ROI, the public library also generates subjective value through educating the community: 
+1. A public library helps its patrons find materials they are looking for.
+2. A public library helps its patrons find materials that they may not even know they want. 
+3. A public library helps its patrons navigate tricky government websites. 
+4. A public library helps its patrons set up the basic foundations of start ups. 
+
+And finally, the public library provides tremendous social value to the community: 
 1. A public library provides a community space for citizens to meet and talk to each other.   
-2. A public library provides a safe space for young people and marginalized people to browse and find books that might inspire them.   
+2. A public library provides a safe space for young people and marginalized people to browse and find books that might inspire and speak to them.   
 3. A public library provides a free, quiet, and comfortable space to relax, study, and work.   
 4. A public library provides a fixed landmark in the community which gives the community pride and joy.   
 
-Each of these non-monetary values are not easily measured, but have the potential to indirectly create big monetary ROI. For example, if a marginalized young person, such as a gay student, is inspired by browsing in the stacks, or feels like a book speaks to them, that will be much [better for their mental health and self-image](https://www.ifla.org/files/assets/hq/topics/libraries-development/documents/how_libraries_provide_safe_spaces_to_all_youth.pdf), than if said student continued to feel isolated, and was denied information which represented who they are. To put it more bluntly, people with mental health problems are not effective produces in society, and require more government resources to help them resolve their issues. Of course, there is also the moral element to protecting and guiding the young people of our community. 
+Although educational and social benefits are difficult to measure quantitatively, they have the potential to indirectly create big monetary ROI. For example, if a marginalized young person, such as a gay student, is inspired by browsing in the stacks, or feels like a book speaks to them, that will be much [better for their mental health and self-image](https://www.ifla.org/files/assets/hq/topics/libraries-development/documents/how_libraries_provide_safe_spaces_to_all_youth.pdf), than if said student continued to feel isolated, and was denied information which represented who they are. To put it more bluntly, people with mental health problems are not effective produces in society, and require more government resources to help them resolve their issues. Of course, there is also the moral element to protecting and guiding the young people of our community. 
 
 Here is another example. By providing public rooms for community members to meet, public libraries foster the potential for innovation and new community groups to spring up. Simply by facilitating the free space, public libraries can encourage community contact and growth spontaneously. The more a people trust and know each other, the more likely they are going to visit each other's businesses, create new start ups, help each other in time of need, and so on. In this sense, the public library acts as a hub and also as a helper for citizens who wish to use library resources to eudcate themselves and to take the first steps in their new business. As the [American Library Association's "Libraries Build Business playbook"](https://www.ala.org/advocacy/sites/ala.org.advocacy/files/content/Workforce/LBB_Playbook_web_013122.pdf) states: half of all public libraries in the US are already providing some sort of business related help (whether this be printing, government permit finding, or vocational degree education) to small businesses, and their beneficial economic impact is easily felt by beginning entrepreneurs who lack the immediate capital funding.  
 
@@ -36,7 +42,6 @@ Concretley, research shows that across America, the ROI of public libraries is [
 ![ROI across major US states](/assets/586libraryROI1.jpeg)
 
 Therefore, instead of privatizing public libraries, as a certain Forbes article suggests, or decreasing funding overall, we urge the township council and the community to further support ABC Public Library with public tax money, in order to guarantee public services and foster a stronger and more resilient community. [A library that is public at core is beholden to the community, and not to private corporate interests](https://berryvillelibrary.org/the-value-of-public-libraries/). A public library exsists to provide services, to educate, and to look out for the community. Even when the public library is physically closed, our online services can still help people browse, hold books in advance, find government resources, and stay up to date with local events. 
-
 
 Below are listed more resources demonstrating the immense value of public libraries:  
 [American Library Association Studies Library ROI in three catagories: Economic, Educational, Social](https://www.ala.org/tools/research/librariesmatter/category/general-economic-impact)  
