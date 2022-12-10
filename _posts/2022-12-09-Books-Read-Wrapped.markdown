@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Books Rewind Wrapped 2022"
+title:  "Books Wrapped 2022"
 date:   2022-12-09 1:11:11 -0700
 categories: 
 ---
@@ -12,7 +12,7 @@ So in the style of Spotify Wrapped, Youtube Rewind, and others, I slowly input a
 
 First, the dataset: [2022 Books Rewind Dataset](/assets/2022booksrewind.R)
 
-Since the LCSH is very extensive and I didn't want to spend even more time looking for the right fit, I split the 'about' metadata into two main column varaibles: genre *qua* subject, and genre *qua* form. This is for the viewers, because my own inside my head classification scheme may be a bit weird. Still, I have included it as well under William's Genres. 
+Since the LCSH is very extensive and I didn't want to spend even more time looking for the right fit, I split the 'about' metadata into two main column variables: genre *qua* subject, and genre *qua* form (type). This is for the viewers, because my own inside my head classification scheme may be a bit weird. In any case, I have included my own simplified mental genre scheme as well. 
 
 The number of pages read are gotten from each book's total pages from google books. I tried to find the most accurate edition relative to mine. The page number is obviously not normalized for font size and spacing and book size. That would be impossible. They are simply a reflection of what the physical book says. It is likely that the total pages read should be lessened by 20%, given the fact that many of the books have indexes, title pages, and other miscellenia. 
 
