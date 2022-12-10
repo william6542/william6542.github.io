@@ -42,4 +42,8 @@ The third figure shows the number of books read per Genres-Subjects.
 
 ![Books per genre subject](/assets/BRATbooksreadpersubjectgenre2022feb2022dec.jpeg)
 
+The fourth figure shows the number of books read per William's internal simplified classification scheme. 
+
+![William's internal classification](/assets/BRATwilliamgenres.jpeg)
+
 
