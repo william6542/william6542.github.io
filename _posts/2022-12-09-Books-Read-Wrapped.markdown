@@ -30,20 +30,31 @@ Average page count per book: 350
 Shortest book: 124 pages  
 Longest book: 1184 pages  
 
-First, let's take a look at the number of books read per month. 
+First, let's take a look at the number of books read per month. Figure 1:
 
 ![Books read per month](/assets/BRATbooksreadpermonth2022feb2022december.jpeg)
 
-The next figure below shows the number of pages read per month.
+The next figure below shows the number of pages read per month. Figure 2:
 
 ![Pages read per month](/assets/BRATpagesreadpermonth2022feb2022december.jpeg)
 
-The third figure shows the number of books read per Genres-Subjects. 
+From Figure 1 and 2 we can see some trends. Let me explain.   
+In March, there is a big slowdown in reading. This is due to the fact that the war in Ukraine started in late Feburary, and I spent the majority of my time being anxiety ridden and following the war very closely. During that spring break I also spent a lot of time playing the newly released Elden Ring. A series of anxiety and distraction.   
+In May the reading spikes greatly, I think due to the fact that I had mostly finished most of my projects early, due to a special event I had to attend, so I was just coasting. 
+Reading is middling during the summer due to some other things I had to do which I didn't want to do. But I was in a muddle and I was lying to myself and others. So being in such a muddle, as Old Man Emerson says to Lucy, one gets nothing done and wallows in self pity and lost time. Still, it wasn't a totally abysmal amount of reading.  
+September is when the reading drops again dramatically because I spent most of that month backpacking. It was great. 
+October and November spike greatly because my classes for this semester were not only fun, but also lighter on work compared to previous classes. Taking those classes was highly enjoyable. 
+
+The third figure shows the number of books read per Genres-Subjects. Figure 3:
 
 ![Books per genre subject](/assets/BRATbooksreadpersubjectgenre2022feb2022dec.jpeg)
 
-The fourth figure shows the number of books read per William's internal simplified classification scheme. 
+The fourth figure shows the number of books read per William's internal simplified classification scheme. Figure 4:
 
 ![William's internal classification](/assets/BRATwilliamgenres.jpeg)
+
+As you can see, the vast majority of books read have to do with 'history'. And even some of the 'skill' books, and 'what is to be done' books, have their basis in history or deal with historical situations. For example, it can be said that Herman Khan's "On Thermonuclear War" is as much a 'skill' book on the strategy and tactics of nuclear war, as it is a history on nuclear development and thought. But since it is different enough from most of the other history books, it is classified as a 'skill' book in my mental scheme. 
+
+You will also notice a bunch of comic books near the bottom of the dataset. This is due to the reccomendation of E, who showed me the world of Frank. From Frank, I then looked at the publisher and found Fantagraphic Books, a small, dedicated comic/graphic novel publishing company in Georgetown, South Seattle area. From that company I looked at other titles and started exploring the world of comic books, for lack of a better term. 
 
 
