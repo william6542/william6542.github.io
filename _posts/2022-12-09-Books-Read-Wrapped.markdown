@@ -10,7 +10,8 @@ I have a big list of books read. However, this list for the majority of its exsi
 
 So in the style of Spotify Wrapped, Youtube Rewind, and others, I slowly input a CSV chart with this year's read books. Then, using skills learned from LIS 572, taught by Melanie Walsh, I did some basic data science with R. Here are the results. 
 
-First, the dataset: [2022 Books Rewind Dataset](/assets/2022booksrewind.R)
+First, the dataset: [2022 Books Rewind Dataset CSV](/assets/BooksReadAllTimeDataset2022.csv)
+RStudio: [2022 Books Rewind RStudio](/assets/2022booksrewind.R)
 
 Since the LCSH is very extensive and I didn't want to spend even more time looking for the right fit, I split the 'about' metadata into two main column variables: genre *qua* subject, and genre *qua* form (type). This is for the viewers, because my own inside my head classification scheme may be a bit weird. In any case, I have included my own simplified mental genre scheme as well. 
 
