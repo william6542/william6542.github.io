@@ -468,4 +468,18 @@ Stalin: Volume II: Waiting For Hitler -Kotkin
 
 -Upside Dawn. Jason. (2022). Finished 2022-11-29. 
 
+-A Room With a View. E. M. Forster. (1908). Finished 2022-12-09
 
+-Lost Cat. Jason. (2014). Finished 2022-12-10. 
+
+-Strategic Climate Change Communications: Effective Approaches to Fighting Climate Denial. (2019). Finished 2022-12-11. 
+
+-A Lover's Discourse. Roland Barthes. (1977). Finished 2022-12-15. 
+
+-Counter Jihad: America's Military Experience in Afghanistan, Iraq, and Syria. Brian Glyn Williams. (2017). Finished 2022-12-26. 
+
+-The Living and The Dead. Jason. (2006). Finished 2022-12-27.
+
+-On Saudi Arabia: Its People, Past, Religion, Fault Lines, and Future. (2012). Karen Elliot House. Finished 2022-12-28. 
+
+-Why Are You Doing This? Jason. (2005). Finished 2022-12-29. 
