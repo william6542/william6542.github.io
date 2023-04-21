@@ -13,7 +13,7 @@ To start things off, there is me, sitting on the roof. This was a fun self portr
 
 Next is a view of the Olympics on a clear day. I liked this photo. The colors are soft yet vibrant. The lighting on all components of the photo is clear. 
 
-![View of the Cascades(/assets/FR2 2.jpg)]
+![View of the Cascades](/assets/FR2 2.jpg)]
 
 Now we switch cardinals and see Rainier in near-sunset light. This was lucky to get during the winter. 
 
