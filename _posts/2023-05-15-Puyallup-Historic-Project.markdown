@@ -12,7 +12,7 @@ Sponsorpship: Librarian Aleya Stone
 Time period: 2023 Jan - Jun  
 
 Objects processed: 590 unique objects  
-Time spent: 140 hours
+Time spent: 140 hours (not including lunch breaks or discussions with others)
 
 Current active historic archive link: https://puyal.ent.sirsi.net/client/en_US/default/search/results?te=ASSET
 Unfortunatley due to overwork the library manager has still not yet finalized approval for my conributions to be uploaded to the public website. 
