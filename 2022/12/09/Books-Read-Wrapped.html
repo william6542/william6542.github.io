@@ -1,0 +1,135 @@
+<!DOCTYPE html>
+<html lang="en"><head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1"><!-- Begin Jekyll SEO tag v2.8.0 -->
+<title>Books Wrapped 2022 | Bibliothēca Williamae</title>
+<meta name="generator" content="Jekyll v4.3.0" />
+<meta property="og:title" content="Books Wrapped 2022" />
+<meta property="og:locale" content="en_US" />
+<meta name="description" content="First posted 2022-12-09" />
+<meta property="og:description" content="First posted 2022-12-09" />
+<link rel="canonical" href="https://william6542.github.io//2022/12/09/Books-Read-Wrapped.html" />
+<meta property="og:url" content="https://william6542.github.io//2022/12/09/Books-Read-Wrapped.html" />
+<meta property="og:site_name" content="Bibliothēca Williamae" />
+<meta property="og:type" content="article" />
+<meta property="article:published_time" content="2022-12-09T08:11:11+00:00" />
+<meta name="twitter:card" content="summary" />
+<meta property="twitter:title" content="Books Wrapped 2022" />
+<script type="application/ld+json">
+{"@context":"https://schema.org","@type":"BlogPosting","dateModified":"2022-12-09T08:11:11+00:00","datePublished":"2022-12-09T08:11:11+00:00","description":"First posted 2022-12-09","headline":"Books Wrapped 2022","mainEntityOfPage":{"@type":"WebPage","@id":"https://william6542.github.io//2022/12/09/Books-Read-Wrapped.html"},"url":"https://william6542.github.io//2022/12/09/Books-Read-Wrapped.html"}</script>
+<!-- End Jekyll SEO tag -->
+<link rel="stylesheet" href="/assets/main.css"><link type="application/atom+xml" rel="alternate" href="https://william6542.github.io//feed.xml" title="Bibliothēca Williamae" /></head>
+<body><header class="site-header" role="banner">
+
+  <div class="wrapper"><a class="site-title" rel="author" href="/">Bibliothēca Williamae</a><nav class="site-nav">
+        <input type="checkbox" id="nav-trigger" class="nav-trigger" />
+        <label for="nav-trigger">
+          <span class="menu-icon">
+            <svg viewBox="0 0 18 15" width="18px" height="15px">
+              <path d="M18,1.484c0,0.82-0.665,1.484-1.484,1.484H1.484C0.665,2.969,0,2.304,0,1.484l0,0C0,0.665,0.665,0,1.484,0 h15.032C17.335,0,18,0.665,18,1.484L18,1.484z M18,7.516C18,8.335,17.335,9,16.516,9H1.484C0.665,9,0,8.335,0,7.516l0,0 c0-0.82,0.665-1.484,1.484-1.484h15.032C17.335,6.031,18,6.696,18,7.516L18,7.516z M18,13.516C18,14.335,17.335,15,16.516,15H1.484 C0.665,15,0,14.335,0,13.516l0,0c0-0.82,0.665-1.483,1.484-1.483h15.032C17.335,12.031,18,12.695,18,13.516L18,13.516z"/>
+            </svg>
+          </span>
+        </label>
+
+        <div class="trigger"><a class="page-link" href="/Adventures/">Adventures</a><a class="page-link" href="/Analyses/">Analyses</a><a class="page-link" href="/Books/">Books</a><a class="page-link" href="/Equipment/">Equipment</a><a class="page-link" href="/Photos/">Photos</a><a class="page-link" href="/about/">About</a></div>
+      </nav></div>
+</header>
+<main class="page-content" aria-label="Content">
+      <div class="wrapper">
+        <article class="post h-entry" itemscope itemtype="http://schema.org/BlogPosting">
+
+  <header class="post-header">
+    <h1 class="post-title p-name" itemprop="name headline">Books Wrapped 2022</h1>
+    <p class="post-meta">
+      <time class="dt-published" datetime="2022-12-09T08:11:11+00:00" itemprop="datePublished">Dec 9, 2022
+      </time></p>
+  </header>
+
+  <div class="post-content e-content" itemprop="articleBody">
+    <p>First posted 2022-12-09</p>
+
+<p>I have a big list of books read. However, this list for the majority of its exsistence was haphazard and not well curated. Its metadata elements were not thought out, and most of it used to be just a title of the book read. Slowly, the documentation got better, I started including the author, the year, the publishing, and so on. Finally, in 2022 Feb, I started doing systematic documentation, with title, year, edition, creator, editors/translators, publisher, and date that I finished reading the book. Although still not incomplete (because I did not include days spent reading, but that’s ok because I will just use the time between books as ‘days spent reading’), it is a much better system of documentation than the olden days where I just wrote “Odyssey”.</p>
+
+<p>So in the style of Spotify Wrapped, Youtube Rewind, and others, I slowly input a CSV chart with this year’s read books. Then, using skills learned from LIS 572, taught by Melanie Walsh, I did some basic data science with R. Here are the results.</p>
+
+<p>First, the dataset: <a href="/assets/BooksReadAllTimeDataset2022.csv">2022 Books Rewind Dataset CSV</a>
+RStudio: <a href="/assets/2022booksrewind.R">2022 Books Rewind RStudio</a></p>
+
+<p>Since the LCSH is very extensive and I didn’t want to spend even more time looking for the right fit, I split the ‘about’ metadata into two main column variables: genre <em>qua</em> subject, and genre <em>qua</em> form (type). This is for the viewers, because my own inside my head classification scheme may be a bit weird. In any case, I have included my own simplified mental genre scheme as well.</p>
+
+<p>The number of pages read are gotten from each book’s total pages from google books. I tried to find the most accurate edition relative to mine. The page number is obviously not normalized for font size and spacing and book size. That would be impossible. They are simply a reflection of what the physical book says. It is likely that the total pages read should be lessened by 20%, given the fact that many of the books have indexes, title pages, and other miscellenia.</p>
+
+<p>Pages per day is meant to simply be a general reflection of how fast I read that book.</p>
+
+<h3 id="quick-facts">Quick Facts</h3>
+<p>Time frame of Dataset: 2022 Feb 08 to 2022 Dec 09 <br />
+Total days: 304 days</p>
+
+<p>Total books read: 51 <br />
+Total pages read: 17,949 <br />
+Average pages read per day: 59 <br />
+Average page count per book: 350</p>
+
+<p>Shortest book: 124 pages<br />
+Longest book: 1184 pages</p>
+
+<p>First, let’s take a look at the number of books read per month. Figure 1:</p>
+
+<p><img src="/assets/BRATbooksreadpermonth2022feb2022december.jpeg" alt="Books read per month" /></p>
+
+<p>The next figure below shows the number of pages read per month. Figure 2:</p>
+
+<p><img src="/assets/BRATpagesreadpermonth2022feb2022december.jpeg" alt="Pages read per month" /></p>
+
+<p>From Figure 1 and 2 we can see some trends. Let me explain. <br />
+In March, there is a big slowdown in reading. This is due to the fact that the war in Ukraine started in late Feburary, and I spent the majority of my time being anxiety ridden and following the war very closely. During that spring break I also spent a lot of time playing the newly released Elden Ring. A series of anxiety and distraction. <br />
+In May the reading spikes greatly, I think due to the fact that I had mostly finished most of my projects early, due to a special event I had to attend, so I was just coasting. 
+Reading is middling during the summer due to some other things I had to do which I didn’t want to do. But I was in a muddle and I was lying to myself and others. So being in such a muddle, as Old Man Emerson says to Lucy, one gets nothing done and wallows in self pity and lost time. Still, it wasn’t a totally abysmal amount of reading.<br />
+September is when the reading drops again dramatically because I spent most of that month backpacking. It was great. 
+October and November spike greatly because my classes for this semester were not only fun, but also lighter on work compared to previous classes. Taking those classes was highly enjoyable.</p>
+
+<p>The third figure shows the number of books read per Genres-Subjects. Figure 3:</p>
+
+<p><img src="/assets/BRATbooksreadpersubjectgenre2022feb2022dec.jpeg" alt="Books per genre subject" /></p>
+
+<p>The fourth figure shows the number of books read per William’s internal simplified classification scheme. Figure 4:</p>
+
+<p><img src="/assets/BRATwilliamgenres.jpeg" alt="William's internal classification" /></p>
+
+<p>As you can see, the vast majority of books read have to do with ‘history’. And even some of the ‘skill’ books, and ‘what is to be done’ books, have their basis in history or deal with historical situations. For example, it can be said that Herman Khan’s “On Thermonuclear War” is as much a ‘skill’ book on the strategy and tactics of nuclear war, as it is a history on nuclear development and thought. But since it is different enough from most of the other history books, it is classified as a ‘skill’ book in my mental scheme.</p>
+
+<p>You will also notice a bunch of comic books near the bottom of the dataset. This is due to the reccomendation of E, who showed me the world of Frank. From Frank, I then looked at the publisher and found Fantagraphic Books, a small, dedicated comic/graphic novel publishing company in Georgetown, South Seattle area. From that company I looked at other titles and started exploring the world of comic books, for lack of a better term.</p>
+
+
+  </div><a class="u-url" href="/2022/12/09/Books-Read-Wrapped.html" hidden></a>
+</article>
+
+      </div>
+    </main><footer class="site-footer h-card">
+  <data class="u-url" href="/"></data>
+
+  <div class="wrapper">
+
+    <h2 class="footer-heading">Bibliothēca Williamae</h2>
+
+    <div class="footer-col-wrapper">
+      <div class="footer-col footer-col-1">
+        <ul class="contact-list">
+          <li class="p-name">Bibliothēca Williamae</li></ul>
+      </div>
+
+      <div class="footer-col footer-col-2"><ul class="social-media-list"><li><a href="https://github.com/william6542"><svg class="svg-icon"><use xlink:href="/assets/minima-social-icons.svg#github"></use></svg> <span class="username">william6542</span></a></li></ul>
+</div>
+
+      <div class="footer-col footer-col-3">
+        <p>William&#39;s digital library. </p>
+      </div>
+    </div>
+
+  </div>
+
+</footer>
+</body>
+
+</html>
